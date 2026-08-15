@@ -1,9 +1,10 @@
-name: Deploy preview
+name: Deploy GitHub Pages
 
 on:
   push:
     branches:
       - main
+      - cursor/ai-compass-3787
   workflow_dispatch:
 
 permissions:
@@ -23,8 +24,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Stage static app
-        run: touch app/.nojekyll
+      - name: Prepare static site
+        run: |
+          touch app/.nojekyll
+          cp app/index.html app/404.html
+      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: app
