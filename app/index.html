@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Compass</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="root">
+      <aside class="rail">
+        <a class="brand" href="#/" title="AI Compass">AC</a>
+        <nav>
+          <a href="#/" data-nav="map" title="Map">🌍</a>
+          <a href="#/companies" data-nav="companies" title="Companies">🏢</a>
+          <a href="#/models" data-nav="models" title="Models">▣</a>
+          <a href="#/founders" data-nav="founders" title="Founders">👤</a>
+          <a href="#/timeline" data-nav="timeline" title="Timeline">⌛</a>
+          <a href="#/compare" data-nav="compare" title="Compare">⇄</a>
+          <a href="#/news" data-nav="news" title="News">📰</a>
+          <a href="#/research" data-nav="research" title="Research">✶</a>
+        </nav>
+      </aside>
+      <div class="main">
+        <header class="topbar">
+          <div>
+            <div class="kicker">AI Compass</div>
+            <div class="sub">Frontier intelligence graph</div>
+          </div>
+          <button id="search-open" class="search-btn" type="button">
+            Search companies, models, people
+            <kbd>/</kbd>
+          </button>
+          <div class="header-stats" id="header-stats"></div>
+        </header>
+        <div id="view" class="view"></div>
+      </div>
+    </div>
+
+    <div id="search-modal" class="modal hidden">
+      <div class="modal-card search-card">
+        <input id="search-input" type="search" placeholder="Companies, models, founders, countries, products…" />
+        <div id="search-results"></div>
+      </div>
+    </div>
+
+    <div id="event-modal" class="modal hidden">
+      <div class="modal-card" id="event-modal-body"></div>
+    </div>
+
+    <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

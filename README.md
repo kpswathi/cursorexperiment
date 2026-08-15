@@ -1,95 +1,36 @@
 # AI Compass
 
-An interactive intelligence platform for the global frontier-AI ecosystem — closer to a Bloomberg terminal or CB Insights than a company directory.
+Interactive intelligence map of frontier AI labs, models, founders, funding and launches.
 
-The first release maps labs, foundation models, founders, funding, research groups and launches across the United States, Europe, China and India (with the schema already open for the Middle East, Japan, Korea, Southeast Asia and Latin America).
+**You do not need npm, Node, or any installer.** The runnable product is a static website in `app/`.
 
-Everything runs in the browser from local JSON. There is no backend, database, Firebase, Supabase, or paid model API.
+## Open the app
 
-## Stack
-
-- React 19 + TypeScript + Vite
-- Tailwind CSS
-- MapLibre GL JS
-- React Router
-- Fuse.js
-- Framer Motion
-- Python ingest scripts (RSS, official blogs, GitHub Releases, Hugging Face)
-
-## Quick start
+From this folder, in a terminal:
 
 ```bash
-npm install
-python3 scripts/seed.py
-python3 scripts/generate_index.py
-npm run dev
+python3 scripts/export_app.py
+python3 serve.py
 ```
 
-Production build:
+Then open **http://127.0.0.1:8000** in your browser.
 
-```bash
-npm run build
-npm run preview
-```
+`export_app.py` only needs to be run when JSON data changes. After that, `python3 serve.py` is enough.
 
-## How the data layer works
+If port 8000 is busy: `python3 serve.py --port 8080`
 
-Normalized JSON lives at the repo root, not in one blob:
+## What you get
 
-```
-data/
-  companies/     one file per lab
-  models/        one file per foundation model
-  founders/      one file per person
-  countries/     ISO countries + regions.json
-  news/          editorial items + news/generated/
-  funding/       rounds
-  benchmarks/    definitions + scores.json
-  research/      areas and labs
-  index.json     catalog the UI loads first
-```
+- World map of labs (country shading + clustered markers)
+- Company, model and founder dossiers
+- Search (`/` or the search bar)
+- Filters and compare (up to four labs)
+- Timelines and news
 
-IDs are the joins. A company points at `founderIds` and `latestModelId`. A model points at `companyId` and `previousModelId`. Funding and news point at companies (and optionally models). Adding a 17th company does not require a React change:
+Data lives in `data/` as normalized JSON. The browser reads `app/data.js`, which Python generates from those files.
 
-1. Add `data/companies/<id>.json` (and any new models/founders/funding/news).
-2. Run `python3 scripts/generate_index.py`.
-3. The map, search, filters and compare views pick it up.
+Map tiles and fonts load from the public internet (OpenFreeMap + Google Fonts). Everything else is local.
 
-`scripts/validate.py` checks that those IDs actually exist.
+## Optional: React/Vite source
 
-Figures in the seed set are compiled from public reporting and labeled with as-of dates where we have them. They are for exploration, not an official cap table.
-
-## Automatic updates
-
-`scripts/update.py` reads `scripts/sources.yaml` and writes **new** files under `data/news/generated/` from:
-
-- official RSS feeds
-- official blog index pages (when RSS is missing)
-- GitHub Releases
-- Hugging Face model listings
-
-It never calls OpenAI, Gemini, or other paid APIs. The frontend only fetches JSON.
-
-GitHub Actions workflow: `.github/workflows/update-data.yml` (daily + `workflow_dispatch`). Enable it when you want scheduled refreshes.
-
-```bash
-pip install -r scripts/requirements.txt
-python3 scripts/update.py
-```
-
-## UI
-
-- Interactive world map, country choropleth by AI activity, clustered company markers
-- Region presets: North America, Europe, China, India
-- Company / model / founder dossiers, timelines, compare (up to four labs)
-- Global search (`⌘K`) across companies, models, founders, countries, products and news
-- Filters for region, country, company, model family, capabilities, open/closed, consumer/enterprise
-
-## Scripts
-
-| Command | Purpose |
-| --- | --- |
-| `npm run data:seed` | Rewrite the editorial seed JSON + index |
-| `npm run data:index` | Rebuild `data/index.json` only |
-| `npm run data:update` | Ingest public feeds, then rebuild the index |
-| `npm run data:validate` | Referential integrity |
+`src/` is the same product as a React app for contributors who already have Node. It is **not required** to use AI Compass.

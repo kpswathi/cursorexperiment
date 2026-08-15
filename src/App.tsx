@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react'
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { HashRouter, Navigate, Route, Routes } from 'react-router-dom'
 import { DataProvider } from '@/context/DataProvider'
 import { FilterProvider } from '@/context/FilterProvider'
 import { CompareProvider } from '@/context/CompareProvider'
@@ -28,7 +28,7 @@ function Fallback() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <DataProvider>
         <CompareProvider>
           <FilterProvider>
@@ -54,6 +54,6 @@ export default function App() {
           </FilterProvider>
         </CompareProvider>
       </DataProvider>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
