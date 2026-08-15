@@ -1,0 +1,26 @@
+{
+  "id": "qwen-2",
+  "name": "Qwen2",
+  "slug": "qwen-2",
+  "companyId": "alibaba-qwen",
+  "releaseDate": "2024-06-06",
+  "family": "Qwen",
+  "previousModelId": "qwen-1",
+  "description": "Open-weight Qwen upgrade.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 4,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 0
+  },
+  "contextWindow": 131072,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Stronger multilingual and coder variants.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://qwenlm.github.io/blog/qwen2/"
+}

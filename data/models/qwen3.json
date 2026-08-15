@@ -1,0 +1,29 @@
+{
+  "id": "qwen3",
+  "name": "Qwen3",
+  "slug": "qwen3",
+  "companyId": "alibaba-qwen",
+  "releaseDate": "2025-04-29",
+  "family": "Qwen",
+  "previousModelId": "qwen-2-5",
+  "description": "Hybrid thinking Qwen generation.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 5,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 4
+  },
+  "contextWindow": 131072,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Think / non-think hybrid and denser open lineup versus Qwen2.5.",
+  "benchmarkScoreIds": [
+    "qwen3-gpqa",
+    "qwen3-aime"
+  ],
+  "announcementUrl": "https://qwenlm.github.io/blog/qwen3/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cohere-command-a",
+  "title": "Cohere announces Command A",
+  "date": "2025-03-13",
+  "summary": "Command A is Cohere's latest enterprise generative model.",
+  "url": "https://cohere.com/blog/command-a",
+  "source": "Cohere",
+  "companyIds": [
+    "cohere"
+  ],
+  "modelIds": [
+    "command-a"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

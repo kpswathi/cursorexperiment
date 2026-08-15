@@ -1,0 +1,141 @@
+{
+  "id": "google-deepmind",
+  "name": "Google DeepMind",
+  "slug": "google-deepmind",
+  "logo": "/logos/google-deepmind.svg",
+  "description": "London-born Google lab behind Gemini, AlphaFold, AlphaGo and scientific AI.",
+  "longDescription": "DeepMind was founded in London in 2010, acquired by Google in 2014, and merged with Google Brain in 2023 as Google DeepMind. It is both a frontier-model org (Gemini) and a scientific lab (AlphaFold, AlphaZero, weather and materials). Headquarters remain in London with large research sites in Mountain View.",
+  "headquarters": "London, United Kingdom",
+  "city": "London",
+  "countryId": "GB",
+  "regionId": "europe",
+  "coordinates": {
+    "lng": -0.1276,
+    "lat": 51.5074
+  },
+  "founderIds": [
+    "demis-hassabis",
+    "shane-legg"
+  ],
+  "ceoId": "demis-hassabis",
+  "founded": "2010-09-01",
+  "employees": 3000,
+  "employeesAsOf": "2026-01",
+  "totalFundingUsd": null,
+  "valuationUsd": null,
+  "revenueUsd": null,
+  "investors": [
+    "Google",
+    "Alphabet"
+  ],
+  "website": "https://deepmind.google",
+  "blogUrl": "https://deepmind.google/discover/blog/",
+  "rssUrl": "https://deepmind.google/blog/rss.xml",
+  "githubOrg": "google-deepmind",
+  "huggingFaceOrg": "google",
+  "consumerProducts": [
+    {
+      "id": "gemini-app",
+      "name": "Gemini",
+      "description": "Google consumer assistant across Search, Android and the Gemini app.",
+      "url": "https://gemini.google.com",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "vertex-gemini",
+      "name": "Vertex AI Gemini",
+      "description": "Enterprise Gemini, embeddings and agents on Google Cloud.",
+      "kind": "enterprise"
+    },
+    {
+      "id": "alphafold",
+      "name": "AlphaFold",
+      "description": "Protein structure prediction used across life sciences.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "science",
+    "reasoning",
+    "multimodal",
+    "agents",
+    "safety"
+  ],
+  "latestModelId": "gemini-2-5-pro",
+  "latestNewsId": "deepmind-gemini-2-5",
+  "tags": [
+    "frontier",
+    "closed",
+    "consumer",
+    "enterprise",
+    "science"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#4285f4",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "dm-founded",
+      "date": "2010-09-01",
+      "title": "Founded",
+      "description": "DeepMind launched in London.",
+      "type": "founded",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "dm-google",
+      "date": "2014-01-26",
+      "title": "Acquired by Google",
+      "description": "Became Google's principal AGI lab.",
+      "type": "milestone",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "dm-alphago",
+      "date": "2016-03-15",
+      "title": "AlphaGo",
+      "description": "Defeated Lee Sedol in Go.",
+      "type": "research",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "dm-alphafold",
+      "date": "2020-11-30",
+      "title": "AlphaFold 2",
+      "description": "Solved protein structure prediction at scale.",
+      "type": "research",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "dm-merge",
+      "date": "2023-04-20",
+      "title": "Google DeepMind",
+      "description": "Merged with Google Brain under Demis Hassabis.",
+      "type": "leadership",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "dm-gemini",
+      "date": "2023-12-06",
+      "title": "Gemini 1",
+      "description": "First Gemini flagship.",
+      "type": "model",
+      "companyId": "google-deepmind",
+      "modelId": "gemini-1"
+    },
+    {
+      "id": "dm-gemini-25",
+      "date": "2025-03-25",
+      "title": "Gemini 2.5 Pro",
+      "description": "Current public reasoning-centric flagship.",
+      "type": "model",
+      "companyId": "google-deepmind",
+      "modelId": "gemini-2-5-pro"
+    }
+  ]
+}

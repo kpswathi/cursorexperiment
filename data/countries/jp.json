@@ -1,0 +1,15 @@
+{
+  "id": "JP",
+  "name": "Japan",
+  "iso3": "JPN",
+  "regionId": "japan",
+  "coordinates": {
+    "lng": 139.7,
+    "lat": 35.7
+  },
+  "description": "Reserved for future coverage.",
+  "enabled": false,
+  "activityScore": 0,
+  "companyCount": 0,
+  "modelCount": 0
+}

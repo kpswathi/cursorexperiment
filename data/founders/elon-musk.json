@@ -1,0 +1,46 @@
+{
+  "id": "elon-musk",
+  "name": "Elon Musk",
+  "slug": "elon-musk",
+  "photo": "/avatars/elon-musk.svg",
+  "title": "CEO, xAI",
+  "biography": "OpenAI co-founder who later departed and created xAI in 2023 to build Grok and a large Memphis training cluster branded Colossus. Also leads Tesla, SpaceX and x.com.",
+  "companyIds": [
+    "xai",
+    "openai"
+  ],
+  "previousCompanies": [
+    {
+      "name": "PayPal",
+      "role": "Co-founder"
+    },
+    {
+      "name": "OpenAI",
+      "role": "Co-founder",
+      "years": "2015–2018"
+    }
+  ],
+  "researchContributions": [
+    "xAI / Grok product direction",
+    "Colossus training cluster"
+  ],
+  "timeline": [
+    {
+      "id": "elon-openai",
+      "date": "2015-12-11",
+      "title": "Co-founded OpenAI",
+      "description": "Early backer and board member.",
+      "type": "founded",
+      "companyId": "openai"
+    },
+    {
+      "id": "elon-xai",
+      "date": "2023-07-12",
+      "title": "Founded xAI",
+      "description": "Launched a new frontier lab.",
+      "type": "founded",
+      "companyId": "xai"
+    }
+  ],
+  "countryId": "US"
+}

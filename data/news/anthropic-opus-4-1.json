@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-opus-4-1",
+  "title": "Anthropic ships Claude Opus 4.1",
+  "date": "2025-08-05",
+  "summary": "Opus 4.1 improves coding and research-agent performance on the Claude 4 family.",
+  "url": "https://www.anthropic.com/news/claude-opus-4-1",
+  "source": "Anthropic",
+  "companyIds": [
+    "anthropic"
+  ],
+  "modelIds": [
+    "claude-opus-4-1"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

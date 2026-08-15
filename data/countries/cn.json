@@ -1,0 +1,15 @@
+{
+  "id": "CN",
+  "name": "China",
+  "iso3": "CHN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 104.2,
+    "lat": 35.5
+  },
+  "description": "A parallel frontier ecosystem spanning Hangzhou, Beijing and Shanghai.",
+  "enabled": true,
+  "activityScore": 160,
+  "companyCount": 6,
+  "modelCount": 16
+}

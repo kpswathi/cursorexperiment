@@ -1,0 +1,16 @@
+{
+  "id": "minimax-m1",
+  "title": "MiniMax-M1 open-weight reasoning model",
+  "date": "2025-06-17",
+  "summary": "Shanghai lab releases a long-context reasoning model alongside Hailuo video.",
+  "url": "https://www.minimax.io",
+  "source": "MiniMax",
+  "companyIds": [
+    "minimax"
+  ],
+  "modelIds": [
+    "minimax-m1"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

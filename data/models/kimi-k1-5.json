@@ -1,0 +1,26 @@
+{
+  "id": "kimi-k1-5",
+  "name": "Kimi k1.5",
+  "slug": "kimi-k1-5",
+  "companyId": "moonshot",
+  "releaseDate": "2025-01-20",
+  "family": "Kimi",
+  "previousModelId": null,
+  "description": "Multimodal reasoning Kimi model.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 3,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 3
+  },
+  "contextWindow": 200000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "RL reasoning plus strong vision on the Kimi product.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://www.moonshot.cn"
+}

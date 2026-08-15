@@ -1,0 +1,54 @@
+{
+  "id": "sam-altman",
+  "name": "Sam Altman",
+  "slug": "sam-altman",
+  "photo": "/avatars/sam-altman.svg",
+  "title": "CEO, OpenAI",
+  "biography": "Entrepreneur and investor who led Y Combinator before becoming chief executive of OpenAI. Publicly associated with the commercialization of ChatGPT and the company's shift from a nonprofit research lab to a capped-profit frontier lab.",
+  "companyIds": [
+    "openai"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Loopt",
+      "role": "Co-founder & CEO",
+      "years": "2005–2012"
+    },
+    {
+      "name": "Y Combinator",
+      "role": "President",
+      "years": "2014–2019"
+    }
+  ],
+  "researchContributions": [
+    "Scaled deployment of conversational frontier models",
+    "Public advocacy for compute governance and safety regulation"
+  ],
+  "timeline": [
+    {
+      "id": "sam-altman-yc",
+      "date": "2014-02-01",
+      "title": "President of Y Combinator",
+      "description": "Took over leadership of the seed accelerator.",
+      "type": "leadership"
+    },
+    {
+      "id": "sam-altman-openai",
+      "date": "2019-03-01",
+      "title": "Became OpenAI CEO",
+      "description": "Moved from chairman to chief executive as GPT-2 era research accelerated.",
+      "type": "leadership",
+      "companyId": "openai"
+    },
+    {
+      "id": "sam-altman-chatgpt",
+      "date": "2022-11-30",
+      "title": "ChatGPT launch",
+      "description": "Consumer release that defined the modern AI product cycle.",
+      "type": "product",
+      "companyId": "openai"
+    }
+  ],
+  "countryId": "US",
+  "website": "https://blog.samaltman.com"
+}

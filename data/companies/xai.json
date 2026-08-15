@@ -1,0 +1,121 @@
+{
+  "id": "xai",
+  "name": "xAI",
+  "slug": "xai",
+  "logo": "/logos/xai.svg",
+  "description": "Elon Musk's frontier lab behind Grok, the xAI API and the Colossus cluster.",
+  "longDescription": "xAI was founded in 2023 and shipped Grok as a product tightly coupled to X. The company is defined as much by infrastructure — the Memphis Colossus cluster — as by model releases. Grok competes on reasoning, real-time knowledge and a less filtered product voice.",
+  "headquarters": "Palo Alto, California",
+  "city": "Palo Alto",
+  "countryId": "US",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -122.161,
+    "lat": 37.445
+  },
+  "founderIds": [
+    "elon-musk"
+  ],
+  "ceoId": "elon-musk",
+  "founded": "2023-07-12",
+  "employees": 1800,
+  "employeesAsOf": "2026-04",
+  "totalFundingUsd": 12000000000,
+  "valuationUsd": 50000000000,
+  "valuationAsOf": "2025-11",
+  "revenueUsd": null,
+  "investors": [
+    "Elon Musk",
+    "Valor Equity",
+    "Andreessen Horowitz",
+    "Sequoia",
+    "Kingdom of Saudi Arabia"
+  ],
+  "website": "https://x.ai",
+  "blogUrl": "https://x.ai/news",
+  "githubOrg": "xai-org",
+  "huggingFaceOrg": "xai-org",
+  "consumerProducts": [
+    {
+      "id": "grok",
+      "name": "Grok",
+      "description": "Assistant distributed through X and grok.com.",
+      "url": "https://grok.com",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "xai-api",
+      "name": "xAI API",
+      "description": "Grok models for third-party developers.",
+      "url": "https://x.ai/api",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "reasoning",
+    "multimodal",
+    "infrastructure",
+    "agents"
+  ],
+  "latestModelId": "grok-4",
+  "latestNewsId": "xai-grok-4",
+  "tags": [
+    "frontier",
+    "closed",
+    "consumer",
+    "api"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#e8eaed",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "xai-founded",
+      "date": "2023-07-12",
+      "title": "Founded",
+      "description": "Elon Musk launched xAI.",
+      "type": "founded",
+      "companyId": "xai"
+    },
+    {
+      "id": "xai-grok",
+      "date": "2023-11-04",
+      "title": "Grok 1",
+      "description": "First Grok model released on X.",
+      "type": "model",
+      "companyId": "xai",
+      "modelId": "grok-1"
+    },
+    {
+      "id": "xai-colossus",
+      "date": "2024-09-01",
+      "title": "Colossus",
+      "description": "Memphis training cluster came online.",
+      "type": "milestone",
+      "companyId": "xai"
+    },
+    {
+      "id": "xai-grok-3",
+      "date": "2025-02-17",
+      "title": "Grok 3",
+      "description": "Major reasoning and product upgrade.",
+      "type": "model",
+      "companyId": "xai",
+      "modelId": "grok-3"
+    },
+    {
+      "id": "xai-grok-4",
+      "date": "2025-07-10",
+      "title": "Grok 4",
+      "description": "Latest public flagship.",
+      "type": "model",
+      "companyId": "xai",
+      "modelId": "grok-4"
+    }
+  ]
+}

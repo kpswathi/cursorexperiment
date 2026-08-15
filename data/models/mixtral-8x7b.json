@@ -1,0 +1,26 @@
+{
+  "id": "mixtral-8x7b",
+  "name": "Mixtral 8x7B",
+  "slug": "mixtral-8x7b",
+  "companyId": "mistral",
+  "releaseDate": "2023-12-11",
+  "family": "Mixtral",
+  "previousModelId": "mistral-7b",
+  "description": "Sparse MoE that became a default open model.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 4,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 3,
+    "agentSupport": 0
+  },
+  "contextWindow": 32000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Sparse MoE with 13B active parameters and 32K context.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://mistral.ai/news/mixtral-of-experts/"
+}

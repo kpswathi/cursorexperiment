@@ -1,0 +1,16 @@
+{
+  "id": "ai21-c",
+  "companyId": "ai21",
+  "date": "2023-08-22",
+  "round": "Series C",
+  "amountUsd": 155000000,
+  "valuationUsd": 1400000000,
+  "investors": [
+    "Google",
+    "NVIDIA",
+    "Pitango"
+  ],
+  "leadInvestors": [
+    "Google"
+  ]
+}

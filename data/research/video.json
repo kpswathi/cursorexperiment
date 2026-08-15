@@ -1,0 +1,5 @@
+{
+  "id": "video",
+  "name": "Video generation",
+  "description": "Native video understanding and synthesis."
+}

@@ -1,0 +1,5 @@
+{
+  "id": "efficiency",
+  "name": "Efficiency",
+  "description": "Training and inference efficiency at frontier scale."
+}

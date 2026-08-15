@@ -1,0 +1,28 @@
+{
+  "id": "glm-4-5",
+  "name": "GLM-4.5",
+  "slug": "glm-4-5",
+  "companyId": "zhipu",
+  "releaseDate": "2025-07-28",
+  "family": "GLM",
+  "previousModelId": "glm-4",
+  "description": "Latest GLM-class release.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 4
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Open-weight MoE with stronger coding and agents versus GLM-4.",
+  "benchmarkScoreIds": [
+    "glm45-swe"
+  ],
+  "announcementUrl": "https://zhipuai.cn"
+}

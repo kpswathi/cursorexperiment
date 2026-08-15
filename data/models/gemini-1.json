@@ -1,0 +1,26 @@
+{
+  "id": "gemini-1",
+  "name": "Gemini 1",
+  "slug": "gemini-1",
+  "companyId": "google-deepmind",
+  "releaseDate": "2023-12-06",
+  "family": "Gemini",
+  "previousModelId": null,
+  "description": "First Gemini flagship after the Brain / DeepMind merger.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 4,
+    "audio": 3,
+    "video": 3,
+    "imageGeneration": 0,
+    "longContext": 3,
+    "agentSupport": 2
+  },
+  "contextWindow": 32000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Natively multimodal from the start versus bolted-on PaLM vision.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://deepmind.google/technologies/gemini/"
+}

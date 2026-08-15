@@ -1,0 +1,39 @@
+{
+  "id": "aidan-gomez",
+  "name": "Aidan Gomez",
+  "slug": "aidan-gomez",
+  "photo": "/avatars/aidan-gomez.svg",
+  "title": "CEO, Cohere",
+  "biography": "Co-author of Attention Is All You Need. Founded Cohere in Toronto to sell enterprise language models, retrieval and agents rather than a consumer chatbot.",
+  "companyIds": [
+    "cohere"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Google Brain",
+      "role": "Researcher"
+    }
+  ],
+  "researchContributions": [
+    "Transformer paper",
+    "Command / Aya model families"
+  ],
+  "timeline": [
+    {
+      "id": "aidan-attention",
+      "date": "2017-06-12",
+      "title": "Attention Is All You Need",
+      "description": "Co-authored the Transformer paper.",
+      "type": "research"
+    },
+    {
+      "id": "aidan-cohere",
+      "date": "2019-01-01",
+      "title": "Founded Cohere",
+      "description": "Started an enterprise LLM company in Toronto.",
+      "type": "founded",
+      "companyId": "cohere"
+    }
+  ],
+  "countryId": "CA"
+}

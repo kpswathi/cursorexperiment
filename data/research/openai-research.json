@@ -1,0 +1,15 @@
+{
+  "id": "openai-research",
+  "name": "OpenAI Research",
+  "companyId": "openai",
+  "countryId": "US",
+  "city": "San Francisco",
+  "description": "Core research org for GPT, Sora, alignment and agents.",
+  "focusAreaIds": [
+    "alignment",
+    "reasoning",
+    "multimodal",
+    "agents"
+  ],
+  "url": "https://openai.com/research/"
+}

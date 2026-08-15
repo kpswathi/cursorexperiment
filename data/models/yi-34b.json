@@ -1,0 +1,26 @@
+{
+  "id": "yi-34b",
+  "name": "Yi-34B",
+  "slug": "yi-34b",
+  "companyId": "01ai",
+  "releaseDate": "2023-11-02",
+  "family": "Yi",
+  "previousModelId": null,
+  "description": "First widely used Yi open-weight model.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 3,
+    "agentSupport": 0
+  },
+  "contextWindow": 200000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Strong bilingual 34B with very long context for its time.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://01.ai"
+}

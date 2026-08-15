@@ -1,0 +1,28 @@
+{
+  "id": "yi-lightning",
+  "name": "Yi-Lightning",
+  "slug": "yi-lightning",
+  "companyId": "01ai",
+  "releaseDate": "2024-10-16",
+  "family": "Yi",
+  "previousModelId": "yi-34b",
+  "description": "High-efficiency commercial Yi model.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 3,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 16000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Latency/cost-focused commercial model versus the 34B open line.",
+  "benchmarkScoreIds": [
+    "yi-lightning-mmlu"
+  ],
+  "announcementUrl": "https://01.ai"
+}

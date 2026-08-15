@@ -1,0 +1,15 @@
+{
+  "id": "IN",
+  "name": "India",
+  "iso3": "IND",
+  "regionId": "india",
+  "coordinates": {
+    "lng": 78.96,
+    "lat": 20.59
+  },
+  "description": "Sovereign model labs and large-scale applied AI; companies can be added as JSON only.",
+  "enabled": true,
+  "activityScore": 0,
+  "companyCount": 0,
+  "modelCount": 0
+}

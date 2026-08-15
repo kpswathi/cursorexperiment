@@ -1,0 +1,15 @@
+{
+  "id": "anthropic-amazon-1",
+  "companyId": "anthropic",
+  "date": "2023-09-25",
+  "round": "Strategic",
+  "amountUsd": 4000000000,
+  "valuationUsd": null,
+  "investors": [
+    "Amazon"
+  ],
+  "leadInvestors": [
+    "Amazon"
+  ],
+  "notes": "AWS training and distribution partnership."
+}

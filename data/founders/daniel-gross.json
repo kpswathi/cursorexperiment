@@ -1,0 +1,36 @@
+{
+  "id": "daniel-gross",
+  "name": "Daniel Gross",
+  "slug": "daniel-gross",
+  "photo": "/avatars/daniel-gross.svg",
+  "title": "Co-founder, Safe Superintelligence",
+  "biography": "Investor and former Apple AI lead who co-founded SSI with Ilya Sutskever and Daniel Levy after a career backing frontier AI companies.",
+  "companyIds": [
+    "ssi"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Apple",
+      "role": "Director of AI"
+    },
+    {
+      "name": "Pioneer / Gross Plaza",
+      "role": "Investor"
+    }
+  ],
+  "researchContributions": [
+    "SSI organizational design",
+    "Frontier AI investing"
+  ],
+  "timeline": [
+    {
+      "id": "daniel-ssi",
+      "date": "2024-06-19",
+      "title": "Co-founded SSI",
+      "description": "Partnered with Sutskever on a safety-first ASI lab.",
+      "type": "founded",
+      "companyId": "ssi"
+    }
+  ],
+  "countryId": "US"
+}

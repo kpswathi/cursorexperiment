@@ -1,0 +1,251 @@
+[
+  {
+    "id": "gpt-4-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "gpt-4",
+    "score": 86.4,
+    "unit": "percent",
+    "date": "2023-03-14"
+  },
+  {
+    "id": "gpt-4o-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "gpt-4o",
+    "score": 88.7,
+    "unit": "percent",
+    "date": "2024-05-13"
+  },
+  {
+    "id": "gpt-5-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "gpt-5",
+    "score": 88.4,
+    "unit": "percent",
+    "date": "2025-08-07"
+  },
+  {
+    "id": "gpt-5-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "gpt-5",
+    "score": 74.9,
+    "unit": "percent",
+    "date": "2025-08-07"
+  },
+  {
+    "id": "gpt-5-5-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "gpt-5-5",
+    "score": 90.1,
+    "unit": "percent",
+    "date": "2026-03-12"
+  },
+  {
+    "id": "gpt-5-5-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "gpt-5-5",
+    "score": 79.2,
+    "unit": "percent",
+    "date": "2026-03-12"
+  },
+  {
+    "id": "claude-3-opus-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "claude-3-opus",
+    "score": 86.8,
+    "unit": "percent",
+    "date": "2024-03-04"
+  },
+  {
+    "id": "claude-opus-4-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "claude-opus-4",
+    "score": 72.5,
+    "unit": "percent",
+    "date": "2025-05-22"
+  },
+  {
+    "id": "claude-opus-4-1-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "claude-opus-4-1",
+    "score": 74.5,
+    "unit": "percent",
+    "date": "2025-08-05"
+  },
+  {
+    "id": "claude-opus-4-1-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "claude-opus-4-1",
+    "score": 87.2,
+    "unit": "percent",
+    "date": "2025-08-05"
+  },
+  {
+    "id": "gemini-25-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "gemini-2-5-pro",
+    "score": 86.4,
+    "unit": "percent",
+    "date": "2025-03-25"
+  },
+  {
+    "id": "gemini-25-aime",
+    "benchmarkId": "aime",
+    "modelId": "gemini-2-5-pro",
+    "score": 88.0,
+    "unit": "percent",
+    "date": "2025-03-25"
+  },
+  {
+    "id": "grok-3-aime",
+    "benchmarkId": "aime",
+    "modelId": "grok-3",
+    "score": 93.3,
+    "unit": "percent",
+    "date": "2025-02-17"
+  },
+  {
+    "id": "grok-4-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "grok-4",
+    "score": 87.5,
+    "unit": "percent",
+    "date": "2025-07-10"
+  },
+  {
+    "id": "llama-3-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "llama-3",
+    "score": 88.6,
+    "unit": "percent",
+    "date": "2024-07-23",
+    "notes": "405B instruct, reported."
+  },
+  {
+    "id": "llama-4-mmmu",
+    "benchmarkId": "mmmu",
+    "modelId": "llama-4-maverick",
+    "score": 73.4,
+    "unit": "percent",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "mistral-large-2-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "mistral-large-2",
+    "score": 84.0,
+    "unit": "percent",
+    "date": "2024-07-24"
+  },
+  {
+    "id": "magistral-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "magistral",
+    "score": 79.8,
+    "unit": "percent",
+    "date": "2025-06-10"
+  },
+  {
+    "id": "deepseek-v3-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "deepseek-v3",
+    "score": 88.5,
+    "unit": "percent",
+    "date": "2024-12-26"
+  },
+  {
+    "id": "deepseek-r1-aime",
+    "benchmarkId": "aime",
+    "modelId": "deepseek-r1",
+    "score": 79.8,
+    "unit": "percent",
+    "date": "2025-01-20"
+  },
+  {
+    "id": "deepseek-r1-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "deepseek-r1",
+    "score": 71.5,
+    "unit": "percent",
+    "date": "2025-01-20"
+  },
+  {
+    "id": "deepseek-v31-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "deepseek-v3-1",
+    "score": 66.0,
+    "unit": "percent",
+    "date": "2025-08-21"
+  },
+  {
+    "id": "kimi-k2-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "kimi-k2",
+    "score": 65.4,
+    "unit": "percent",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "qwen25-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "qwen-2-5",
+    "score": 86.1,
+    "unit": "percent",
+    "date": "2024-09-19"
+  },
+  {
+    "id": "qwen3-gpqa",
+    "benchmarkId": "gpqa",
+    "modelId": "qwen3",
+    "score": 73.4,
+    "unit": "percent",
+    "date": "2025-04-29"
+  },
+  {
+    "id": "qwen3-aime",
+    "benchmarkId": "aime",
+    "modelId": "qwen3",
+    "score": 81.5,
+    "unit": "percent",
+    "date": "2025-04-29"
+  },
+  {
+    "id": "glm45-swe",
+    "benchmarkId": "swe-bench",
+    "modelId": "glm-4-5",
+    "score": 64.2,
+    "unit": "percent",
+    "date": "2025-07-28"
+  },
+  {
+    "id": "yi-lightning-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "yi-lightning",
+    "score": 83.2,
+    "unit": "percent",
+    "date": "2024-10-16"
+  },
+  {
+    "id": "minimax-m1-aime",
+    "benchmarkId": "aime",
+    "modelId": "minimax-m1",
+    "score": 86.0,
+    "unit": "percent",
+    "date": "2025-06-17"
+  },
+  {
+    "id": "command-a-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "command-a",
+    "score": 85.5,
+    "unit": "percent",
+    "date": "2025-03-13"
+  },
+  {
+    "id": "jamba-15-mmlu",
+    "benchmarkId": "mmlu",
+    "modelId": "jamba-1-5",
+    "score": 80.0,
+    "unit": "percent",
+    "date": "2024-08-22"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "IL",
+  "name": "Israel",
+  "iso3": "ISR",
+  "regionId": "middle-east",
+  "coordinates": {
+    "lng": 34.78,
+    "lat": 32.09
+  },
+  "description": "Long-running NLP research converted into foundation-model companies.",
+  "enabled": true,
+  "activityScore": 61,
+  "companyCount": 1,
+  "modelCount": 3
+}

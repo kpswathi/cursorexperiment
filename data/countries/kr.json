@@ -1,0 +1,15 @@
+{
+  "id": "KR",
+  "name": "South Korea",
+  "iso3": "KOR",
+  "regionId": "korea",
+  "coordinates": {
+    "lng": 126.98,
+    "lat": 37.57
+  },
+  "description": "Reserved for future coverage.",
+  "enabled": false,
+  "activityScore": 0,
+  "companyCount": 0,
+  "modelCount": 0
+}

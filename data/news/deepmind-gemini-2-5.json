@@ -1,0 +1,16 @@
+{
+  "id": "deepmind-gemini-2-5",
+  "title": "Gemini 2.5 Pro arrives with Deep Think",
+  "date": "2025-03-25",
+  "summary": "Google DeepMind released Gemini 2.5 Pro, emphasizing thinking budgets and long context.",
+  "url": "https://deepmind.google/discover/blog/",
+  "source": "Google DeepMind",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "modelIds": [
+    "gemini-2-5-pro"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

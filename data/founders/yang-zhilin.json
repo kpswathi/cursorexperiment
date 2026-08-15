@@ -1,0 +1,37 @@
+{
+  "id": "yang-zhilin",
+  "name": "Yang Zhilin",
+  "slug": "yang-zhilin",
+  "photo": "/avatars/yang-zhilin.svg",
+  "title": "CEO, Moonshot AI",
+  "biography": "Author of Transformer-XL and XLNet. Founded Moonshot AI to build the Kimi assistant with a long-context and agent-native product thesis.",
+  "companyIds": [
+    "moonshot"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Carnegie Mellon University",
+      "role": "PhD"
+    },
+    {
+      "name": "Google Brain / Meta",
+      "role": "Researcher"
+    }
+  ],
+  "researchContributions": [
+    "Transformer-XL",
+    "XLNet",
+    "Kimi long-context assistants"
+  ],
+  "timeline": [
+    {
+      "id": "yang-moonshot",
+      "date": "2023-03-01",
+      "title": "Founded Moonshot AI",
+      "description": "Started the Kimi lab in Beijing.",
+      "type": "founded",
+      "companyId": "moonshot"
+    }
+  ],
+  "countryId": "CN"
+}

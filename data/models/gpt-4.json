@@ -1,0 +1,28 @@
+{
+  "id": "gpt-4",
+  "name": "GPT-4",
+  "slug": "gpt-4",
+  "companyId": "openai",
+  "releaseDate": "2023-03-14",
+  "family": "GPT",
+  "previousModelId": "gpt-3",
+  "description": "Multimodal flagship that defined the 2023 frontier.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 3,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Human-exam performance, vision, and much stronger reliability versus GPT-3.5.",
+  "benchmarkScoreIds": [
+    "gpt-4-mmlu"
+  ],
+  "announcementUrl": "https://openai.com/index/gpt-4-research/"
+}

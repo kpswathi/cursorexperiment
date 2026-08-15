@@ -1,0 +1,26 @@
+{
+  "id": "gpt",
+  "name": "GPT",
+  "slug": "gpt",
+  "companyId": "openai",
+  "releaseDate": "2018-06-11",
+  "family": "GPT",
+  "previousModelId": null,
+  "description": "Original generative pre-trained transformer.",
+  "capabilities": {
+    "reasoning": 2,
+    "coding": 1,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 1,
+    "agentSupport": 0
+  },
+  "contextWindow": 512,
+  "openClosed": "closed",
+  "apiAvailable": false,
+  "whatsNew": "First GPT-style unsupervised pre-training for NLP.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://openai.com/index/language-unsupervised/"
+}

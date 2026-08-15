@@ -1,0 +1,13 @@
+{
+  "id": "thudm",
+  "name": "THUDM / Zhipu",
+  "companyId": "zhipu",
+  "countryId": "CN",
+  "city": "Beijing",
+  "description": "Tsinghua knowledge-engine lab behind GLM.",
+  "focusAreaIds": [
+    "open-weights",
+    "reasoning"
+  ],
+  "url": "https://github.com/THUDM"
+}

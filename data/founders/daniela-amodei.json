@@ -1,0 +1,33 @@
+{
+  "id": "daniela-amodei",
+  "name": "Daniela Amodei",
+  "slug": "daniela-amodei",
+  "photo": "/avatars/daniela-amodei.svg",
+  "title": "President, Anthropic",
+  "biography": "OpenAI operations and safety leader who co-founded Anthropic and now runs the company as president, spanning go-to-market, policy and organizational scaling.",
+  "companyIds": [
+    "anthropic"
+  ],
+  "previousCompanies": [
+    {
+      "name": "OpenAI",
+      "role": "VP of Safety & Policy",
+      "years": "2018–2020"
+    }
+  ],
+  "researchContributions": [
+    "Safety operations at frontier scale",
+    "Policy engagement for Claude deployments"
+  ],
+  "timeline": [
+    {
+      "id": "daniela-anthropic",
+      "date": "2021-01-01",
+      "title": "Co-founded Anthropic",
+      "description": "Helped establish the lab's operating model.",
+      "type": "founded",
+      "companyId": "anthropic"
+    }
+  ],
+  "countryId": "US"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "deepseek-v3-1",
+  "title": "DeepSeek-V3.1 hybrid release",
+  "date": "2025-08-21",
+  "summary": "V3.1 unifies think and non-think modes after V3 and R1.",
+  "url": "https://api-docs.deepseek.com/news/news250821",
+  "source": "DeepSeek",
+  "companyIds": [
+    "deepseek"
+  ],
+  "modelIds": [
+    "deepseek-v3-1"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

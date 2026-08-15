@@ -1,0 +1,53 @@
+{
+  "id": "demis-hassabis",
+  "name": "Demis Hassabis",
+  "slug": "demis-hassabis",
+  "photo": "/avatars/demis-hassabis.svg",
+  "title": "CEO, Google DeepMind",
+  "biography": "Game designer turned neuroscientist who co-founded DeepMind. Led AlphaGo, AlphaFold and the unification of Google Brain and DeepMind into Google DeepMind, now the home of Gemini.",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Elixir Studios",
+      "role": "Founder"
+    },
+    {
+      "name": "University College London",
+      "role": "PhD, cognitive neuroscience"
+    }
+  ],
+  "researchContributions": [
+    "AlphaGo",
+    "AlphaFold",
+    "Gemini scientific leadership"
+  ],
+  "timeline": [
+    {
+      "id": "demis-deepmind",
+      "date": "2010-09-01",
+      "title": "Founded DeepMind",
+      "description": "Started the lab in London.",
+      "type": "founded",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "demis-alphago",
+      "date": "2016-03-15",
+      "title": "AlphaGo vs Lee Sedol",
+      "description": "Landmark result in game AI.",
+      "type": "research",
+      "companyId": "google-deepmind"
+    },
+    {
+      "id": "demis-nobel",
+      "date": "2024-10-09",
+      "title": "Nobel Prize in Chemistry",
+      "description": "Shared for protein-structure prediction with AlphaFold.",
+      "type": "research",
+      "companyId": "google-deepmind"
+    }
+  ],
+  "countryId": "GB"
+}

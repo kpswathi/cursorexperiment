@@ -1,0 +1,14 @@
+{
+  "id": "anthropic-google",
+  "companyId": "anthropic",
+  "date": "2023-10-27",
+  "round": "Strategic",
+  "amountUsd": 2000000000,
+  "valuationUsd": null,
+  "investors": [
+    "Google"
+  ],
+  "leadInvestors": [
+    "Google"
+  ]
+}

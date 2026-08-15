@@ -1,0 +1,137 @@
+[
+  {
+    "id": "north-america",
+    "name": "North America",
+    "countryIds": [
+      "US",
+      "CA"
+    ],
+    "center": {
+      "lng": -98,
+      "lat": 40
+    },
+    "zoom": 3.1,
+    "description": "Frontier labs clustered around the Bay Area, Seattle, Toronto and New York.",
+    "enabled": true
+  },
+  {
+    "id": "europe",
+    "name": "Europe",
+    "countryIds": [
+      "GB",
+      "FR",
+      "DE",
+      "NL",
+      "CH"
+    ],
+    "center": {
+      "lng": 8,
+      "lat": 50
+    },
+    "zoom": 3.6,
+    "description": "London, Paris and a growing set of continental research labs.",
+    "enabled": true
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "countryIds": [
+      "CN"
+    ],
+    "center": {
+      "lng": 104,
+      "lat": 35
+    },
+    "zoom": 3.7,
+    "description": "Hangzhou, Beijing and Shanghai foundation-model clusters.",
+    "enabled": true
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "countryIds": [
+      "IN"
+    ],
+    "center": {
+      "lng": 79,
+      "lat": 22
+    },
+    "zoom": 4.2,
+    "description": "Ready for sovereign and foundation-model labs as the dataset expands.",
+    "enabled": true
+  },
+  {
+    "id": "middle-east",
+    "name": "Middle East",
+    "countryIds": [
+      "IL",
+      "AE",
+      "SA"
+    ],
+    "center": {
+      "lng": 45,
+      "lat": 29
+    },
+    "zoom": 4.0,
+    "description": "Early coverage beginning with Israel; GCC labs can be added without schema changes.",
+    "enabled": true
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "countryIds": [
+      "JP"
+    ],
+    "center": {
+      "lng": 138,
+      "lat": 36
+    },
+    "zoom": 4.6,
+    "description": "Reserved for future coverage.",
+    "enabled": false
+  },
+  {
+    "id": "korea",
+    "name": "Korea",
+    "countryIds": [
+      "KR"
+    ],
+    "center": {
+      "lng": 127.8,
+      "lat": 36.2
+    },
+    "zoom": 5.4,
+    "description": "Reserved for future coverage.",
+    "enabled": false
+  },
+  {
+    "id": "southeast-asia",
+    "name": "Southeast Asia",
+    "countryIds": [
+      "SG",
+      "ID"
+    ],
+    "center": {
+      "lng": 110,
+      "lat": 5
+    },
+    "zoom": 3.8,
+    "description": "Reserved for future coverage.",
+    "enabled": false
+  },
+  {
+    "id": "latin-america",
+    "name": "Latin America",
+    "countryIds": [
+      "BR",
+      "MX"
+    ],
+    "center": {
+      "lng": -60,
+      "lat": -15
+    },
+    "zoom": 2.8,
+    "description": "Reserved for future coverage.",
+    "enabled": false
+  }
+]

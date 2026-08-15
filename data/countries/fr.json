@@ -1,0 +1,15 @@
+{
+  "id": "FR",
+  "name": "France",
+  "iso3": "FRA",
+  "regionId": "europe",
+  "coordinates": {
+    "lng": 2.35,
+    "lat": 48.86
+  },
+  "description": "Paris is Europe's leading open-weights and frontier-lab hub.",
+  "enabled": true,
+  "activityScore": 67,
+  "companyCount": 1,
+  "modelCount": 5
+}

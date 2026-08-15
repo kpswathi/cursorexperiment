@@ -1,0 +1,28 @@
+{
+  "id": "grok-3",
+  "name": "Grok-3",
+  "slug": "grok-3",
+  "companyId": "xai",
+  "releaseDate": "2025-02-17",
+  "family": "Grok",
+  "previousModelId": "grok-1",
+  "description": "Colossus-trained reasoning upgrade.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 131072,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Large jump in math/reasoning after Colossus came online.",
+  "benchmarkScoreIds": [
+    "grok-3-aime"
+  ],
+  "announcementUrl": "https://x.ai/news/grok-3"
+}

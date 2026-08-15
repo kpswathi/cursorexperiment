@@ -1,0 +1,32 @@
+{
+  "id": "jingren-zhou",
+  "name": "Jingren Zhou",
+  "slug": "jingren-zhou",
+  "photo": "/avatars/jingren-zhou.svg",
+  "title": "CTO, Alibaba Cloud",
+  "biography": "Alibaba Cloud CTO associated with the Qwen (Tongyi Qianwen) model family and the company's conversion of a cloud giant into a frontier-model vendor.",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Microsoft",
+      "role": "Researcher / engineer"
+    }
+  ],
+  "researchContributions": [
+    "Qwen model family",
+    "Alibaba Cloud AI infrastructure"
+  ],
+  "timeline": [
+    {
+      "id": "zhou-qwen",
+      "date": "2023-04-01",
+      "title": "Qwen launch era",
+      "description": "Alibaba entered the foundation-model race with Tongyi Qianwen.",
+      "type": "model",
+      "companyId": "alibaba-qwen"
+    }
+  ],
+  "countryId": "CN"
+}

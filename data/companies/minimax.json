@@ -1,0 +1,114 @@
+{
+  "id": "minimax",
+  "name": "MiniMax",
+  "slug": "minimax",
+  "logo": "/logos/minimax.svg",
+  "description": "Shanghai multimodal lab behind Talkie, Hailuo video and the MiniMax M1 models.",
+  "longDescription": "MiniMax is one of the more product-forward Chinese frontier labs, with viral consumer surfaces (Talkie characters, Hailuo video) and a serious model stack (abab, Speech, M1). Video and audio are first-class, not afterthoughts.",
+  "headquarters": "Shanghai, China",
+  "city": "Shanghai",
+  "countryId": "CN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 121.4737,
+    "lat": 31.2304
+  },
+  "founderIds": [
+    "yan-junjie"
+  ],
+  "ceoId": "yan-junjie",
+  "founded": "2021-12-01",
+  "employees": 800,
+  "employeesAsOf": "2025-12",
+  "totalFundingUsd": 1100000000,
+  "valuationUsd": 2500000000,
+  "valuationAsOf": "2024-03",
+  "revenueUsd": null,
+  "investors": [
+    "Alibaba",
+    "Tencent",
+    "HongShan",
+    "IDG"
+  ],
+  "website": "https://www.minimax.io",
+  "blogUrl": "https://www.minimax.io/news",
+  "githubOrg": "MiniMax-AI",
+  "huggingFaceOrg": "MiniMaxAI",
+  "consumerProducts": [
+    {
+      "id": "talkie",
+      "name": "Talkie",
+      "description": "Character / social AI app.",
+      "kind": "consumer"
+    },
+    {
+      "id": "hailuo",
+      "name": "Hailuo",
+      "description": "Text-to-video consumer product.",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "minimax-api",
+      "name": "MiniMax API",
+      "description": "Text, speech and video APIs.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "video",
+    "speech",
+    "multimodal",
+    "reasoning"
+  ],
+  "latestModelId": "minimax-m1",
+  "latestNewsId": "minimax-m1",
+  "tags": [
+    "frontier",
+    "china",
+    "video",
+    "consumer"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#ff3c00",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "minimax-founded",
+      "date": "2021-12-01",
+      "title": "Founded",
+      "description": "Shanghai multimodal lab launched.",
+      "type": "founded",
+      "companyId": "minimax"
+    },
+    {
+      "id": "minimax-talkie",
+      "date": "2023-06-01",
+      "title": "Talkie",
+      "description": "Consumer character app reached mass scale.",
+      "type": "product",
+      "companyId": "minimax"
+    },
+    {
+      "id": "minimax-hailuo",
+      "date": "2024-09-05",
+      "title": "Hailuo video",
+      "description": "Entered the text-to-video race.",
+      "type": "product",
+      "companyId": "minimax"
+    },
+    {
+      "id": "minimax-m1",
+      "date": "2025-06-17",
+      "title": "MiniMax-M1",
+      "description": "Open-weight reasoning model with long context.",
+      "type": "model",
+      "companyId": "minimax",
+      "modelId": "minimax-m1"
+    }
+  ]
+}

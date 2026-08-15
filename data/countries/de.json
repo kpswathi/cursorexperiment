@@ -1,0 +1,15 @@
+{
+  "id": "DE",
+  "name": "Germany",
+  "iso3": "DEU",
+  "regionId": "europe",
+  "coordinates": {
+    "lng": 13.4,
+    "lat": 52.5
+  },
+  "description": "Reserved for future lab coverage.",
+  "enabled": false,
+  "activityScore": 0,
+  "companyCount": 0,
+  "modelCount": 0
+}

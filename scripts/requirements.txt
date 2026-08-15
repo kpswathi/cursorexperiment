@@ -1,0 +1,5 @@
+feedparser==6.0.11
+requests==2.32.4
+PyYAML==6.0.2
+beautifulsoup4==4.13.4
+lxml==5.4.0

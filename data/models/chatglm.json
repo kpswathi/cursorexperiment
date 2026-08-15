@@ -1,0 +1,26 @@
+{
+  "id": "chatglm",
+  "name": "ChatGLM",
+  "slug": "chatglm",
+  "companyId": "zhipu",
+  "releaseDate": "2023-03-14",
+  "family": "GLM",
+  "previousModelId": null,
+  "description": "Early bilingual ChatGPT-class model in China.",
+  "capabilities": {
+    "reasoning": 2,
+    "coding": 2,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 2,
+    "agentSupport": 0
+  },
+  "contextWindow": 8192,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Bilingual GLM chat model released quickly after ChatGPT.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://github.com/THUDM/ChatGLM-6B"
+}

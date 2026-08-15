@@ -1,0 +1,26 @@
+{
+  "id": "mistral-7b",
+  "name": "Mistral 7B",
+  "slug": "mistral-7b",
+  "companyId": "mistral",
+  "releaseDate": "2023-09-27",
+  "family": "Mistral",
+  "previousModelId": null,
+  "description": "Apache-licensed 7B that punched above its size.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 2,
+    "agentSupport": 0
+  },
+  "contextWindow": 8192,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Best-in-class 7B dense model at release.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://mistral.ai/news/announcing-mistral-7b/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zhipu-glm-4-5",
+  "title": "Zhipu AI publishes GLM-4.5",
+  "date": "2025-07-28",
+  "summary": "Latest GLM-class model with stronger coding and agents.",
+  "url": "https://www.zhipuai.cn",
+  "source": "Zhipu AI",
+  "companyIds": [
+    "zhipu"
+  ],
+  "modelIds": [
+    "glm-4-5"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

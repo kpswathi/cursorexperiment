@@ -1,0 +1,28 @@
+{
+  "id": "llama-3",
+  "name": "Llama 3",
+  "slug": "llama-3",
+  "companyId": "meta",
+  "releaseDate": "2024-04-18",
+  "family": "Llama",
+  "previousModelId": "llama-2",
+  "description": "400B-class open-weight family.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Much stronger 8B/70B/405B dense models and later vision.",
+  "benchmarkScoreIds": [
+    "llama-3-mmlu"
+  ],
+  "announcementUrl": "https://ai.meta.com/blog/meta-llama-3/"
+}

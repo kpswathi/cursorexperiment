@@ -1,0 +1,32 @@
+{
+  "id": "yan-junjie",
+  "name": "Yan Junjie",
+  "slug": "yan-junjie",
+  "photo": "/avatars/yan-junjie.svg",
+  "title": "CEO, MiniMax",
+  "biography": "Computer-vision researcher and SenseTime veteran who founded MiniMax. The company is known for multimodal consumer apps (Talkie, Hailuo) plus the abab / M1 model line.",
+  "companyIds": [
+    "minimax"
+  ],
+  "previousCompanies": [
+    {
+      "name": "SenseTime",
+      "role": "Research lead"
+    }
+  ],
+  "researchContributions": [
+    "MiniMax abab models",
+    "Hailuo video generation"
+  ],
+  "timeline": [
+    {
+      "id": "yan-minimax",
+      "date": "2021-12-01",
+      "title": "Founded MiniMax",
+      "description": "Started a Shanghai multimodal lab.",
+      "type": "founded",
+      "companyId": "minimax"
+    }
+  ],
+  "countryId": "CN"
+}

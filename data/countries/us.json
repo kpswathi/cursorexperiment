@@ -1,0 +1,15 @@
+{
+  "id": "US",
+  "name": "United States",
+  "iso3": "USA",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -98.5,
+    "lat": 39.8
+  },
+  "description": "Largest concentration of frontier labs, capital and research talent.",
+  "enabled": true,
+  "activityScore": 163,
+  "companyCount": 6,
+  "modelCount": 17
+}

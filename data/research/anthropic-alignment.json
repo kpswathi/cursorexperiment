@@ -1,0 +1,13 @@
+{
+  "id": "anthropic-alignment",
+  "name": "Anthropic Alignment",
+  "companyId": "anthropic",
+  "countryId": "US",
+  "city": "San Francisco",
+  "description": "Constitutional AI, interpretability and safety evaluations.",
+  "focusAreaIds": [
+    "alignment",
+    "safety"
+  ],
+  "url": "https://www.anthropic.com/research"
+}

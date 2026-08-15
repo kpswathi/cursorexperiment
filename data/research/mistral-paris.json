@@ -1,0 +1,14 @@
+{
+  "id": "mistral-paris",
+  "name": "Mistral Research",
+  "companyId": "mistral",
+  "countryId": "FR",
+  "city": "Paris",
+  "description": "European frontier training and open-weight releases.",
+  "focusAreaIds": [
+    "open-weights",
+    "efficiency",
+    "reasoning"
+  ],
+  "url": "https://mistral.ai"
+}

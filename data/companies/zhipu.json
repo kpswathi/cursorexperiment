@@ -1,0 +1,110 @@
+{
+  "id": "zhipu",
+  "name": "Zhipu AI",
+  "slug": "zhipu",
+  "logo": "/logos/zhipu.svg",
+  "description": "Tsinghua-rooted Beijing lab behind ChatGLM, GLM-4 and the Qingyan assistant.",
+  "longDescription": "Zhipu AI (Zhipu / Knowledge Engine) commercialized Tsinghua's GLM research and became one of China's earliest ChatGPT-class vendors. The GLM family is released both as API models and as open weights, with a strong academic flavor and close ties to Tsinghua.",
+  "headquarters": "Beijing, China",
+  "city": "Beijing",
+  "countryId": "CN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 116.43,
+    "lat": 39.92
+  },
+  "founderIds": [
+    "tang-jie"
+  ],
+  "ceoId": "tang-jie",
+  "founded": "2019-06-01",
+  "employees": 1000,
+  "employeesAsOf": "2025-12",
+  "totalFundingUsd": 1500000000,
+  "valuationUsd": 3000000000,
+  "valuationAsOf": "2024-05",
+  "revenueUsd": null,
+  "investors": [
+    "Alibaba",
+    "Tencent",
+    "Prosperity7",
+    "Hillhouse"
+  ],
+  "website": "https://www.zhipuai.cn",
+  "blogUrl": "https://www.zhipuai.cn/en/",
+  "githubOrg": "THUDM",
+  "huggingFaceOrg": "THUDM",
+  "consumerProducts": [
+    {
+      "id": "qingyan",
+      "name": "Qingyan / ChatGLM",
+      "description": "Consumer GLM assistant.",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "glm-api",
+      "name": "GLM API",
+      "description": "BigModel developer platform.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "open-weights",
+    "reasoning",
+    "multimodal",
+    "code"
+  ],
+  "latestModelId": "glm-4-5",
+  "latestNewsId": "zhipu-glm-4-5",
+  "tags": [
+    "frontier",
+    "open-weights",
+    "china",
+    "academic"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#1a73e8",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "zhipu-founded",
+      "date": "2019-06-01",
+      "title": "Founded",
+      "description": "Tsinghua-linked lab commercialized GLM research.",
+      "type": "founded",
+      "companyId": "zhipu"
+    },
+    {
+      "id": "zhipu-chatglm",
+      "date": "2023-03-14",
+      "title": "ChatGLM",
+      "description": "Early bilingual ChatGPT-class model in China.",
+      "type": "model",
+      "companyId": "zhipu",
+      "modelId": "chatglm"
+    },
+    {
+      "id": "zhipu-glm4",
+      "date": "2024-01-16",
+      "title": "GLM-4",
+      "description": "Flagship upgrade with agents and longer context.",
+      "type": "model",
+      "companyId": "zhipu",
+      "modelId": "glm-4"
+    },
+    {
+      "id": "zhipu-glm45",
+      "date": "2025-07-28",
+      "title": "GLM-4.5",
+      "description": "Latest GLM-class release.",
+      "type": "model",
+      "companyId": "zhipu",
+      "modelId": "glm-4-5"
+    }
+  ]
+}

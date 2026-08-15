@@ -1,0 +1,16 @@
+{
+  "id": "xai-2024",
+  "companyId": "xai",
+  "date": "2024-05-26",
+  "round": "Series B",
+  "amountUsd": 6000000000,
+  "valuationUsd": 24000000000,
+  "investors": [
+    "Valor Equity",
+    "Andreessen Horowitz",
+    "Sequoia"
+  ],
+  "leadInvestors": [
+    "Valor Equity"
+  ]
+}

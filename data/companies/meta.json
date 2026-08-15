@@ -1,0 +1,118 @@
+{
+  "id": "meta",
+  "name": "Meta",
+  "slug": "meta",
+  "legalName": "Meta Platforms, Inc.",
+  "logo": "/logos/meta.svg",
+  "description": "Menlo Park company behind Llama, Meta AI and Facebook AI Research.",
+  "longDescription": "Meta is the principal open-weights frontier lab in the United States. FAIR built much of the modern research stack; the Llama releases turned Meta into the default base-model vendor for startups and clouds. Consumer distribution runs through Instagram, WhatsApp, Facebook and the Meta AI assistant.",
+  "headquarters": "Menlo Park, California",
+  "city": "Menlo Park",
+  "countryId": "US",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -122.1817,
+    "lat": 37.453
+  },
+  "founderIds": [
+    "yann-lecun"
+  ],
+  "ceoId": null,
+  "founded": "2013-12-01",
+  "employees": 4000,
+  "employeesAsOf": "2026-01 Meta AI org estimate",
+  "totalFundingUsd": null,
+  "valuationUsd": null,
+  "revenueUsd": null,
+  "investors": [
+    "Public company"
+  ],
+  "website": "https://ai.meta.com",
+  "blogUrl": "https://ai.meta.com/blog/",
+  "rssUrl": "https://ai.meta.com/blog/rss/",
+  "githubOrg": "meta-llama",
+  "huggingFaceOrg": "meta-llama",
+  "consumerProducts": [
+    {
+      "id": "meta-ai",
+      "name": "Meta AI",
+      "description": "Assistant inside Facebook, Instagram, WhatsApp and Ray-Ban Meta.",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "llama",
+      "name": "Llama",
+      "description": "Open-weight model family used across clouds and startups.",
+      "url": "https://www.llama.com",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "open-weights",
+    "multimodal",
+    "reasoning",
+    "agents"
+  ],
+  "latestModelId": "llama-4-maverick",
+  "latestNewsId": "meta-llama-4",
+  "tags": [
+    "frontier",
+    "open-weights",
+    "consumer",
+    "enterprise"
+  ],
+  "openSource": true,
+  "closedSource": false,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#0668e1",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "meta-fair",
+      "date": "2013-12-01",
+      "title": "FAIR founded",
+      "description": "Yann LeCun created Facebook AI Research.",
+      "type": "founded",
+      "companyId": "meta"
+    },
+    {
+      "id": "meta-llama",
+      "date": "2023-02-24",
+      "title": "LLaMA",
+      "description": "First Llama weights leaked, then broadly adopted.",
+      "type": "model",
+      "companyId": "meta",
+      "modelId": "llama-1"
+    },
+    {
+      "id": "meta-llama-2",
+      "date": "2023-07-18",
+      "title": "Llama 2",
+      "description": "Officially licensed open-weight successor.",
+      "type": "model",
+      "companyId": "meta",
+      "modelId": "llama-2"
+    },
+    {
+      "id": "meta-llama-3",
+      "date": "2024-04-18",
+      "title": "Llama 3",
+      "description": "400B-class open-weight family.",
+      "type": "model",
+      "companyId": "meta",
+      "modelId": "llama-3"
+    },
+    {
+      "id": "meta-llama-4",
+      "date": "2025-04-05",
+      "title": "Llama 4",
+      "description": "Mixture-of-experts Scout and Maverick releases.",
+      "type": "model",
+      "companyId": "meta",
+      "modelId": "llama-4-maverick"
+    }
+  ]
+}

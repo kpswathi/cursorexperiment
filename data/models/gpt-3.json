@@ -1,0 +1,26 @@
+{
+  "id": "gpt-3",
+  "name": "GPT-3",
+  "slug": "gpt-3",
+  "companyId": "openai",
+  "releaseDate": "2020-05-28",
+  "family": "GPT",
+  "previousModelId": "gpt-2",
+  "description": "175B in-context learning model that created the API market.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 2,
+    "agentSupport": 0
+  },
+  "contextWindow": 2048,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Few-shot in-context learning at 175B scale.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://openai.com/index/language-models-are-few-shot-learners/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ssi-lab",
+  "name": "SSI",
+  "companyId": "ssi",
+  "countryId": "US",
+  "city": "Palo Alto",
+  "description": "Single-purpose safe superintelligence research.",
+  "focusAreaIds": [
+    "alignment",
+    "safety"
+  ],
+  "url": "https://ssi.inc"
+}

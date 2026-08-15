@@ -1,0 +1,186 @@
+{
+  "id": "openai",
+  "name": "OpenAI",
+  "slug": "openai",
+  "legalName": "OpenAI, Inc. / OpenAI OpCo",
+  "logo": "/logos/openai.svg",
+  "description": "San Francisco frontier lab behind ChatGPT, the GPT family, Sora and the OpenAI API.",
+  "longDescription": "OpenAI began as a nonprofit research lab in 2015 and became the company that turned large language models into a mass-market product. ChatGPT, the GPT API, Codex and Sora now the consumer and enterprise surfaces; research still concentrates on reasoning, agents and multimodal systems. Microsoft remains the defining commercial partner.",
+  "headquarters": "San Francisco, California",
+  "city": "San Francisco",
+  "countryId": "US",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -122.4194,
+    "lat": 37.7749
+  },
+  "founderIds": [
+    "sam-altman",
+    "greg-brockman",
+    "ilya-sutskever",
+    "elon-musk"
+  ],
+  "ceoId": "sam-altman",
+  "founded": "2015-12-11",
+  "employees": 3500,
+  "employeesAsOf": "2026-06",
+  "totalFundingUsd": 57000000000,
+  "valuationUsd": 300000000000,
+  "valuationAsOf": "2025-10",
+  "revenueUsd": 13000000000,
+  "revenueAsOf": "2026-H1 ARR estimate",
+  "investors": [
+    "Microsoft",
+    "SoftBank",
+    "Thrive Capital",
+    "Khosla Ventures",
+    "Sequoia",
+    "Tiger Global"
+  ],
+  "website": "https://openai.com",
+  "blogUrl": "https://openai.com/news/",
+  "rssUrl": "https://openai.com/news/rss.xml",
+  "githubOrg": "openai",
+  "huggingFaceOrg": "openai",
+  "consumerProducts": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "description": "Consumer and pro assistant across web, desktop and mobile.",
+      "url": "https://chatgpt.com",
+      "kind": "consumer"
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "description": "Text-to-video product.",
+      "url": "https://sora.com",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "openai-api",
+      "name": "OpenAI API",
+      "description": "GPT, o-series, embeddings and tools platform.",
+      "url": "https://platform.openai.com",
+      "kind": "enterprise"
+    },
+    {
+      "id": "chatgpt-enterprise",
+      "name": "ChatGPT Enterprise",
+      "description": "Workspace assistant with admin, security and connectors.",
+      "kind": "enterprise"
+    },
+    {
+      "id": "codex",
+      "name": "Codex",
+      "description": "Agentic software-engineering product.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "alignment",
+    "reasoning",
+    "multimodal",
+    "agents",
+    "code",
+    "safety"
+  ],
+  "latestModelId": "gpt-5-5",
+  "latestNewsId": "openai-gpt-5-5",
+  "tags": [
+    "frontier",
+    "closed",
+    "consumer",
+    "enterprise",
+    "api"
+  ],
+  "openSource": false,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#10a37f",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "openai-founded",
+      "date": "2015-12-11",
+      "title": "Founded",
+      "description": "Nonprofit research lab launched in San Francisco.",
+      "type": "founded",
+      "companyId": "openai"
+    },
+    {
+      "id": "openai-gpt",
+      "date": "2018-06-11",
+      "title": "GPT",
+      "description": "First generative pre-trained transformer paper and model.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt"
+    },
+    {
+      "id": "openai-gpt-2",
+      "date": "2019-02-14",
+      "title": "GPT-2",
+      "description": "1.5B-parameter model and staged release debate.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt-2"
+    },
+    {
+      "id": "openai-gpt-3",
+      "date": "2020-05-28",
+      "title": "GPT-3",
+      "description": "175B-parameter model and the first widely used API.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt-3"
+    },
+    {
+      "id": "openai-chatgpt",
+      "date": "2022-11-30",
+      "title": "ChatGPT",
+      "description": "Consumer assistant that created the modern AI product cycle.",
+      "type": "product",
+      "companyId": "openai"
+    },
+    {
+      "id": "openai-gpt-4",
+      "date": "2023-03-14",
+      "title": "GPT-4",
+      "description": "Multimodal flagship with large capability jump.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt-4"
+    },
+    {
+      "id": "openai-gpt-4o",
+      "date": "2024-05-13",
+      "title": "GPT-4o",
+      "description": "Omni model with native voice, vision and low latency.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt-4o"
+    },
+    {
+      "id": "openai-gpt-5",
+      "date": "2025-08-07",
+      "title": "GPT-5",
+      "description": "Unified flagship combining chat and reasoning tracks.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt-5"
+    },
+    {
+      "id": "openai-gpt-5-5",
+      "date": "2026-03-12",
+      "title": "GPT-5.5",
+      "description": "Latest public flagship with stronger agents and long-horizon coding.",
+      "type": "model",
+      "companyId": "openai",
+      "modelId": "gpt-5-5"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "mistral",
+  "name": "Mistral AI",
+  "slug": "mistral",
+  "logo": "/logos/mistral.svg",
+  "description": "Paris frontier lab shipping Mixtral, Mistral Large, Le Chat and La Plateforme.",
+  "longDescription": "Mistral is Europe's most visible foundation-model company: a small Paris lab that combined aggressive open-weight releases with a commercial API and the Le Chat assistant. The founding team came from DeepMind and Meta. The company is the clearest European answer to OpenAI and Anthropic.",
+  "headquarters": "Paris, France",
+  "city": "Paris",
+  "countryId": "FR",
+  "regionId": "europe",
+  "coordinates": {
+    "lng": 2.3522,
+    "lat": 48.8566
+  },
+  "founderIds": [
+    "arthur-mensch",
+    "guillaume-lample",
+    "timothee-lacroix"
+  ],
+  "ceoId": "arthur-mensch",
+  "founded": "2023-04-01",
+  "employees": 400,
+  "employeesAsOf": "2026-02",
+  "totalFundingUsd": 1150000000,
+  "valuationUsd": 6000000000,
+  "valuationAsOf": "2024-06",
+  "revenueUsd": null,
+  "investors": [
+    "Andreessen Horowitz",
+    "Lightspeed",
+    "General Catalyst",
+    "Microsoft",
+    "BNP Paribas"
+  ],
+  "website": "https://mistral.ai",
+  "blogUrl": "https://mistral.ai/news/",
+  "rssUrl": "https://mistral.ai/news/rss.xml",
+  "githubOrg": "mistralai",
+  "huggingFaceOrg": "mistralai",
+  "consumerProducts": [
+    {
+      "id": "le-chat",
+      "name": "Le Chat",
+      "description": "Mistral consumer assistant.",
+      "url": "https://chat.mistral.ai",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "la-plateforme",
+      "name": "La Plateforme",
+      "description": "Hosted API, fine-tuning and agents.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "open-weights",
+    "reasoning",
+    "code",
+    "multimodal",
+    "efficiency"
+  ],
+  "latestModelId": "mistral-large-2",
+  "latestNewsId": "mistral-magistral",
+  "tags": [
+    "frontier",
+    "open-weights",
+    "europe",
+    "api"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#fa520f",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "mistral-founded",
+      "date": "2023-04-01",
+      "title": "Founded",
+      "description": "Paris lab formed by ex-Meta and DeepMind researchers.",
+      "type": "founded",
+      "companyId": "mistral"
+    },
+    {
+      "id": "mistral-7b",
+      "date": "2023-09-27",
+      "title": "Mistral 7B",
+      "description": "First open-weight model that put the lab on the map.",
+      "type": "model",
+      "companyId": "mistral",
+      "modelId": "mistral-7b"
+    },
+    {
+      "id": "mistral-mixtral",
+      "date": "2023-12-11",
+      "title": "Mixtral 8x7B",
+      "description": "Sparse MoE that became a default open model.",
+      "type": "model",
+      "companyId": "mistral",
+      "modelId": "mixtral-8x7b"
+    },
+    {
+      "id": "mistral-large",
+      "date": "2024-02-26",
+      "title": "Mistral Large",
+      "description": "Closed flagship for the API.",
+      "type": "model",
+      "companyId": "mistral",
+      "modelId": "mistral-large"
+    },
+    {
+      "id": "mistral-large-2",
+      "date": "2024-07-24",
+      "title": "Mistral Large 2",
+      "description": "Current Large-class production model.",
+      "type": "model",
+      "companyId": "mistral",
+      "modelId": "mistral-large-2"
+    },
+    {
+      "id": "mistral-magistral",
+      "date": "2025-06-10",
+      "title": "Magistral",
+      "description": "Reasoning-focused family.",
+      "type": "model",
+      "companyId": "mistral",
+      "modelId": "magistral"
+    }
+  ]
+}

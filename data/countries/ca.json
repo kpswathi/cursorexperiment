@@ -1,0 +1,15 @@
+{
+  "id": "CA",
+  "name": "Canada",
+  "iso3": "CAN",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -79.4,
+    "lat": 43.7
+  },
+  "description": "Toronto and Montreal remain core nodes for enterprise LLM research.",
+  "enabled": true,
+  "activityScore": 61,
+  "companyCount": 1,
+  "modelCount": 3
+}

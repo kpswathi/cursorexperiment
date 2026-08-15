@@ -1,0 +1,16 @@
+{
+  "id": "openai-2024",
+  "companyId": "openai",
+  "date": "2024-10-02",
+  "round": "Tender / primary",
+  "amountUsd": 6600000000,
+  "valuationUsd": 157000000000,
+  "investors": [
+    "Thrive Capital",
+    "Microsoft",
+    "SoftBank"
+  ],
+  "leadInvestors": [
+    "Thrive Capital"
+  ]
+}

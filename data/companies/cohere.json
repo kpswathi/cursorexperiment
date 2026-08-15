@@ -1,0 +1,116 @@
+{
+  "id": "cohere",
+  "name": "Cohere",
+  "slug": "cohere",
+  "logo": "/logos/cohere.svg",
+  "description": "Toronto enterprise LLM company behind Command, Embed, Rerank, Aya and North.",
+  "longDescription": "Cohere was founded by Transformer co-author Aidan Gomez with an enterprise-only thesis: models, retrieval and agents for businesses rather than a consumer chat hit. Command and Aya cover closed and multilingual open-weight lines; North is the enterprise agent product.",
+  "headquarters": "Toronto, Canada",
+  "city": "Toronto",
+  "countryId": "CA",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -79.3832,
+    "lat": 43.6532
+  },
+  "founderIds": [
+    "aidan-gomez"
+  ],
+  "ceoId": "aidan-gomez",
+  "founded": "2019-01-01",
+  "employees": 500,
+  "employeesAsOf": "2025-11",
+  "totalFundingUsd": 970000000,
+  "valuationUsd": 5500000000,
+  "valuationAsOf": "2024-07",
+  "revenueUsd": null,
+  "investors": [
+    "Inovia",
+    "Index Ventures",
+    "Tiger Global",
+    "Nvidia",
+    "Salesforce Ventures"
+  ],
+  "website": "https://cohere.com",
+  "blogUrl": "https://cohere.com/blog",
+  "rssUrl": "https://cohere.com/blog/rss.xml",
+  "githubOrg": "cohere-ai",
+  "huggingFaceOrg": "CohereForAI",
+  "consumerProducts": [],
+  "enterpriseProducts": [
+    {
+      "id": "command",
+      "name": "Command",
+      "description": "Enterprise generative models.",
+      "kind": "enterprise"
+    },
+    {
+      "id": "embed",
+      "name": "Embed + Rerank",
+      "description": "Retrieval stack for enterprise search.",
+      "kind": "enterprise"
+    },
+    {
+      "id": "north",
+      "name": "North",
+      "description": "Enterprise agent platform.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "code",
+    "agents",
+    "open-weights",
+    "efficiency"
+  ],
+  "latestModelId": "command-a",
+  "latestNewsId": "cohere-command-a",
+  "tags": [
+    "enterprise",
+    "closed",
+    "north-america"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": false,
+  "enterprise": true,
+  "color": "#39594d",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "cohere-founded",
+      "date": "2019-01-01",
+      "title": "Founded",
+      "description": "Toronto lab formed by Transformer co-authors.",
+      "type": "founded",
+      "companyId": "cohere"
+    },
+    {
+      "id": "cohere-command-r",
+      "date": "2024-03-11",
+      "title": "Command R+",
+      "description": "Enterprise RAG-oriented flagship.",
+      "type": "model",
+      "companyId": "cohere",
+      "modelId": "command-r-plus"
+    },
+    {
+      "id": "cohere-aya",
+      "date": "2024-05-23",
+      "title": "Aya 23",
+      "description": "Multilingual open-weight family.",
+      "type": "model",
+      "companyId": "cohere",
+      "modelId": "aya-23"
+    },
+    {
+      "id": "cohere-command-a",
+      "date": "2025-03-13",
+      "title": "Command A",
+      "description": "Latest enterprise Command model.",
+      "type": "model",
+      "companyId": "cohere",
+      "modelId": "command-a"
+    }
+  ]
+}

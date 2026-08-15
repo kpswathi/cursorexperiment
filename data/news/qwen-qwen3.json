@@ -1,0 +1,16 @@
+{
+  "id": "qwen-qwen3",
+  "title": "Alibaba releases Qwen3",
+  "date": "2025-04-29",
+  "summary": "Qwen3 adds hybrid thinking across a wide open-weight ladder.",
+  "url": "https://qwenlm.github.io/blog/qwen3/",
+  "source": "Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [
+    "qwen3"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

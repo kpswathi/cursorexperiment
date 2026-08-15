@@ -1,0 +1,28 @@
+{
+  "id": "jamba-1-5",
+  "name": "Jamba 1.5",
+  "slug": "jamba-1-5",
+  "companyId": "ai21",
+  "releaseDate": "2024-08-22",
+  "family": "Jamba",
+  "previousModelId": "jamba",
+  "description": "Production hybrid family.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 3
+  },
+  "contextWindow": 256000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Quality and instruction-following upgrades on the Jamba hybrid stack.",
+  "benchmarkScoreIds": [
+    "jamba-15-mmlu"
+  ],
+  "announcementUrl": "https://www.ai21.com/blog/announcing-jamba-model-family"
+}
