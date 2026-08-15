@@ -1,0 +1,16 @@
+{
+  "id": "deepseek-r1-news",
+  "title": "DeepSeek-R1 shocks the cost curve",
+  "date": "2025-01-20",
+  "summary": "An open reasoning model from Hangzhou reset global expectations for training efficiency.",
+  "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+  "source": "DeepSeek",
+  "companyIds": [
+    "deepseek"
+  ],
+  "modelIds": [
+    "deepseek-r1"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

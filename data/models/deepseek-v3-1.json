@@ -1,0 +1,28 @@
+{
+  "id": "deepseek-v3-1",
+  "name": "DeepSeek-V3.1",
+  "slug": "deepseek-v3-1",
+  "companyId": "deepseek",
+  "releaseDate": "2025-08-21",
+  "family": "DeepSeek-V",
+  "previousModelId": "deepseek-r1",
+  "description": "Hybrid think / non-think successor.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 5,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 4
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Unified hybrid reasoning mode versus separate V3 and R1 SKUs.",
+  "benchmarkScoreIds": [
+    "deepseek-v31-swe"
+  ],
+  "announcementUrl": "https://api-docs.deepseek.com/news/news250821"
+}

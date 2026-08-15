@@ -1,0 +1,14 @@
+{
+  "id": "tml-lab",
+  "name": "Thinking Machines Lab",
+  "companyId": "thinking-machines",
+  "countryId": "US",
+  "city": "San Francisco",
+  "description": "Independent research lab founded by Mira Murati.",
+  "focusAreaIds": [
+    "alignment",
+    "infrastructure",
+    "reasoning"
+  ],
+  "url": "https://thinkingmachines.ai"
+}

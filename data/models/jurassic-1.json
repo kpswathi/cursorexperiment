@@ -1,0 +1,26 @@
+{
+  "id": "jurassic-1",
+  "name": "Jurassic-1",
+  "slug": "jurassic-1",
+  "companyId": "ai21",
+  "releaseDate": "2021-08-11",
+  "family": "Jurassic",
+  "previousModelId": null,
+  "description": "Early independent large language model from Tel Aviv.",
+  "capabilities": {
+    "reasoning": 2,
+    "coding": 2,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 1,
+    "agentSupport": 0
+  },
+  "contextWindow": 2048,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "One of the first non-OpenAI/Google large LMs available via API.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://www.ai21.com/blog/"
+}

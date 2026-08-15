@@ -1,0 +1,29 @@
+{
+  "id": "gpt-5",
+  "name": "GPT-5",
+  "slug": "gpt-5",
+  "companyId": "openai",
+  "releaseDate": "2025-08-07",
+  "family": "GPT",
+  "previousModelId": "gpt-4o",
+  "description": "Unified flagship combining chat and o-series reasoning.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 5,
+    "vision": 4,
+    "audio": 4,
+    "video": 3,
+    "imageGeneration": 3,
+    "longContext": 5,
+    "agentSupport": 5
+  },
+  "contextWindow": 400000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Merged reasoning and chat tracks; much stronger agentic coding and computer use.",
+  "benchmarkScoreIds": [
+    "gpt-5-gpqa",
+    "gpt-5-swe"
+  ],
+  "announcementUrl": "https://openai.com/index/introducing-gpt-5/"
+}

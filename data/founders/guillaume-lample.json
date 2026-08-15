@@ -1,0 +1,33 @@
+{
+  "id": "guillaume-lample",
+  "name": "Guillaume Lample",
+  "slug": "guillaume-lample",
+  "photo": "/avatars/guillaume-lample.svg",
+  "title": "Chief Scientist, Mistral AI",
+  "biography": "NLP researcher behind early unsupervised translation and Llama-era work at Meta before co-founding Mistral.",
+  "companyIds": [
+    "mistral"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Meta FAIR",
+      "role": "Research scientist"
+    }
+  ],
+  "researchContributions": [
+    "Unsupervised machine translation",
+    "Llama research lineage",
+    "Mixtral sparse models"
+  ],
+  "timeline": [
+    {
+      "id": "guillaume-mistral",
+      "date": "2023-04-01",
+      "title": "Co-founded Mistral AI",
+      "description": "Left Meta to start a European lab.",
+      "type": "founded",
+      "companyId": "mistral"
+    }
+  ],
+  "countryId": "FR"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tml-seed",
+  "title": "Thinking Machines Lab raises a $2B seed",
+  "date": "2025-07-15",
+  "summary": "Mira Murati's lab is capitalized at $10B before a public flagship model.",
+  "url": "https://thinkingmachines.ai",
+  "source": "Thinking Machines Lab",
+  "companyIds": [
+    "thinking-machines"
+  ],
+  "modelIds": [],
+  "sourceType": "manual",
+  "generated": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "xai-grok-4",
+  "title": "xAI launches Grok-4",
+  "date": "2025-07-10",
+  "summary": "Grok-4 is xAI's latest flagship, trained on the Colossus cluster.",
+  "url": "https://x.ai/news/grok-4",
+  "source": "xAI",
+  "companyIds": [
+    "xai"
+  ],
+  "modelIds": [
+    "grok-4"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

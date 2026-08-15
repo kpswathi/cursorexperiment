@@ -1,0 +1,6 @@
+{
+  "id": "simpleqa",
+  "name": "SimpleQA",
+  "category": "factuality",
+  "description": "Short-form factual accuracy."
+}

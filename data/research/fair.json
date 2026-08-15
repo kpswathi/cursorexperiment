@@ -1,0 +1,13 @@
+{
+  "id": "fair",
+  "name": "FAIR",
+  "companyId": "meta",
+  "countryId": "US",
+  "city": "Menlo Park",
+  "description": "Facebook AI Research, still the open-science counterpart to Llama.",
+  "focusAreaIds": [
+    "open-weights",
+    "multimodal"
+  ],
+  "url": "https://ai.meta.com/research/"
+}

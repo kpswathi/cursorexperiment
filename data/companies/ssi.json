@@ -1,0 +1,84 @@
+{
+  "id": "ssi",
+  "name": "Safe Superintelligence",
+  "slug": "ssi",
+  "logo": "/logos/ssi.svg",
+  "description": "Ilya Sutskever's Palo Alto lab with a single product: safe superintelligence.",
+  "longDescription": "Safe Superintelligence (SSI) was founded in 2024 by Ilya Sutskever, Daniel Gross and Daniel Levy after Sutskever left OpenAI. The company has raised at a very high valuation while remaining product-silent — no public model, API or assistant — and describes itself as having one goal and one product.",
+  "headquarters": "Palo Alto, California",
+  "city": "Palo Alto",
+  "countryId": "US",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -122.143,
+    "lat": 37.4419
+  },
+  "founderIds": [
+    "ilya-sutskever",
+    "daniel-gross"
+  ],
+  "ceoId": "ilya-sutskever",
+  "founded": "2024-06-19",
+  "employees": 80,
+  "employeesAsOf": "2026-03",
+  "totalFundingUsd": 2000000000,
+  "valuationUsd": 32000000000,
+  "valuationAsOf": "2025-03",
+  "revenueUsd": null,
+  "investors": [
+    "Andreessen Horowitz",
+    "Sequoia",
+    "DST Global",
+    "SV Angel"
+  ],
+  "website": "https://ssi.inc",
+  "blogUrl": "https://ssi.inc",
+  "consumerProducts": [],
+  "enterpriseProducts": [],
+  "researchAreaIds": [
+    "alignment",
+    "safety",
+    "reasoning"
+  ],
+  "latestModelId": null,
+  "latestNewsId": "ssi-raise",
+  "tags": [
+    "stealth",
+    "safety",
+    "frontier"
+  ],
+  "openSource": false,
+  "closedSource": true,
+  "consumer": false,
+  "enterprise": false,
+  "color": "#9aa3b2",
+  "status": "stealth",
+  "timeline": [
+    {
+      "id": "ssi-founded",
+      "date": "2024-06-19",
+      "title": "Founded",
+      "description": "Sutskever, Gross and Levy launched SSI.",
+      "type": "founded",
+      "companyId": "ssi"
+    },
+    {
+      "id": "ssi-seed",
+      "date": "2024-09-04",
+      "title": "First raise",
+      "description": "Multi-billion-dollar capitalization while staying product-silent.",
+      "type": "funding",
+      "companyId": "ssi",
+      "fundingId": "ssi-seed"
+    },
+    {
+      "id": "ssi-series-a",
+      "date": "2025-03-20",
+      "title": "Follow-on financing",
+      "description": "Valuation reports clustered around $30B+.",
+      "type": "funding",
+      "companyId": "ssi",
+      "fundingId": "ssi-a"
+    }
+  ]
+}

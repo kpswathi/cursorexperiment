@@ -1,0 +1,28 @@
+{
+  "id": "magistral",
+  "name": "Magistral",
+  "slug": "magistral",
+  "companyId": "mistral",
+  "releaseDate": "2025-06-10",
+  "family": "Magistral",
+  "previousModelId": "mistral-large-2",
+  "description": "Reasoning-focused Mistral family.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 4,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 4
+  },
+  "contextWindow": 128000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Explicit chain-of-thought / reasoning SKU versus the Large chat line.",
+  "benchmarkScoreIds": [
+    "magistral-gpqa"
+  ],
+  "announcementUrl": "https://mistral.ai/news/magistral/"
+}

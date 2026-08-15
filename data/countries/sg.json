@@ -1,0 +1,15 @@
+{
+  "id": "SG",
+  "name": "Singapore",
+  "iso3": "SGP",
+  "regionId": "southeast-asia",
+  "coordinates": {
+    "lng": 103.8,
+    "lat": 1.35
+  },
+  "description": "Reserved for future coverage.",
+  "enabled": false,
+  "activityScore": 0,
+  "companyCount": 0,
+  "modelCount": 0
+}

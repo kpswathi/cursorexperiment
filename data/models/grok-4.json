@@ -1,0 +1,28 @@
+{
+  "id": "grok-4",
+  "name": "Grok-4",
+  "slug": "grok-4",
+  "companyId": "xai",
+  "releaseDate": "2025-07-10",
+  "family": "Grok",
+  "previousModelId": "grok-3",
+  "description": "Latest public xAI flagship.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 4,
+    "vision": 4,
+    "audio": 3,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 4
+  },
+  "contextWindow": 256000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Stronger multimodal reasoning and real-time search integration versus Grok-3.",
+  "benchmarkScoreIds": [
+    "grok-4-gpqa"
+  ],
+  "announcementUrl": "https://x.ai/news/grok-4"
+}

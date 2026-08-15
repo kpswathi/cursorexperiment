@@ -1,0 +1,28 @@
+{
+  "id": "command-a",
+  "name": "Command A",
+  "slug": "command-a",
+  "companyId": "cohere",
+  "releaseDate": "2025-03-13",
+  "family": "Command",
+  "previousModelId": "command-r-plus",
+  "description": "Latest enterprise Command model.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 4
+  },
+  "contextWindow": 256000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Higher quality at lower serving cost versus Command R+.",
+  "benchmarkScoreIds": [
+    "command-a-mmlu"
+  ],
+  "announcementUrl": "https://cohere.com/blog/command-a"
+}

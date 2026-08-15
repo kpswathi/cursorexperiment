@@ -1,0 +1,15 @@
+{
+  "id": "cohere-d",
+  "companyId": "cohere",
+  "date": "2024-07-23",
+  "round": "Series D",
+  "amountUsd": 500000000,
+  "valuationUsd": 5500000000,
+  "investors": [
+    "Salesforce Ventures",
+    "Nvidia"
+  ],
+  "leadInvestors": [
+    "Salesforce Ventures"
+  ]
+}

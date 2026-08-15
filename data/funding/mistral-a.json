@@ -1,0 +1,15 @@
+{
+  "id": "mistral-a",
+  "companyId": "mistral",
+  "date": "2023-06-13",
+  "round": "Seed / Series A",
+  "amountUsd": 113000000,
+  "valuationUsd": 260000000,
+  "investors": [
+    "Lightspeed",
+    "Andreessen Horowitz"
+  ],
+  "leadInvestors": [
+    "Lightspeed"
+  ]
+}

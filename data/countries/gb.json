@@ -1,0 +1,15 @@
+{
+  "id": "GB",
+  "name": "United Kingdom",
+  "iso3": "GBR",
+  "regionId": "europe",
+  "coordinates": {
+    "lng": -0.13,
+    "lat": 51.5
+  },
+  "description": "Home of DeepMind and a dense academic-to-lab pipeline.",
+  "enabled": true,
+  "activityScore": 18,
+  "companyCount": 1,
+  "modelCount": 2
+}

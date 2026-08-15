@@ -1,0 +1,16 @@
+{
+  "id": "ssi-seed",
+  "companyId": "ssi",
+  "date": "2024-09-04",
+  "round": "Seed",
+  "amountUsd": 1000000000,
+  "valuationUsd": 5000000000,
+  "investors": [
+    "Andreessen Horowitz",
+    "Sequoia",
+    "Daniel Gross"
+  ],
+  "leadInvestors": [
+    "Andreessen Horowitz"
+  ]
+}

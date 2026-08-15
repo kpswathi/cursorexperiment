@@ -1,0 +1,26 @@
+{
+  "id": "glm-4",
+  "name": "GLM-4",
+  "slug": "glm-4",
+  "companyId": "zhipu",
+  "releaseDate": "2024-01-16",
+  "family": "GLM",
+  "previousModelId": "chatglm",
+  "description": "Agents and longer-context GLM flagship.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "All-tools agents and 128K context.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://zhipuai.cn"
+}

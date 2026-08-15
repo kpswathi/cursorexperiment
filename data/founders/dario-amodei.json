@@ -1,0 +1,45 @@
+{
+  "id": "dario-amodei",
+  "name": "Dario Amodei",
+  "slug": "dario-amodei",
+  "photo": "/avatars/dario-amodei.svg",
+  "title": "CEO, Anthropic",
+  "biography": "Former OpenAI VP of Research. Co-founded Anthropic to pursue constitutional AI, mechanistic interpretability and a more safety-first path to frontier models. CEO through the Claude 3 and Claude 4 generations.",
+  "companyIds": [
+    "anthropic"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Baidu Silicon Valley AI Lab",
+      "role": "Research scientist"
+    },
+    {
+      "name": "OpenAI",
+      "role": "VP of Research",
+      "years": "2016–2020"
+    }
+  ],
+  "researchContributions": [
+    "Concrete AI safety problems",
+    "Constitutional AI",
+    "Scaling laws collaboration"
+  ],
+  "timeline": [
+    {
+      "id": "dario-openai",
+      "date": "2016-01-01",
+      "title": "Joined OpenAI",
+      "description": "Led research through GPT-2/GPT-3 era.",
+      "type": "leadership"
+    },
+    {
+      "id": "dario-anthropic",
+      "date": "2021-01-01",
+      "title": "Founded Anthropic",
+      "description": "Started a new lab with a safety-first charter.",
+      "type": "founded",
+      "companyId": "anthropic"
+    }
+  ],
+  "countryId": "US"
+}

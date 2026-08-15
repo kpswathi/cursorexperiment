@@ -1,0 +1,44 @@
+{
+  "id": "yann-lecun",
+  "name": "Yann LeCun",
+  "slug": "yann-lecun",
+  "photo": "/avatars/yann-lecun.svg",
+  "title": "Chief AI Scientist, Meta",
+  "biography": "Turing Award laureate and a founder of modern convolutional networks. Built Facebook AI Research and remains Meta's chief AI scientist while advocating open science and alternative paths to machines that reason.",
+  "companyIds": [
+    "meta"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Bell Labs",
+      "role": "Researcher"
+    },
+    {
+      "name": "NYU",
+      "role": "Professor"
+    }
+  ],
+  "researchContributions": [
+    "Convolutional neural networks",
+    "FAIR",
+    "JEPA / world-model research"
+  ],
+  "timeline": [
+    {
+      "id": "yann-fair",
+      "date": "2013-12-01",
+      "title": "Founded FAIR",
+      "description": "Created Facebook AI Research.",
+      "type": "research",
+      "companyId": "meta"
+    },
+    {
+      "id": "yann-turing",
+      "date": "2018-03-27",
+      "title": "Turing Award",
+      "description": "Shared with Hinton and Bengio.",
+      "type": "research"
+    }
+  ],
+  "countryId": "US"
+}

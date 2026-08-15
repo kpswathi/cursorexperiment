@@ -1,0 +1,16 @@
+{
+  "id": "openai-gpt-5-5",
+  "title": "OpenAI introduces GPT-5.5",
+  "date": "2026-03-12",
+  "summary": "OpenAI released GPT-5.5, a longer-horizon agent upgrade on the GPT-5 line with stronger coding and computer use.",
+  "url": "https://openai.com/news/",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [
+    "gpt-5-5"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

@@ -1,0 +1,2962 @@
+{
+  "generatedAt": "2026-08-15T09:04:42Z",
+  "companies": [
+    {
+      "id": "01ai",
+      "name": "01.AI",
+      "slug": "01ai",
+      "logo": "/logos/01ai.svg",
+      "countryId": "CN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 116.391,
+        "lat": 39.907
+      },
+      "tags": [
+        "china",
+        "open-weights",
+        "consumer"
+      ],
+      "latestModelId": "yi-lightning",
+      "color": "#111111",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 1000000000,
+      "totalFundingUsd": 300000000,
+      "employees": 300,
+      "founded": "2023-03-01",
+      "status": "operating"
+    },
+    {
+      "id": "ai21",
+      "name": "AI21 Labs",
+      "slug": "ai21",
+      "logo": "/logos/ai21.svg",
+      "countryId": "IL",
+      "regionId": "middle-east",
+      "coordinates": {
+        "lng": 34.7818,
+        "lat": 32.0853
+      },
+      "tags": [
+        "enterprise",
+        "middle-east",
+        "hybrid-architecture"
+      ],
+      "latestModelId": "jamba-1-5",
+      "color": "#111827",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 1400000000,
+      "totalFundingUsd": 336000000,
+      "employees": 300,
+      "founded": "2017-01-01",
+      "status": "operating"
+    },
+    {
+      "id": "alibaba-qwen",
+      "name": "Alibaba (Qwen)",
+      "slug": "alibaba-qwen",
+      "logo": "/logos/alibaba-qwen.svg",
+      "countryId": "CN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 120.172,
+        "lat": 30.25
+      },
+      "tags": [
+        "frontier",
+        "open-weights",
+        "china",
+        "cloud"
+      ],
+      "latestModelId": "qwen3",
+      "color": "#ff6a00",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": null,
+      "totalFundingUsd": null,
+      "employees": 1500,
+      "founded": "2023-04-01",
+      "status": "operating"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic",
+      "logo": "/logos/anthropic.svg",
+      "countryId": "US",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -122.4068,
+        "lat": 37.789
+      },
+      "tags": [
+        "frontier",
+        "closed",
+        "enterprise",
+        "safety"
+      ],
+      "latestModelId": "claude-opus-4-1",
+      "color": "#d97757",
+      "openSource": false,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 61500000000,
+      "totalFundingUsd": 22000000000,
+      "employees": 2000,
+      "founded": "2021-01-01",
+      "status": "operating"
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "slug": "cohere",
+      "logo": "/logos/cohere.svg",
+      "countryId": "CA",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -79.3832,
+        "lat": 43.6532
+      },
+      "tags": [
+        "enterprise",
+        "closed",
+        "north-america"
+      ],
+      "latestModelId": "command-a",
+      "color": "#39594d",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": false,
+      "enterprise": true,
+      "valuationUsd": 5500000000,
+      "totalFundingUsd": 970000000,
+      "employees": 500,
+      "founded": "2019-01-01",
+      "status": "operating"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "slug": "deepseek",
+      "logo": "/logos/deepseek.svg",
+      "countryId": "CN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 120.1551,
+        "lat": 30.2741
+      },
+      "tags": [
+        "frontier",
+        "open-weights",
+        "china",
+        "reasoning"
+      ],
+      "latestModelId": "deepseek-v3-1",
+      "color": "#4d6bfe",
+      "openSource": true,
+      "closedSource": false,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": null,
+      "totalFundingUsd": 0,
+      "employees": 200,
+      "founded": "2023-07-01",
+      "status": "operating"
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind",
+      "slug": "google-deepmind",
+      "logo": "/logos/google-deepmind.svg",
+      "countryId": "GB",
+      "regionId": "europe",
+      "coordinates": {
+        "lng": -0.1276,
+        "lat": 51.5074
+      },
+      "tags": [
+        "frontier",
+        "closed",
+        "consumer",
+        "enterprise",
+        "science"
+      ],
+      "latestModelId": "gemini-2-5-pro",
+      "color": "#4285f4",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": null,
+      "totalFundingUsd": null,
+      "employees": 3000,
+      "founded": "2010-09-01",
+      "status": "operating"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "slug": "meta",
+      "logo": "/logos/meta.svg",
+      "countryId": "US",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -122.1817,
+        "lat": 37.453
+      },
+      "tags": [
+        "frontier",
+        "open-weights",
+        "consumer",
+        "enterprise"
+      ],
+      "latestModelId": "llama-4-maverick",
+      "color": "#0668e1",
+      "openSource": true,
+      "closedSource": false,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": null,
+      "totalFundingUsd": null,
+      "employees": 4000,
+      "founded": "2013-12-01",
+      "status": "operating"
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "slug": "minimax",
+      "logo": "/logos/minimax.svg",
+      "countryId": "CN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 121.4737,
+        "lat": 31.2304
+      },
+      "tags": [
+        "frontier",
+        "china",
+        "video",
+        "consumer"
+      ],
+      "latestModelId": "minimax-m1",
+      "color": "#ff3c00",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 2500000000,
+      "totalFundingUsd": 1100000000,
+      "employees": 800,
+      "founded": "2021-12-01",
+      "status": "operating"
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "slug": "mistral",
+      "logo": "/logos/mistral.svg",
+      "countryId": "FR",
+      "regionId": "europe",
+      "coordinates": {
+        "lng": 2.3522,
+        "lat": 48.8566
+      },
+      "tags": [
+        "frontier",
+        "open-weights",
+        "europe",
+        "api"
+      ],
+      "latestModelId": "mistral-large-2",
+      "color": "#fa520f",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 6000000000,
+      "totalFundingUsd": 1150000000,
+      "employees": 400,
+      "founded": "2023-04-01",
+      "status": "operating"
+    },
+    {
+      "id": "moonshot",
+      "name": "Moonshot AI",
+      "slug": "moonshot",
+      "logo": "/logos/moonshot.svg",
+      "countryId": "CN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 116.4074,
+        "lat": 39.9042
+      },
+      "tags": [
+        "frontier",
+        "china",
+        "consumer",
+        "long-context"
+      ],
+      "latestModelId": "kimi-k2",
+      "color": "#7c5cff",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 3300000000,
+      "totalFundingUsd": 1200000000,
+      "employees": 400,
+      "founded": "2023-03-01",
+      "status": "operating"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "slug": "openai",
+      "logo": "/logos/openai.svg",
+      "countryId": "US",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -122.4194,
+        "lat": 37.7749
+      },
+      "tags": [
+        "frontier",
+        "closed",
+        "consumer",
+        "enterprise",
+        "api"
+      ],
+      "latestModelId": "gpt-5-5",
+      "color": "#10a37f",
+      "openSource": false,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 300000000000,
+      "totalFundingUsd": 57000000000,
+      "employees": 3500,
+      "founded": "2015-12-11",
+      "status": "operating"
+    },
+    {
+      "id": "ssi",
+      "name": "Safe Superintelligence",
+      "slug": "ssi",
+      "logo": "/logos/ssi.svg",
+      "countryId": "US",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -122.143,
+        "lat": 37.4419
+      },
+      "tags": [
+        "stealth",
+        "safety",
+        "frontier"
+      ],
+      "latestModelId": null,
+      "color": "#9aa3b2",
+      "openSource": false,
+      "closedSource": true,
+      "consumer": false,
+      "enterprise": false,
+      "valuationUsd": 32000000000,
+      "totalFundingUsd": 2000000000,
+      "employees": 80,
+      "founded": "2024-06-19",
+      "status": "stealth"
+    },
+    {
+      "id": "thinking-machines",
+      "name": "Thinking Machines Lab",
+      "slug": "thinking-machines",
+      "logo": "/logos/thinking-machines.svg",
+      "countryId": "US",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -122.4313,
+        "lat": 37.7739
+      },
+      "tags": [
+        "research",
+        "frontier",
+        "stealth"
+      ],
+      "latestModelId": null,
+      "color": "#7c3aed",
+      "openSource": false,
+      "closedSource": true,
+      "consumer": false,
+      "enterprise": true,
+      "valuationUsd": 10000000000,
+      "totalFundingUsd": 2000000000,
+      "employees": 150,
+      "founded": "2025-02-01",
+      "status": "operating"
+    },
+    {
+      "id": "zhipu",
+      "name": "Zhipu AI",
+      "slug": "zhipu",
+      "logo": "/logos/zhipu.svg",
+      "countryId": "CN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 116.43,
+        "lat": 39.92
+      },
+      "tags": [
+        "frontier",
+        "open-weights",
+        "china",
+        "academic"
+      ],
+      "latestModelId": "glm-4-5",
+      "color": "#1a73e8",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 3000000000,
+      "totalFundingUsd": 1500000000,
+      "employees": 1000,
+      "founded": "2019-06-01",
+      "status": "operating"
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "slug": "xai",
+      "logo": "/logos/xai.svg",
+      "countryId": "US",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -122.161,
+        "lat": 37.445
+      },
+      "tags": [
+        "frontier",
+        "closed",
+        "consumer",
+        "api"
+      ],
+      "latestModelId": "grok-4",
+      "color": "#e8eaed",
+      "openSource": true,
+      "closedSource": true,
+      "consumer": true,
+      "enterprise": true,
+      "valuationUsd": 50000000000,
+      "totalFundingUsd": 12000000000,
+      "employees": 1800,
+      "founded": "2023-07-12",
+      "status": "operating"
+    }
+  ],
+  "models": [
+    {
+      "id": "gpt-5-5",
+      "name": "GPT-5.5",
+      "slug": "gpt-5-5",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2026-03-12",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 5,
+        "audio": 4,
+        "video": 4,
+        "imageGeneration": 4,
+        "longContext": 5,
+        "agentSupport": 5
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "deepseek-v3-1",
+      "name": "DeepSeek-V3.1",
+      "slug": "deepseek-v3-1",
+      "companyId": "deepseek",
+      "family": "DeepSeek-V",
+      "releaseDate": "2025-08-21",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gpt-5",
+      "name": "GPT-5",
+      "slug": "gpt-5",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2025-08-07",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 4,
+        "audio": 4,
+        "video": 3,
+        "imageGeneration": 3,
+        "longContext": 5,
+        "agentSupport": 5
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "claude-opus-4-1",
+      "name": "Claude Opus 4.1",
+      "slug": "claude-opus-4-1",
+      "companyId": "anthropic",
+      "family": "Claude",
+      "releaseDate": "2025-08-05",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 4,
+        "audio": 2,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 5
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "glm-4-5",
+      "name": "GLM-4.5",
+      "slug": "glm-4-5",
+      "companyId": "zhipu",
+      "family": "GLM",
+      "releaseDate": "2025-07-28",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "kimi-k2",
+      "name": "Kimi K2",
+      "slug": "kimi-k2",
+      "companyId": "moonshot",
+      "family": "Kimi",
+      "releaseDate": "2025-07-11",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 5
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "grok-4",
+      "name": "Grok-4",
+      "slug": "grok-4",
+      "companyId": "xai",
+      "family": "Grok",
+      "releaseDate": "2025-07-10",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 4,
+        "vision": 4,
+        "audio": 3,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "minimax-m1",
+      "name": "MiniMax-M1",
+      "slug": "minimax-m1",
+      "companyId": "minimax",
+      "family": "MiniMax",
+      "releaseDate": "2025-06-17",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 3,
+        "vision": 3,
+        "audio": 4,
+        "video": 4,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "magistral",
+      "name": "Magistral",
+      "slug": "magistral",
+      "companyId": "mistral",
+      "family": "Magistral",
+      "releaseDate": "2025-06-10",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 4,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "claude-opus-4",
+      "name": "Claude Opus 4",
+      "slug": "claude-opus-4",
+      "companyId": "anthropic",
+      "family": "Claude",
+      "releaseDate": "2025-05-22",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 5
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "qwen3",
+      "name": "Qwen3",
+      "slug": "qwen3",
+      "companyId": "alibaba-qwen",
+      "family": "Qwen",
+      "releaseDate": "2025-04-29",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "llama-4-maverick",
+      "name": "Llama 4 Maverick",
+      "slug": "llama-4-maverick",
+      "companyId": "meta",
+      "family": "Llama",
+      "releaseDate": "2025-04-05",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gemini-2-5-pro",
+      "name": "Gemini 2.5 Pro",
+      "slug": "gemini-2-5-pro",
+      "companyId": "google-deepmind",
+      "family": "Gemini",
+      "releaseDate": "2025-03-25",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 5,
+        "audio": 4,
+        "video": 4,
+        "imageGeneration": 3,
+        "longContext": 5,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "command-a",
+      "name": "Command A",
+      "slug": "command-a",
+      "companyId": "cohere",
+      "family": "Command",
+      "releaseDate": "2025-03-13",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 4
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "grok-3",
+      "name": "Grok-3",
+      "slug": "grok-3",
+      "companyId": "xai",
+      "family": "Grok",
+      "releaseDate": "2025-02-17",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "deepseek-r1",
+      "name": "DeepSeek-R1",
+      "slug": "deepseek-r1",
+      "companyId": "deepseek",
+      "family": "DeepSeek-R",
+      "releaseDate": "2025-01-20",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 5,
+        "coding": 5,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "kimi-k1-5",
+      "name": "Kimi k1.5",
+      "slug": "kimi-k1-5",
+      "companyId": "moonshot",
+      "family": "Kimi",
+      "releaseDate": "2025-01-20",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 3,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "deepseek-v3",
+      "name": "DeepSeek-V3",
+      "slug": "deepseek-v3",
+      "companyId": "deepseek",
+      "family": "DeepSeek-V",
+      "releaseDate": "2024-12-26",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 5,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "yi-lightning",
+      "name": "Yi-Lightning",
+      "slug": "yi-lightning",
+      "companyId": "01ai",
+      "family": "Yi",
+      "releaseDate": "2024-10-16",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 3,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "qwen-2-5",
+      "name": "Qwen2.5",
+      "slug": "qwen-2-5",
+      "companyId": "alibaba-qwen",
+      "family": "Qwen",
+      "releaseDate": "2024-09-19",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 5,
+        "vision": 4,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "jamba-1-5",
+      "name": "Jamba 1.5",
+      "slug": "jamba-1-5",
+      "companyId": "ai21",
+      "family": "Jamba",
+      "releaseDate": "2024-08-22",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "mistral-large-2",
+      "name": "Mistral Large 2",
+      "slug": "mistral-large-2",
+      "companyId": "mistral",
+      "family": "Mistral",
+      "releaseDate": "2024-07-24",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 2,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "qwen-2",
+      "name": "Qwen2",
+      "slug": "qwen-2",
+      "companyId": "alibaba-qwen",
+      "family": "Qwen",
+      "releaseDate": "2024-06-06",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 4,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "aya-23",
+      "name": "Aya 23",
+      "slug": "aya-23",
+      "companyId": "cohere",
+      "family": "Aya",
+      "releaseDate": "2024-05-23",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 2,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 3,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gpt-4o",
+      "name": "GPT-4o",
+      "slug": "gpt-4o",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2024-05-13",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 4,
+        "audio": 5,
+        "video": 3,
+        "imageGeneration": 3,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "deepseek-v2",
+      "name": "DeepSeek-V2",
+      "slug": "deepseek-v2",
+      "companyId": "deepseek",
+      "family": "DeepSeek-V",
+      "releaseDate": "2024-05-06",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 4,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "llama-3",
+      "name": "Llama 3",
+      "slug": "llama-3",
+      "companyId": "meta",
+      "family": "Llama",
+      "releaseDate": "2024-04-18",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "jamba",
+      "name": "Jamba",
+      "slug": "jamba",
+      "companyId": "ai21",
+      "family": "Jamba",
+      "releaseDate": "2024-03-28",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "command-r-plus",
+      "name": "Command R+",
+      "slug": "command-r-plus",
+      "companyId": "cohere",
+      "family": "Command",
+      "releaseDate": "2024-03-11",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "claude-3-opus",
+      "name": "Claude 3 Opus",
+      "slug": "claude-3-opus",
+      "companyId": "anthropic",
+      "family": "Claude",
+      "releaseDate": "2024-03-04",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 5,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "mistral-large",
+      "name": "Mistral Large",
+      "slug": "mistral-large",
+      "companyId": "mistral",
+      "family": "Mistral",
+      "releaseDate": "2024-02-26",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 3,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "glm-4",
+      "name": "GLM-4",
+      "slug": "glm-4",
+      "companyId": "zhipu",
+      "family": "GLM",
+      "releaseDate": "2024-01-16",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 4,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "mixtral-8x7b",
+      "name": "Mixtral 8x7B",
+      "slug": "mixtral-8x7b",
+      "companyId": "mistral",
+      "family": "Mixtral",
+      "releaseDate": "2023-12-11",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 4,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 3,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gemini-1",
+      "name": "Gemini 1",
+      "slug": "gemini-1",
+      "companyId": "google-deepmind",
+      "family": "Gemini",
+      "releaseDate": "2023-12-06",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 4,
+        "audio": 3,
+        "video": 3,
+        "imageGeneration": 0,
+        "longContext": 3,
+        "agentSupport": 2
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "grok-1",
+      "name": "Grok-1",
+      "slug": "grok-1",
+      "companyId": "xai",
+      "family": "Grok",
+      "releaseDate": "2023-11-04",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": false
+    },
+    {
+      "id": "yi-34b",
+      "name": "Yi-34B",
+      "slug": "yi-34b",
+      "companyId": "01ai",
+      "family": "Yi",
+      "releaseDate": "2023-11-02",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 3,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "mistral-7b",
+      "name": "Mistral 7B",
+      "slug": "mistral-7b",
+      "companyId": "mistral",
+      "family": "Mistral",
+      "releaseDate": "2023-09-27",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "llama-2",
+      "name": "Llama 2",
+      "slug": "llama-2",
+      "companyId": "meta",
+      "family": "Llama",
+      "releaseDate": "2023-07-18",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "qwen-1",
+      "name": "Qwen",
+      "slug": "qwen-1",
+      "companyId": "alibaba-qwen",
+      "family": "Qwen",
+      "releaseDate": "2023-04-07",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 2,
+        "coding": 2,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "chatglm",
+      "name": "ChatGLM",
+      "slug": "chatglm",
+      "companyId": "zhipu",
+      "family": "GLM",
+      "releaseDate": "2023-03-14",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 2,
+        "coding": 2,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gpt-4",
+      "name": "GPT-4",
+      "slug": "gpt-4",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2023-03-14",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 4,
+        "coding": 4,
+        "vision": 3,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 3,
+        "agentSupport": 3
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "llama-1",
+      "name": "LLaMA",
+      "slug": "llama-1",
+      "companyId": "meta",
+      "family": "Llama",
+      "releaseDate": "2023-02-24",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 2,
+        "coding": 2,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": false
+    },
+    {
+      "id": "jurassic-1",
+      "name": "Jurassic-1",
+      "slug": "jurassic-1",
+      "companyId": "ai21",
+      "family": "Jurassic",
+      "releaseDate": "2021-08-11",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 2,
+        "coding": 2,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 1,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gpt-3",
+      "name": "GPT-3",
+      "slug": "gpt-3",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2020-05-28",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 3,
+        "coding": 3,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 2,
+        "agentSupport": 0
+      },
+      "apiAvailable": true
+    },
+    {
+      "id": "gpt-2",
+      "name": "GPT-2",
+      "slug": "gpt-2",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2019-02-14",
+      "openClosed": "open-weights",
+      "capabilities": {
+        "reasoning": 2,
+        "coding": 2,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 1,
+        "agentSupport": 0
+      },
+      "apiAvailable": false
+    },
+    {
+      "id": "gpt",
+      "name": "GPT",
+      "slug": "gpt",
+      "companyId": "openai",
+      "family": "GPT",
+      "releaseDate": "2018-06-11",
+      "openClosed": "closed",
+      "capabilities": {
+        "reasoning": 2,
+        "coding": 1,
+        "vision": 0,
+        "audio": 0,
+        "video": 0,
+        "imageGeneration": 0,
+        "longContext": 1,
+        "agentSupport": 0
+      },
+      "apiAvailable": false
+    }
+  ],
+  "founders": [
+    {
+      "id": "aidan-gomez",
+      "name": "Aidan Gomez",
+      "slug": "aidan-gomez",
+      "photo": "/avatars/aidan-gomez.svg",
+      "companyIds": [
+        "cohere"
+      ],
+      "title": "CEO, Cohere"
+    },
+    {
+      "id": "amnon-shashua",
+      "name": "Amnon Shashua",
+      "slug": "amnon-shashua",
+      "photo": "/avatars/amnon-shashua.svg",
+      "companyIds": [
+        "ai21"
+      ],
+      "title": "Co-founder, AI21 Labs"
+    },
+    {
+      "id": "arthur-mensch",
+      "name": "Arthur Mensch",
+      "slug": "arthur-mensch",
+      "photo": "/avatars/arthur-mensch.svg",
+      "companyIds": [
+        "mistral"
+      ],
+      "title": "CEO, Mistral AI"
+    },
+    {
+      "id": "daniel-gross",
+      "name": "Daniel Gross",
+      "slug": "daniel-gross",
+      "photo": "/avatars/daniel-gross.svg",
+      "companyIds": [
+        "ssi"
+      ],
+      "title": "Co-founder, Safe Superintelligence"
+    },
+    {
+      "id": "daniela-amodei",
+      "name": "Daniela Amodei",
+      "slug": "daniela-amodei",
+      "photo": "/avatars/daniela-amodei.svg",
+      "companyIds": [
+        "anthropic"
+      ],
+      "title": "President, Anthropic"
+    },
+    {
+      "id": "dario-amodei",
+      "name": "Dario Amodei",
+      "slug": "dario-amodei",
+      "photo": "/avatars/dario-amodei.svg",
+      "companyIds": [
+        "anthropic"
+      ],
+      "title": "CEO, Anthropic"
+    },
+    {
+      "id": "demis-hassabis",
+      "name": "Demis Hassabis",
+      "slug": "demis-hassabis",
+      "photo": "/avatars/demis-hassabis.svg",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "title": "CEO, Google DeepMind"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "slug": "elon-musk",
+      "photo": "/avatars/elon-musk.svg",
+      "companyIds": [
+        "xai",
+        "openai"
+      ],
+      "title": "CEO, xAI"
+    },
+    {
+      "id": "greg-brockman",
+      "name": "Greg Brockman",
+      "slug": "greg-brockman",
+      "photo": "/avatars/greg-brockman.svg",
+      "companyIds": [
+        "openai"
+      ],
+      "title": "President & Co-founder, OpenAI"
+    },
+    {
+      "id": "guillaume-lample",
+      "name": "Guillaume Lample",
+      "slug": "guillaume-lample",
+      "photo": "/avatars/guillaume-lample.svg",
+      "companyIds": [
+        "mistral"
+      ],
+      "title": "Chief Scientist, Mistral AI"
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "slug": "ilya-sutskever",
+      "photo": "/avatars/ilya-sutskever.svg",
+      "companyIds": [
+        "ssi",
+        "openai"
+      ],
+      "title": "Co-founder, Safe Superintelligence"
+    },
+    {
+      "id": "tang-jie",
+      "name": "Jie Tang",
+      "slug": "tang-jie",
+      "photo": "/avatars/tang-jie.svg",
+      "companyIds": [
+        "zhipu"
+      ],
+      "title": "Co-founder, Zhipu AI"
+    },
+    {
+      "id": "jingren-zhou",
+      "name": "Jingren Zhou",
+      "slug": "jingren-zhou",
+      "photo": "/avatars/jingren-zhou.svg",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "title": "CTO, Alibaba Cloud"
+    },
+    {
+      "id": "kai-fu-lee",
+      "name": "Kai-Fu Lee",
+      "slug": "kai-fu-lee",
+      "photo": "/avatars/kai-fu-lee.svg",
+      "companyIds": [
+        "01ai"
+      ],
+      "title": "CEO, 01.AI"
+    },
+    {
+      "id": "liang-wenfeng",
+      "name": "Liang Wenfeng",
+      "slug": "liang-wenfeng",
+      "photo": "/avatars/liang-wenfeng.svg",
+      "companyIds": [
+        "deepseek"
+      ],
+      "title": "Founder, DeepSeek"
+    },
+    {
+      "id": "mira-murati",
+      "name": "Mira Murati",
+      "slug": "mira-murati",
+      "photo": "/avatars/mira-murati.svg",
+      "companyIds": [
+        "thinking-machines"
+      ],
+      "title": "CEO, Thinking Machines Lab"
+    },
+    {
+      "id": "sam-altman",
+      "name": "Sam Altman",
+      "slug": "sam-altman",
+      "photo": "/avatars/sam-altman.svg",
+      "companyIds": [
+        "openai"
+      ],
+      "title": "CEO, OpenAI"
+    },
+    {
+      "id": "shane-legg",
+      "name": "Shane Legg",
+      "slug": "shane-legg",
+      "photo": "/avatars/shane-legg.svg",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "title": "Chief AGI Scientist, Google DeepMind"
+    },
+    {
+      "id": "timothee-lacroix",
+      "name": "Timothée Lacroix",
+      "slug": "timothee-lacroix",
+      "photo": "/avatars/timothee-lacroix.svg",
+      "companyIds": [
+        "mistral"
+      ],
+      "title": "CTO, Mistral AI"
+    },
+    {
+      "id": "yan-junjie",
+      "name": "Yan Junjie",
+      "slug": "yan-junjie",
+      "photo": "/avatars/yan-junjie.svg",
+      "companyIds": [
+        "minimax"
+      ],
+      "title": "CEO, MiniMax"
+    },
+    {
+      "id": "yang-zhilin",
+      "name": "Yang Zhilin",
+      "slug": "yang-zhilin",
+      "photo": "/avatars/yang-zhilin.svg",
+      "companyIds": [
+        "moonshot"
+      ],
+      "title": "CEO, Moonshot AI"
+    },
+    {
+      "id": "yann-lecun",
+      "name": "Yann LeCun",
+      "slug": "yann-lecun",
+      "photo": "/avatars/yann-lecun.svg",
+      "companyIds": [
+        "meta"
+      ],
+      "title": "Chief AI Scientist, Meta"
+    },
+    {
+      "id": "yoav-shoham",
+      "name": "Yoav Shoham",
+      "slug": "yoav-shoham",
+      "photo": "/avatars/yoav-shoham.svg",
+      "companyIds": [
+        "ai21"
+      ],
+      "title": "Co-founder, AI21 Labs"
+    }
+  ],
+  "countries": [
+    {
+      "id": "AE",
+      "name": "United Arab Emirates",
+      "iso3": "ARE",
+      "regionId": "middle-east",
+      "coordinates": {
+        "lng": 54.37,
+        "lat": 24.45
+      },
+      "description": "Reserved for future coverage.",
+      "enabled": false,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "BR",
+      "name": "Brazil",
+      "iso3": "BRA",
+      "regionId": "latin-america",
+      "coordinates": {
+        "lng": -47.9,
+        "lat": -15.8
+      },
+      "description": "Reserved for future coverage.",
+      "enabled": false,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "CA",
+      "name": "Canada",
+      "iso3": "CAN",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -79.4,
+        "lat": 43.7
+      },
+      "description": "Toronto and Montreal remain core nodes for enterprise LLM research.",
+      "enabled": true,
+      "activityScore": 61,
+      "companyCount": 1,
+      "modelCount": 3
+    },
+    {
+      "id": "CN",
+      "name": "China",
+      "iso3": "CHN",
+      "regionId": "china",
+      "coordinates": {
+        "lng": 104.2,
+        "lat": 35.5
+      },
+      "description": "A parallel frontier ecosystem spanning Hangzhou, Beijing and Shanghai.",
+      "enabled": true,
+      "activityScore": 160,
+      "companyCount": 6,
+      "modelCount": 16
+    },
+    {
+      "id": "DE",
+      "name": "Germany",
+      "iso3": "DEU",
+      "regionId": "europe",
+      "coordinates": {
+        "lng": 13.4,
+        "lat": 52.5
+      },
+      "description": "Reserved for future lab coverage.",
+      "enabled": false,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "FR",
+      "name": "France",
+      "iso3": "FRA",
+      "regionId": "europe",
+      "coordinates": {
+        "lng": 2.35,
+        "lat": 48.86
+      },
+      "description": "Paris is Europe's leading open-weights and frontier-lab hub.",
+      "enabled": true,
+      "activityScore": 67,
+      "companyCount": 1,
+      "modelCount": 5
+    },
+    {
+      "id": "GB",
+      "name": "United Kingdom",
+      "iso3": "GBR",
+      "regionId": "europe",
+      "coordinates": {
+        "lng": -0.13,
+        "lat": 51.5
+      },
+      "description": "Home of DeepMind and a dense academic-to-lab pipeline.",
+      "enabled": true,
+      "activityScore": 18,
+      "companyCount": 1,
+      "modelCount": 2
+    },
+    {
+      "id": "IL",
+      "name": "Israel",
+      "iso3": "ISR",
+      "regionId": "middle-east",
+      "coordinates": {
+        "lng": 34.78,
+        "lat": 32.09
+      },
+      "description": "Long-running NLP research converted into foundation-model companies.",
+      "enabled": true,
+      "activityScore": 61,
+      "companyCount": 1,
+      "modelCount": 3
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "iso3": "IND",
+      "regionId": "india",
+      "coordinates": {
+        "lng": 78.96,
+        "lat": 20.59
+      },
+      "description": "Sovereign model labs and large-scale applied AI; companies can be added as JSON only.",
+      "enabled": true,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "JP",
+      "name": "Japan",
+      "iso3": "JPN",
+      "regionId": "japan",
+      "coordinates": {
+        "lng": 139.7,
+        "lat": 35.7
+      },
+      "description": "Reserved for future coverage.",
+      "enabled": false,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "KR",
+      "name": "South Korea",
+      "iso3": "KOR",
+      "regionId": "korea",
+      "coordinates": {
+        "lng": 126.98,
+        "lat": 37.57
+      },
+      "description": "Reserved for future coverage.",
+      "enabled": false,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "SG",
+      "name": "Singapore",
+      "iso3": "SGP",
+      "regionId": "southeast-asia",
+      "coordinates": {
+        "lng": 103.8,
+        "lat": 1.35
+      },
+      "description": "Reserved for future coverage.",
+      "enabled": false,
+      "activityScore": 0,
+      "companyCount": 0,
+      "modelCount": 0
+    },
+    {
+      "id": "US",
+      "name": "United States",
+      "iso3": "USA",
+      "regionId": "north-america",
+      "coordinates": {
+        "lng": -98.5,
+        "lat": 39.8
+      },
+      "description": "Largest concentration of frontier labs, capital and research talent.",
+      "enabled": true,
+      "activityScore": 163,
+      "companyCount": 6,
+      "modelCount": 17
+    }
+  ],
+  "regions": [
+    {
+      "id": "north-america",
+      "name": "North America",
+      "countryIds": [
+        "US",
+        "CA"
+      ],
+      "center": {
+        "lng": -98,
+        "lat": 40
+      },
+      "zoom": 3.1,
+      "description": "Frontier labs clustered around the Bay Area, Seattle, Toronto and New York.",
+      "enabled": true
+    },
+    {
+      "id": "europe",
+      "name": "Europe",
+      "countryIds": [
+        "GB",
+        "FR",
+        "DE",
+        "NL",
+        "CH"
+      ],
+      "center": {
+        "lng": 8,
+        "lat": 50
+      },
+      "zoom": 3.6,
+      "description": "London, Paris and a growing set of continental research labs.",
+      "enabled": true
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "countryIds": [
+        "CN"
+      ],
+      "center": {
+        "lng": 104,
+        "lat": 35
+      },
+      "zoom": 3.7,
+      "description": "Hangzhou, Beijing and Shanghai foundation-model clusters.",
+      "enabled": true
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "countryIds": [
+        "IN"
+      ],
+      "center": {
+        "lng": 79,
+        "lat": 22
+      },
+      "zoom": 4.2,
+      "description": "Ready for sovereign and foundation-model labs as the dataset expands.",
+      "enabled": true
+    },
+    {
+      "id": "middle-east",
+      "name": "Middle East",
+      "countryIds": [
+        "IL",
+        "AE",
+        "SA"
+      ],
+      "center": {
+        "lng": 45,
+        "lat": 29
+      },
+      "zoom": 4.0,
+      "description": "Early coverage beginning with Israel; GCC labs can be added without schema changes.",
+      "enabled": true
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "countryIds": [
+        "JP"
+      ],
+      "center": {
+        "lng": 138,
+        "lat": 36
+      },
+      "zoom": 4.6,
+      "description": "Reserved for future coverage.",
+      "enabled": false
+    },
+    {
+      "id": "korea",
+      "name": "Korea",
+      "countryIds": [
+        "KR"
+      ],
+      "center": {
+        "lng": 127.8,
+        "lat": 36.2
+      },
+      "zoom": 5.4,
+      "description": "Reserved for future coverage.",
+      "enabled": false
+    },
+    {
+      "id": "southeast-asia",
+      "name": "Southeast Asia",
+      "countryIds": [
+        "SG",
+        "ID"
+      ],
+      "center": {
+        "lng": 110,
+        "lat": 5
+      },
+      "zoom": 3.8,
+      "description": "Reserved for future coverage.",
+      "enabled": false
+    },
+    {
+      "id": "latin-america",
+      "name": "Latin America",
+      "countryIds": [
+        "BR",
+        "MX"
+      ],
+      "center": {
+        "lng": -60,
+        "lat": -15
+      },
+      "zoom": 2.8,
+      "description": "Reserved for future coverage.",
+      "enabled": false
+    }
+  ],
+  "news": [
+    {
+      "id": "openai-gpt-5-5",
+      "title": "OpenAI introduces GPT-5.5",
+      "date": "2026-03-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": false
+    },
+    {
+      "id": "deepseek-v3-1",
+      "title": "DeepSeek-V3.1 hybrid release",
+      "date": "2025-08-21",
+      "source": "DeepSeek",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": false
+    },
+    {
+      "id": "openai-gpt-5",
+      "title": "GPT-5 unifies chat and reasoning",
+      "date": "2025-08-07",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": false
+    },
+    {
+      "id": "anthropic-opus-4-1",
+      "title": "Anthropic ships Claude Opus 4.1",
+      "date": "2025-08-05",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": false
+    },
+    {
+      "id": "zhipu-glm-4-5",
+      "title": "Zhipu AI publishes GLM-4.5",
+      "date": "2025-07-28",
+      "source": "Zhipu AI",
+      "companyIds": [
+        "zhipu"
+      ],
+      "generated": false
+    },
+    {
+      "id": "tml-seed",
+      "title": "Thinking Machines Lab raises a $2B seed",
+      "date": "2025-07-15",
+      "source": "Thinking Machines Lab",
+      "companyIds": [
+        "thinking-machines"
+      ],
+      "generated": false
+    },
+    {
+      "id": "moonshot-kimi-k2",
+      "title": "Moonshot open-weights Kimi K2",
+      "date": "2025-07-11",
+      "source": "Moonshot AI",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": false
+    },
+    {
+      "id": "xai-grok-4",
+      "title": "xAI launches Grok-4",
+      "date": "2025-07-10",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": false
+    },
+    {
+      "id": "minimax-m1",
+      "title": "MiniMax-M1 open-weight reasoning model",
+      "date": "2025-06-17",
+      "source": "MiniMax",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": false
+    },
+    {
+      "id": "mistral-magistral",
+      "title": "Mistral introduces Magistral",
+      "date": "2025-06-10",
+      "source": "Mistral AI",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": false
+    },
+    {
+      "id": "qwen-qwen3",
+      "title": "Alibaba releases Qwen3",
+      "date": "2025-04-29",
+      "source": "Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": false
+    },
+    {
+      "id": "meta-llama-4",
+      "title": "Meta releases Llama 4 Scout and Maverick",
+      "date": "2025-04-05",
+      "source": "Meta AI",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": false
+    },
+    {
+      "id": "deepmind-gemini-2-5",
+      "title": "Gemini 2.5 Pro arrives with Deep Think",
+      "date": "2025-03-25",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": false
+    },
+    {
+      "id": "ssi-raise",
+      "title": "SSI raises at a $32B valuation — still no public model",
+      "date": "2025-03-20",
+      "source": "SSI",
+      "companyIds": [
+        "ssi"
+      ],
+      "generated": false
+    },
+    {
+      "id": "cohere-command-a",
+      "title": "Cohere announces Command A",
+      "date": "2025-03-13",
+      "source": "Cohere",
+      "companyIds": [
+        "cohere"
+      ],
+      "generated": false
+    },
+    {
+      "id": "deepseek-r1-news",
+      "title": "DeepSeek-R1 shocks the cost curve",
+      "date": "2025-01-20",
+      "source": "DeepSeek",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": false
+    },
+    {
+      "id": "01ai-yi-lightning",
+      "title": "01.AI launches Yi-Lightning",
+      "date": "2024-10-16",
+      "source": "01.AI",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": false
+    },
+    {
+      "id": "ai21-jamba-1-5",
+      "title": "AI21 ships Jamba 1.5",
+      "date": "2024-08-22",
+      "source": "AI21 Labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": false
+    }
+  ],
+  "funding": [
+    {
+      "id": "xai-2025",
+      "companyId": "xai",
+      "date": "2025-11-20",
+      "round": "Primary",
+      "amountUsd": 5000000000,
+      "valuationUsd": 50000000000,
+      "investors": [
+        "Elon Musk",
+        "Kingdom of Saudi Arabia"
+      ],
+      "leadInvestors": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "openai-2025",
+      "companyId": "openai",
+      "date": "2025-10-02",
+      "round": "Primary",
+      "amountUsd": 40000000000,
+      "valuationUsd": 300000000000,
+      "investors": [
+        "SoftBank",
+        "Microsoft",
+        "Thrive Capital"
+      ],
+      "leadInvestors": [
+        "SoftBank"
+      ]
+    },
+    {
+      "id": "tml-seed",
+      "companyId": "thinking-machines",
+      "date": "2025-07-15",
+      "round": "Seed",
+      "amountUsd": 2000000000,
+      "valuationUsd": 10000000000,
+      "investors": [
+        "Andreessen Horowitz",
+        "Nvidia",
+        "Jane Street"
+      ],
+      "leadInvestors": [
+        "Andreessen Horowitz"
+      ]
+    },
+    {
+      "id": "ssi-a",
+      "companyId": "ssi",
+      "date": "2025-03-20",
+      "round": "Series A",
+      "amountUsd": 1000000000,
+      "valuationUsd": 32000000000,
+      "investors": [
+        "Andreessen Horowitz",
+        "Sequoia",
+        "DST Global"
+      ],
+      "leadInvestors": [
+        "Sequoia"
+      ]
+    },
+    {
+      "id": "anthropic-2025",
+      "companyId": "anthropic",
+      "date": "2025-03-03",
+      "round": "Series E",
+      "amountUsd": 3500000000,
+      "valuationUsd": 61500000000,
+      "investors": [
+        "Lightspeed",
+        "Salesforce",
+        "Cisco"
+      ],
+      "leadInvestors": [
+        "Lightspeed"
+      ]
+    },
+    {
+      "id": "openai-2024",
+      "companyId": "openai",
+      "date": "2024-10-02",
+      "round": "Tender / primary",
+      "amountUsd": 6600000000,
+      "valuationUsd": 157000000000,
+      "investors": [
+        "Thrive Capital",
+        "Microsoft",
+        "SoftBank"
+      ],
+      "leadInvestors": [
+        "Thrive Capital"
+      ]
+    },
+    {
+      "id": "ssi-seed",
+      "companyId": "ssi",
+      "date": "2024-09-04",
+      "round": "Seed",
+      "amountUsd": 1000000000,
+      "valuationUsd": 5000000000,
+      "investors": [
+        "Andreessen Horowitz",
+        "Sequoia",
+        "Daniel Gross"
+      ],
+      "leadInvestors": [
+        "Andreessen Horowitz"
+      ]
+    },
+    {
+      "id": "cohere-d",
+      "companyId": "cohere",
+      "date": "2024-07-23",
+      "round": "Series D",
+      "amountUsd": 500000000,
+      "valuationUsd": 5500000000,
+      "investors": [
+        "Salesforce Ventures",
+        "Nvidia"
+      ],
+      "leadInvestors": [
+        "Salesforce Ventures"
+      ]
+    },
+    {
+      "id": "mistral-b",
+      "companyId": "mistral",
+      "date": "2024-06-11",
+      "round": "Series B",
+      "amountUsd": 640000000,
+      "valuationUsd": 6000000000,
+      "investors": [
+        "General Catalyst",
+        "Andreessen Horowitz"
+      ],
+      "leadInvestors": [
+        "General Catalyst"
+      ]
+    },
+    {
+      "id": "xai-2024",
+      "companyId": "xai",
+      "date": "2024-05-26",
+      "round": "Series B",
+      "amountUsd": 6000000000,
+      "valuationUsd": 24000000000,
+      "investors": [
+        "Valor Equity",
+        "Andreessen Horowitz",
+        "Sequoia"
+      ],
+      "leadInvestors": [
+        "Valor Equity"
+      ]
+    },
+    {
+      "id": "minimax-2024",
+      "companyId": "minimax",
+      "date": "2024-03-01",
+      "round": "Series B",
+      "amountUsd": 600000000,
+      "valuationUsd": 2500000000,
+      "investors": [
+        "Alibaba",
+        "Tencent"
+      ],
+      "leadInvestors": [
+        "Alibaba"
+      ]
+    },
+    {
+      "id": "moonshot-2024",
+      "companyId": "moonshot",
+      "date": "2024-02-19",
+      "round": "Series B",
+      "amountUsd": 1000000000,
+      "valuationUsd": 2500000000,
+      "investors": [
+        "Alibaba",
+        "HongShan"
+      ],
+      "leadInvestors": [
+        "Alibaba"
+      ]
+    },
+    {
+      "id": "anthropic-google",
+      "companyId": "anthropic",
+      "date": "2023-10-27",
+      "round": "Strategic",
+      "amountUsd": 2000000000,
+      "valuationUsd": null,
+      "investors": [
+        "Google"
+      ],
+      "leadInvestors": [
+        "Google"
+      ]
+    },
+    {
+      "id": "zhipu-2023",
+      "companyId": "zhipu",
+      "date": "2023-10-01",
+      "round": "Series B",
+      "amountUsd": 400000000,
+      "valuationUsd": 1000000000,
+      "investors": [
+        "Prosperity7",
+        "Alibaba"
+      ],
+      "leadInvestors": [
+        "Prosperity7"
+      ]
+    },
+    {
+      "id": "anthropic-amazon-1",
+      "companyId": "anthropic",
+      "date": "2023-09-25",
+      "round": "Strategic",
+      "amountUsd": 4000000000,
+      "valuationUsd": null,
+      "investors": [
+        "Amazon"
+      ],
+      "leadInvestors": [
+        "Amazon"
+      ],
+      "notes": "AWS training and distribution partnership."
+    },
+    {
+      "id": "ai21-c",
+      "companyId": "ai21",
+      "date": "2023-08-22",
+      "round": "Series C",
+      "amountUsd": 155000000,
+      "valuationUsd": 1400000000,
+      "investors": [
+        "Google",
+        "NVIDIA",
+        "Pitango"
+      ],
+      "leadInvestors": [
+        "Google"
+      ]
+    },
+    {
+      "id": "mistral-a",
+      "companyId": "mistral",
+      "date": "2023-06-13",
+      "round": "Seed / Series A",
+      "amountUsd": 113000000,
+      "valuationUsd": 260000000,
+      "investors": [
+        "Lightspeed",
+        "Andreessen Horowitz"
+      ],
+      "leadInvestors": [
+        "Lightspeed"
+      ]
+    },
+    {
+      "id": "cohere-c",
+      "companyId": "cohere",
+      "date": "2023-06-08",
+      "round": "Series C",
+      "amountUsd": 270000000,
+      "valuationUsd": 2200000000,
+      "investors": [
+        "Inovia",
+        "Nvidia",
+        "Oracle"
+      ],
+      "leadInvestors": [
+        "Inovia"
+      ]
+    },
+    {
+      "id": "01ai-seed",
+      "companyId": "01ai",
+      "date": "2023-04-01",
+      "round": "Seed",
+      "amountUsd": 200000000,
+      "valuationUsd": null,
+      "investors": [
+        "Alibaba",
+        "Sinovation Ventures"
+      ],
+      "leadInvestors": [
+        "Alibaba"
+      ]
+    },
+    {
+      "id": "openai-msft",
+      "companyId": "openai",
+      "date": "2023-01-23",
+      "round": "Strategic",
+      "amountUsd": 10000000000,
+      "valuationUsd": 29000000000,
+      "investors": [
+        "Microsoft"
+      ],
+      "leadInvestors": [
+        "Microsoft"
+      ],
+      "notes": "Multi-year Azure partnership and commercialization deal."
+    }
+  ],
+  "benchmarks": [
+    {
+      "id": "aime",
+      "name": "AIME",
+      "category": "math",
+      "description": "American Invitational Mathematics Examination."
+    },
+    {
+      "id": "gpqa",
+      "name": "GPQA Diamond",
+      "category": "reasoning",
+      "description": "Graduate-level science questions designed to be Google-proof."
+    },
+    {
+      "id": "livecodebench",
+      "name": "LiveCodeBench",
+      "category": "coding",
+      "description": "Contamination-resistant competitive programming."
+    },
+    {
+      "id": "mmlu",
+      "name": "MMLU",
+      "category": "knowledge",
+      "description": "Broad professional and academic knowledge."
+    },
+    {
+      "id": "mmmu",
+      "name": "MMMU",
+      "category": "vision",
+      "description": "College-level multimodal understanding."
+    },
+    {
+      "id": "osworld",
+      "name": "OSWorld",
+      "category": "agents",
+      "description": "Computer-use tasks on real desktop environments."
+    },
+    {
+      "id": "simpleqa",
+      "name": "SimpleQA",
+      "category": "factuality",
+      "description": "Short-form factual accuracy."
+    },
+    {
+      "id": "swe-bench",
+      "name": "SWE-bench Verified",
+      "category": "coding",
+      "description": "Real GitHub issues resolved by agentic coding systems."
+    }
+  ],
+  "benchmarkScores": [
+    {
+      "id": "gpt-4-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "gpt-4",
+      "score": 86.4,
+      "unit": "percent",
+      "date": "2023-03-14"
+    },
+    {
+      "id": "gpt-4o-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "gpt-4o",
+      "score": 88.7,
+      "unit": "percent",
+      "date": "2024-05-13"
+    },
+    {
+      "id": "gpt-5-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "gpt-5",
+      "score": 88.4,
+      "unit": "percent",
+      "date": "2025-08-07"
+    },
+    {
+      "id": "gpt-5-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "gpt-5",
+      "score": 74.9,
+      "unit": "percent",
+      "date": "2025-08-07"
+    },
+    {
+      "id": "gpt-5-5-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "gpt-5-5",
+      "score": 90.1,
+      "unit": "percent",
+      "date": "2026-03-12"
+    },
+    {
+      "id": "gpt-5-5-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "gpt-5-5",
+      "score": 79.2,
+      "unit": "percent",
+      "date": "2026-03-12"
+    },
+    {
+      "id": "claude-3-opus-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "claude-3-opus",
+      "score": 86.8,
+      "unit": "percent",
+      "date": "2024-03-04"
+    },
+    {
+      "id": "claude-opus-4-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "claude-opus-4",
+      "score": 72.5,
+      "unit": "percent",
+      "date": "2025-05-22"
+    },
+    {
+      "id": "claude-opus-4-1-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "claude-opus-4-1",
+      "score": 74.5,
+      "unit": "percent",
+      "date": "2025-08-05"
+    },
+    {
+      "id": "claude-opus-4-1-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "claude-opus-4-1",
+      "score": 87.2,
+      "unit": "percent",
+      "date": "2025-08-05"
+    },
+    {
+      "id": "gemini-25-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "gemini-2-5-pro",
+      "score": 86.4,
+      "unit": "percent",
+      "date": "2025-03-25"
+    },
+    {
+      "id": "gemini-25-aime",
+      "benchmarkId": "aime",
+      "modelId": "gemini-2-5-pro",
+      "score": 88.0,
+      "unit": "percent",
+      "date": "2025-03-25"
+    },
+    {
+      "id": "grok-3-aime",
+      "benchmarkId": "aime",
+      "modelId": "grok-3",
+      "score": 93.3,
+      "unit": "percent",
+      "date": "2025-02-17"
+    },
+    {
+      "id": "grok-4-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "grok-4",
+      "score": 87.5,
+      "unit": "percent",
+      "date": "2025-07-10"
+    },
+    {
+      "id": "llama-3-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "llama-3",
+      "score": 88.6,
+      "unit": "percent",
+      "date": "2024-07-23",
+      "notes": "405B instruct, reported."
+    },
+    {
+      "id": "llama-4-mmmu",
+      "benchmarkId": "mmmu",
+      "modelId": "llama-4-maverick",
+      "score": 73.4,
+      "unit": "percent",
+      "date": "2025-04-05"
+    },
+    {
+      "id": "mistral-large-2-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "mistral-large-2",
+      "score": 84.0,
+      "unit": "percent",
+      "date": "2024-07-24"
+    },
+    {
+      "id": "magistral-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "magistral",
+      "score": 79.8,
+      "unit": "percent",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "deepseek-v3-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "deepseek-v3",
+      "score": 88.5,
+      "unit": "percent",
+      "date": "2024-12-26"
+    },
+    {
+      "id": "deepseek-r1-aime",
+      "benchmarkId": "aime",
+      "modelId": "deepseek-r1",
+      "score": 79.8,
+      "unit": "percent",
+      "date": "2025-01-20"
+    },
+    {
+      "id": "deepseek-r1-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "deepseek-r1",
+      "score": 71.5,
+      "unit": "percent",
+      "date": "2025-01-20"
+    },
+    {
+      "id": "deepseek-v31-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "deepseek-v3-1",
+      "score": 66.0,
+      "unit": "percent",
+      "date": "2025-08-21"
+    },
+    {
+      "id": "kimi-k2-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "kimi-k2",
+      "score": 65.4,
+      "unit": "percent",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "qwen25-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "qwen-2-5",
+      "score": 86.1,
+      "unit": "percent",
+      "date": "2024-09-19"
+    },
+    {
+      "id": "qwen3-gpqa",
+      "benchmarkId": "gpqa",
+      "modelId": "qwen3",
+      "score": 73.4,
+      "unit": "percent",
+      "date": "2025-04-29"
+    },
+    {
+      "id": "qwen3-aime",
+      "benchmarkId": "aime",
+      "modelId": "qwen3",
+      "score": 81.5,
+      "unit": "percent",
+      "date": "2025-04-29"
+    },
+    {
+      "id": "glm45-swe",
+      "benchmarkId": "swe-bench",
+      "modelId": "glm-4-5",
+      "score": 64.2,
+      "unit": "percent",
+      "date": "2025-07-28"
+    },
+    {
+      "id": "yi-lightning-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "yi-lightning",
+      "score": 83.2,
+      "unit": "percent",
+      "date": "2024-10-16"
+    },
+    {
+      "id": "minimax-m1-aime",
+      "benchmarkId": "aime",
+      "modelId": "minimax-m1",
+      "score": 86.0,
+      "unit": "percent",
+      "date": "2025-06-17"
+    },
+    {
+      "id": "command-a-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "command-a",
+      "score": 85.5,
+      "unit": "percent",
+      "date": "2025-03-13"
+    },
+    {
+      "id": "jamba-15-mmlu",
+      "benchmarkId": "mmlu",
+      "modelId": "jamba-1-5",
+      "score": 80.0,
+      "unit": "percent",
+      "date": "2024-08-22"
+    }
+  ],
+  "researchAreas": [
+    {
+      "id": "agents",
+      "name": "Agents",
+      "description": "Long-horizon computer-use and workflow automation."
+    },
+    {
+      "id": "alignment",
+      "name": "Alignment",
+      "description": "Making highly capable models reliably pursue intended goals."
+    },
+    {
+      "id": "code",
+      "name": "Code intelligence",
+      "description": "Software engineering, repositories and developer tools."
+    },
+    {
+      "id": "efficiency",
+      "name": "Efficiency",
+      "description": "Training and inference efficiency at frontier scale."
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure",
+      "description": "Clusters, compilers and serving stacks."
+    },
+    {
+      "id": "multimodal",
+      "name": "Multimodal",
+      "description": "Joint modeling of text, image, audio and video."
+    },
+    {
+      "id": "open-weights",
+      "name": "Open weights",
+      "description": "Publicly released model weights and ecosystems."
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning",
+      "description": "Deliberative, tool-using and scientific problem solving."
+    },
+    {
+      "id": "safety",
+      "name": "Safety & security",
+      "description": "Evaluations, biosecurity, cyber and catastrophic-risk work."
+    },
+    {
+      "id": "science",
+      "name": "Scientific AI",
+      "description": "Biology, materials, mathematics and discovery systems."
+    },
+    {
+      "id": "speech",
+      "name": "Speech & audio",
+      "description": "Real-time voice, music and acoustic understanding."
+    },
+    {
+      "id": "video",
+      "name": "Video generation",
+      "description": "Native video understanding and synthesis."
+    }
+  ],
+  "researchLabs": [
+    {
+      "id": "anthropic-alignment",
+      "name": "Anthropic Alignment",
+      "companyId": "anthropic",
+      "countryId": "US",
+      "city": "San Francisco",
+      "description": "Constitutional AI, interpretability and safety evaluations.",
+      "focusAreaIds": [
+        "alignment",
+        "safety"
+      ],
+      "url": "https://www.anthropic.com/research"
+    },
+    {
+      "id": "cohere-for-ai",
+      "name": "Cohere For AI",
+      "companyId": "cohere",
+      "countryId": "CA",
+      "city": "Toronto",
+      "description": "Non-profit research arm; Aya multilingual models.",
+      "focusAreaIds": [
+        "open-weights"
+      ],
+      "url": "https://cohere.com/research"
+    },
+    {
+      "id": "deepmind-london",
+      "name": "Google DeepMind London",
+      "companyId": "google-deepmind",
+      "countryId": "GB",
+      "city": "London",
+      "description": "Original DeepMind campus; science and Gemini research.",
+      "focusAreaIds": [
+        "science",
+        "reasoning",
+        "multimodal"
+      ],
+      "url": "https://deepmind.google"
+    },
+    {
+      "id": "deepseek-hangzhou",
+      "name": "DeepSeek Research",
+      "companyId": "deepseek",
+      "countryId": "CN",
+      "city": "Hangzhou",
+      "description": "Capital-efficient frontier reasoning and MLA architectures.",
+      "focusAreaIds": [
+        "reasoning",
+        "efficiency",
+        "open-weights"
+      ],
+      "url": "https://www.deepseek.com"
+    },
+    {
+      "id": "fair",
+      "name": "FAIR",
+      "companyId": "meta",
+      "countryId": "US",
+      "city": "Menlo Park",
+      "description": "Facebook AI Research, still the open-science counterpart to Llama.",
+      "focusAreaIds": [
+        "open-weights",
+        "multimodal"
+      ],
+      "url": "https://ai.meta.com/research/"
+    },
+    {
+      "id": "mistral-paris",
+      "name": "Mistral Research",
+      "companyId": "mistral",
+      "countryId": "FR",
+      "city": "Paris",
+      "description": "European frontier training and open-weight releases.",
+      "focusAreaIds": [
+        "open-weights",
+        "efficiency",
+        "reasoning"
+      ],
+      "url": "https://mistral.ai"
+    },
+    {
+      "id": "openai-research",
+      "name": "OpenAI Research",
+      "companyId": "openai",
+      "countryId": "US",
+      "city": "San Francisco",
+      "description": "Core research org for GPT, Sora, alignment and agents.",
+      "focusAreaIds": [
+        "alignment",
+        "reasoning",
+        "multimodal",
+        "agents"
+      ],
+      "url": "https://openai.com/research/"
+    },
+    {
+      "id": "qwen-lab",
+      "name": "Qwen Team",
+      "companyId": "alibaba-qwen",
+      "countryId": "CN",
+      "city": "Hangzhou",
+      "description": "Alibaba Cloud foundation-model org.",
+      "focusAreaIds": [
+        "open-weights",
+        "multimodal",
+        "code"
+      ],
+      "url": "https://qwen.ai"
+    },
+    {
+      "id": "ssi-lab",
+      "name": "SSI",
+      "companyId": "ssi",
+      "countryId": "US",
+      "city": "Palo Alto",
+      "description": "Single-purpose safe superintelligence research.",
+      "focusAreaIds": [
+        "alignment",
+        "safety"
+      ],
+      "url": "https://ssi.inc"
+    },
+    {
+      "id": "thudm",
+      "name": "THUDM / Zhipu",
+      "companyId": "zhipu",
+      "countryId": "CN",
+      "city": "Beijing",
+      "description": "Tsinghua knowledge-engine lab behind GLM.",
+      "focusAreaIds": [
+        "open-weights",
+        "reasoning"
+      ],
+      "url": "https://github.com/THUDM"
+    },
+    {
+      "id": "tml-lab",
+      "name": "Thinking Machines Lab",
+      "companyId": "thinking-machines",
+      "countryId": "US",
+      "city": "San Francisco",
+      "description": "Independent research lab founded by Mira Murati.",
+      "focusAreaIds": [
+        "alignment",
+        "infrastructure",
+        "reasoning"
+      ],
+      "url": "https://thinkingmachines.ai"
+    }
+  ]
+}

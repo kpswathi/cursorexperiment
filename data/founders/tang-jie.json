@@ -1,0 +1,33 @@
+{
+  "id": "tang-jie",
+  "name": "Jie Tang",
+  "slug": "tang-jie",
+  "photo": "/avatars/tang-jie.svg",
+  "title": "Co-founder, Zhipu AI",
+  "biography": "Tsinghua professor behind the AMiner academic graph and a co-founder of Zhipu AI, one of China's earliest ChatGLM / GLM labs.",
+  "companyIds": [
+    "zhipu"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Tsinghua University",
+      "role": "Professor"
+    }
+  ],
+  "researchContributions": [
+    "ChatGLM / GLM family",
+    "AMiner",
+    "Chinese open academic graphs"
+  ],
+  "timeline": [
+    {
+      "id": "tang-zhipu",
+      "date": "2019-06-01",
+      "title": "Co-founded Zhipu AI",
+      "description": "Commercialized Tsinghua GLM research.",
+      "type": "founded",
+      "companyId": "zhipu"
+    }
+  ],
+  "countryId": "CN"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "deepseek",
+  "name": "DeepSeek",
+  "slug": "deepseek",
+  "logo": "/logos/deepseek.svg",
+  "description": "Hangzhou lab whose V3 and R1 models reset expectations for capital-efficient frontier reasoning.",
+  "longDescription": "DeepSeek emerged from the High-Flyer quant fund and shocked the industry when DeepSeek-V3 and R1 reached frontier-class reasoning at a fraction of typical training spend. The lab releases open weights, runs a consumer chat app, and has become the reference point for Chinese open-source reasoning models.",
+  "headquarters": "Hangzhou, China",
+  "city": "Hangzhou",
+  "countryId": "CN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 120.1551,
+    "lat": 30.2741
+  },
+  "founderIds": [
+    "liang-wenfeng"
+  ],
+  "ceoId": "liang-wenfeng",
+  "founded": "2023-07-01",
+  "employees": 200,
+  "employeesAsOf": "2026-01",
+  "totalFundingUsd": 0,
+  "valuationUsd": null,
+  "revenueUsd": null,
+  "investors": [
+    "High-Flyer"
+  ],
+  "website": "https://www.deepseek.com",
+  "blogUrl": "https://api-docs.deepseek.com",
+  "githubOrg": "deepseek-ai",
+  "huggingFaceOrg": "deepseek-ai",
+  "consumerProducts": [
+    {
+      "id": "deepseek-chat",
+      "name": "DeepSeek Chat",
+      "description": "Consumer assistant and web search companion.",
+      "url": "https://chat.deepseek.com",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "deepseek-api",
+      "name": "DeepSeek API",
+      "description": "Low-cost V3/R1 API used globally.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "reasoning",
+    "open-weights",
+    "efficiency",
+    "code"
+  ],
+  "latestModelId": "deepseek-v3-1",
+  "latestNewsId": "deepseek-v3-1",
+  "tags": [
+    "frontier",
+    "open-weights",
+    "china",
+    "reasoning"
+  ],
+  "openSource": true,
+  "closedSource": false,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#4d6bfe",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "deepseek-founded",
+      "date": "2023-07-01",
+      "title": "Founded",
+      "description": "Lab formed in Hangzhou out of High-Flyer.",
+      "type": "founded",
+      "companyId": "deepseek"
+    },
+    {
+      "id": "deepseek-v2",
+      "date": "2024-05-06",
+      "title": "DeepSeek-V2",
+      "description": "MLA architecture and cheap API.",
+      "type": "model",
+      "companyId": "deepseek",
+      "modelId": "deepseek-v2"
+    },
+    {
+      "id": "deepseek-v3",
+      "date": "2024-12-26",
+      "title": "DeepSeek-V3",
+      "description": "671B MoE that reached frontier open-weight quality.",
+      "type": "model",
+      "companyId": "deepseek",
+      "modelId": "deepseek-v3"
+    },
+    {
+      "id": "deepseek-r1",
+      "date": "2025-01-20",
+      "title": "DeepSeek-R1",
+      "description": "Open reasoning model that triggered a global cost shock.",
+      "type": "model",
+      "companyId": "deepseek",
+      "modelId": "deepseek-r1"
+    },
+    {
+      "id": "deepseek-v3-1",
+      "date": "2025-08-21",
+      "title": "DeepSeek-V3.1",
+      "description": "Hybrid think / non-think successor.",
+      "type": "model",
+      "companyId": "deepseek",
+      "modelId": "deepseek-v3-1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "yoav-shoham",
+  "name": "Yoav Shoham",
+  "slug": "yoav-shoham",
+  "photo": "/avatars/yoav-shoham.svg",
+  "title": "Co-founder, AI21 Labs",
+  "biography": "Stanford professor emeritus and AI21 co-founder. Long-time multi-agent systems researcher who helped build Jurassic and later the Jamba hybrid architecture.",
+  "companyIds": [
+    "ai21"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Stanford University",
+      "role": "Professor"
+    }
+  ],
+  "researchContributions": [
+    "Multi-agent systems",
+    "Jurassic / Jamba"
+  ],
+  "timeline": [
+    {
+      "id": "yoav-ai21",
+      "date": "2017-01-01",
+      "title": "Co-founded AI21 Labs",
+      "description": "Launched the Tel Aviv lab.",
+      "type": "founded",
+      "companyId": "ai21"
+    }
+  ],
+  "countryId": "IL"
+}

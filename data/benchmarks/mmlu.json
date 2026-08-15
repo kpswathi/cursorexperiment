@@ -1,0 +1,6 @@
+{
+  "id": "mmlu",
+  "name": "MMLU",
+  "category": "knowledge",
+  "description": "Broad professional and academic knowledge."
+}

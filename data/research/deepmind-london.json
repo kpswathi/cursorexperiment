@@ -1,0 +1,14 @@
+{
+  "id": "deepmind-london",
+  "name": "Google DeepMind London",
+  "companyId": "google-deepmind",
+  "countryId": "GB",
+  "city": "London",
+  "description": "Original DeepMind campus; science and Gemini research.",
+  "focusAreaIds": [
+    "science",
+    "reasoning",
+    "multimodal"
+  ],
+  "url": "https://deepmind.google"
+}

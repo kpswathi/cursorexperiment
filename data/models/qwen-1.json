@@ -1,0 +1,26 @@
+{
+  "id": "qwen-1",
+  "name": "Qwen",
+  "slug": "qwen-1",
+  "companyId": "alibaba-qwen",
+  "releaseDate": "2023-04-07",
+  "family": "Qwen",
+  "previousModelId": null,
+  "description": "First Tongyi Qianwen generation.",
+  "capabilities": {
+    "reasoning": 2,
+    "coding": 2,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 2,
+    "agentSupport": 0
+  },
+  "contextWindow": 8192,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Alibaba's first foundation-model entry.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://qwenlm.github.io"
+}

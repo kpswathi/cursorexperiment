@@ -1,0 +1,28 @@
+{
+  "id": "deepseek-v3",
+  "name": "DeepSeek-V3",
+  "slug": "deepseek-v3",
+  "companyId": "deepseek",
+  "releaseDate": "2024-12-26",
+  "family": "DeepSeek-V",
+  "previousModelId": "deepseek-v2",
+  "description": "671B MoE that reached frontier open-weight quality.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 5,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Frontier-class open MoE trained at unusually low reported cost.",
+  "benchmarkScoreIds": [
+    "deepseek-v3-mmlu"
+  ],
+  "announcementUrl": "https://github.com/deepseek-ai/DeepSeek-V3"
+}

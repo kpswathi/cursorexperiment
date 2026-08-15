@@ -1,0 +1,26 @@
+{
+  "id": "mistral-large",
+  "name": "Mistral Large",
+  "slug": "mistral-large",
+  "companyId": "mistral",
+  "releaseDate": "2024-02-26",
+  "family": "Mistral",
+  "previousModelId": "mixtral-8x7b",
+  "description": "First closed Mistral flagship.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 3,
+    "agentSupport": 3
+  },
+  "contextWindow": 32000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Closed flagship aimed at GPT-4-class enterprise tasks.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://mistral.ai/news/mistral-large/"
+}

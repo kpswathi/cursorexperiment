@@ -1,0 +1,5 @@
+{
+  "id": "multimodal",
+  "name": "Multimodal",
+  "description": "Joint modeling of text, image, audio and video."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mira-murati",
+  "name": "Mira Murati",
+  "slug": "mira-murati",
+  "photo": "/avatars/mira-murati.svg",
+  "title": "CEO, Thinking Machines Lab",
+  "biography": "Former OpenAI CTO who oversaw ChatGPT, GPT-4, DALL·E and voice mode. Left in 2024 and founded Thinking Machines Lab in 2025 with a large seed round and a research-first mandate.",
+  "companyIds": [
+    "thinking-machines"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Tesla",
+      "role": "Engineer"
+    },
+    {
+      "name": "OpenAI",
+      "role": "CTO",
+      "years": "2018–2024"
+    }
+  ],
+  "researchContributions": [
+    "OpenAI product-research interface",
+    "Thinking Machines research platform"
+  ],
+  "timeline": [
+    {
+      "id": "mira-openai-cto",
+      "date": "2022-05-01",
+      "title": "OpenAI CTO",
+      "description": "Became chief technology officer during the ChatGPT ramp.",
+      "type": "leadership",
+      "companyId": "openai"
+    },
+    {
+      "id": "mira-tml",
+      "date": "2025-02-01",
+      "title": "Founded Thinking Machines Lab",
+      "description": "Started a new San Francisco research lab.",
+      "type": "founded",
+      "companyId": "thinking-machines"
+    }
+  ],
+  "countryId": "US"
+}

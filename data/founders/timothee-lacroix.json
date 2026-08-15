@@ -1,0 +1,32 @@
+{
+  "id": "timothee-lacroix",
+  "name": "Timothée Lacroix",
+  "slug": "timothee-lacroix",
+  "photo": "/avatars/timothee-lacroix.svg",
+  "title": "CTO, Mistral AI",
+  "biography": "Research engineer and Mistral co-founder focused on training infrastructure and efficient open-weight architectures.",
+  "companyIds": [
+    "mistral"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Meta FAIR",
+      "role": "Research engineer"
+    }
+  ],
+  "researchContributions": [
+    "Mistral training stack",
+    "Mixtral architecture"
+  ],
+  "timeline": [
+    {
+      "id": "timothee-mistral",
+      "date": "2023-04-01",
+      "title": "Co-founded Mistral AI",
+      "description": "Joined as CTO.",
+      "type": "founded",
+      "companyId": "mistral"
+    }
+  ],
+  "countryId": "FR"
+}

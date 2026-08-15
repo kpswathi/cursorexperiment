@@ -1,0 +1,91 @@
+{
+  "id": "thinking-machines",
+  "name": "Thinking Machines Lab",
+  "slug": "thinking-machines",
+  "logo": "/logos/thinking-machines.svg",
+  "description": "Mira Murati's San Francisco research lab, seeded at frontier scale in 2025.",
+  "longDescription": "Thinking Machines Lab was founded by former OpenAI CTO Mira Murati in 2025. It raised one of the largest seed rounds in AI history and has started to surface research infrastructure (including the Tinker platform) while remaining primarily a research organization rather than a consumer-model vendor.",
+  "headquarters": "San Francisco, California",
+  "city": "San Francisco",
+  "countryId": "US",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -122.4313,
+    "lat": 37.7739
+  },
+  "founderIds": [
+    "mira-murati"
+  ],
+  "ceoId": "mira-murati",
+  "founded": "2025-02-01",
+  "employees": 150,
+  "employeesAsOf": "2026-04",
+  "totalFundingUsd": 2000000000,
+  "valuationUsd": 10000000000,
+  "valuationAsOf": "2025-07",
+  "revenueUsd": null,
+  "investors": [
+    "Andreessen Horowitz",
+    "Nvidia",
+    "Jane Street",
+    "Accel"
+  ],
+  "website": "https://thinkingmachines.ai",
+  "blogUrl": "https://thinkingmachines.ai",
+  "githubOrg": "thinking-machines-lab",
+  "consumerProducts": [],
+  "enterpriseProducts": [
+    {
+      "id": "tinker",
+      "name": "Tinker",
+      "description": "Research / fine-tuning platform surfaced by the lab.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "alignment",
+    "reasoning",
+    "multimodal",
+    "infrastructure"
+  ],
+  "latestModelId": null,
+  "latestNewsId": "tml-seed",
+  "tags": [
+    "research",
+    "frontier",
+    "stealth"
+  ],
+  "openSource": false,
+  "closedSource": true,
+  "consumer": false,
+  "enterprise": true,
+  "color": "#7c3aed",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "tml-founded",
+      "date": "2025-02-01",
+      "title": "Founded",
+      "description": "Mira Murati launched Thinking Machines Lab.",
+      "type": "founded",
+      "companyId": "thinking-machines"
+    },
+    {
+      "id": "tml-seed",
+      "date": "2025-07-15",
+      "title": "Seed financing",
+      "description": "Approximately $2B raised at a $10B valuation.",
+      "type": "funding",
+      "companyId": "thinking-machines",
+      "fundingId": "tml-seed"
+    },
+    {
+      "id": "tml-tinker",
+      "date": "2026-04-28",
+      "title": "Tinker",
+      "description": "First public research platform.",
+      "type": "product",
+      "companyId": "thinking-machines"
+    }
+  ]
+}

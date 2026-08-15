@@ -1,0 +1,29 @@
+{
+  "id": "claude-opus-4-1",
+  "name": "Claude Opus 4.1",
+  "slug": "claude-opus-4-1",
+  "companyId": "anthropic",
+  "releaseDate": "2025-08-05",
+  "family": "Claude",
+  "previousModelId": "claude-opus-4",
+  "description": "Latest public Opus-class Claude.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 5,
+    "vision": 4,
+    "audio": 2,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 5
+  },
+  "contextWindow": 200000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Incremental but material coding and research-agent gains on Opus 4.",
+  "benchmarkScoreIds": [
+    "claude-opus-4-1-swe",
+    "claude-opus-4-1-gpqa"
+  ],
+  "announcementUrl": "https://www.anthropic.com/news/claude-opus-4-1"
+}

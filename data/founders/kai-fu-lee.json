@@ -1,0 +1,36 @@
+{
+  "id": "kai-fu-lee",
+  "name": "Kai-Fu Lee",
+  "slug": "kai-fu-lee",
+  "photo": "/avatars/kai-fu-lee.svg",
+  "title": "CEO, 01.AI",
+  "biography": "Former Apple, Microsoft and Google China executive and Sinovation founder. Launched 01.AI in 2023 to build the Yi model family and a bilingual assistant stack.",
+  "companyIds": [
+    "01ai"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Apple / Microsoft / Google China",
+      "role": "Executive"
+    },
+    {
+      "name": "Sinovation Ventures",
+      "role": "Founder"
+    }
+  ],
+  "researchContributions": [
+    "Yi model family",
+    "China–US AI industrial commentary"
+  ],
+  "timeline": [
+    {
+      "id": "kaifu-01ai",
+      "date": "2023-03-01",
+      "title": "Founded 01.AI",
+      "description": "Entered the foundation-model race with Yi.",
+      "type": "founded",
+      "companyId": "01ai"
+    }
+  ],
+  "countryId": "CN"
+}

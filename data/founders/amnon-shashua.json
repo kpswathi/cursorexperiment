@@ -1,0 +1,36 @@
+{
+  "id": "amnon-shashua",
+  "name": "Amnon Shashua",
+  "slug": "amnon-shashua",
+  "photo": "/avatars/amnon-shashua.svg",
+  "title": "Co-founder, AI21 Labs",
+  "biography": "Hebrew University professor, Mobileye founder and AI21 co-founder. Bridges automotive computer vision and foundation-model research in Israel.",
+  "companyIds": [
+    "ai21"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Mobileye",
+      "role": "Co-founder & CEO"
+    },
+    {
+      "name": "Intel",
+      "role": "SVP after Mobileye acquisition"
+    }
+  ],
+  "researchContributions": [
+    "Mobileye computer vision",
+    "AI21 foundation models"
+  ],
+  "timeline": [
+    {
+      "id": "amnon-ai21",
+      "date": "2017-01-01",
+      "title": "Co-founded AI21 Labs",
+      "description": "Backed a new Israeli LLM lab.",
+      "type": "founded",
+      "companyId": "ai21"
+    }
+  ],
+  "countryId": "IL"
+}

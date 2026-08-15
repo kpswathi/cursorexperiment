@@ -1,0 +1,28 @@
+{
+  "id": "claude-3-opus",
+  "name": "Claude 3 Opus",
+  "slug": "claude-3-opus",
+  "companyId": "anthropic",
+  "releaseDate": "2024-03-04",
+  "family": "Claude",
+  "previousModelId": null,
+  "description": "2024 Opus-class model that established Claude as a frontier peer.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 3,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 3
+  },
+  "contextWindow": 200000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Large jump over Claude 2.1 in reasoning, vision and 200K context.",
+  "benchmarkScoreIds": [
+    "claude-3-opus-mmlu"
+  ],
+  "announcementUrl": "https://www.anthropic.com/news/claude-3-family"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "deepseek-hangzhou",
+  "name": "DeepSeek Research",
+  "companyId": "deepseek",
+  "countryId": "CN",
+  "city": "Hangzhou",
+  "description": "Capital-efficient frontier reasoning and MLA architectures.",
+  "focusAreaIds": [
+    "reasoning",
+    "efficiency",
+    "open-weights"
+  ],
+  "url": "https://www.deepseek.com"
+}

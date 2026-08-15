@@ -1,0 +1,28 @@
+{
+  "id": "llama-4-maverick",
+  "name": "Llama 4 Maverick",
+  "slug": "llama-4-maverick",
+  "companyId": "meta",
+  "releaseDate": "2025-04-05",
+  "family": "Llama",
+  "previousModelId": "llama-3",
+  "description": "Mixture-of-experts Llama 4 production model.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 4
+  },
+  "contextWindow": 1000000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Native MoE, native multimodality and million-token context versus Llama 3 dense.",
+  "benchmarkScoreIds": [
+    "llama-4-mmmu"
+  ],
+  "announcementUrl": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
+}

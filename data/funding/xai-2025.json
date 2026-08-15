@@ -1,0 +1,15 @@
+{
+  "id": "xai-2025",
+  "companyId": "xai",
+  "date": "2025-11-20",
+  "round": "Primary",
+  "amountUsd": 5000000000,
+  "valuationUsd": 50000000000,
+  "investors": [
+    "Elon Musk",
+    "Kingdom of Saudi Arabia"
+  ],
+  "leadInvestors": [
+    "Elon Musk"
+  ]
+}

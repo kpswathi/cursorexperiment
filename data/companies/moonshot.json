@@ -1,0 +1,109 @@
+{
+  "id": "moonshot",
+  "name": "Moonshot AI",
+  "slug": "moonshot",
+  "logo": "/logos/moonshot.svg",
+  "description": "Beijing lab behind the Kimi assistant and long-context Kimi K2 models.",
+  "longDescription": "Moonshot AI, founded by Transformer-XL author Yang Zhilin, productized long context earlier than most peers through the Kimi assistant. The lab is one of China's so-called AI tigers and has raised large domestic rounds while competing on agents and million-token context.",
+  "headquarters": "Beijing, China",
+  "city": "Beijing",
+  "countryId": "CN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 116.4074,
+    "lat": 39.9042
+  },
+  "founderIds": [
+    "yang-zhilin"
+  ],
+  "ceoId": "yang-zhilin",
+  "founded": "2023-03-01",
+  "employees": 400,
+  "employeesAsOf": "2025-12",
+  "totalFundingUsd": 1200000000,
+  "valuationUsd": 3300000000,
+  "valuationAsOf": "2024-08",
+  "revenueUsd": null,
+  "investors": [
+    "Alibaba",
+    "HongShan",
+    "Tencent",
+    "Meituan"
+  ],
+  "website": "https://www.moonshot.cn",
+  "blogUrl": "https://kimi.moonshot.cn",
+  "githubOrg": "MoonshotAI",
+  "huggingFaceOrg": "moonshotai",
+  "consumerProducts": [
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "description": "Long-context consumer assistant.",
+      "url": "https://kimi.moonshot.cn",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "kimi-api",
+      "name": "Kimi API",
+      "description": "Developer access to Kimi models.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "reasoning",
+    "agents",
+    "multimodal"
+  ],
+  "latestModelId": "kimi-k2",
+  "latestNewsId": "moonshot-kimi-k2",
+  "tags": [
+    "frontier",
+    "china",
+    "consumer",
+    "long-context"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#7c5cff",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "moonshot-founded",
+      "date": "2023-03-01",
+      "title": "Founded",
+      "description": "Yang Zhilin launched Moonshot in Beijing.",
+      "type": "founded",
+      "companyId": "moonshot"
+    },
+    {
+      "id": "moonshot-kimi",
+      "date": "2023-10-01",
+      "title": "Kimi assistant",
+      "description": "Consumer product with very long context.",
+      "type": "product",
+      "companyId": "moonshot"
+    },
+    {
+      "id": "moonshot-k1-5",
+      "date": "2025-01-20",
+      "title": "Kimi k1.5",
+      "description": "Multimodal reasoning model.",
+      "type": "model",
+      "companyId": "moonshot",
+      "modelId": "kimi-k1-5"
+    },
+    {
+      "id": "moonshot-k2",
+      "date": "2025-07-11",
+      "title": "Kimi K2",
+      "description": "Latest Kimi-class model with agent emphasis.",
+      "type": "model",
+      "companyId": "moonshot",
+      "modelId": "kimi-k2"
+    }
+  ]
+}

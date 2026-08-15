@@ -1,0 +1,108 @@
+{
+  "id": "alibaba-qwen",
+  "name": "Alibaba (Qwen)",
+  "slug": "alibaba-qwen",
+  "logo": "/logos/alibaba-qwen.svg",
+  "description": "Alibaba Cloud's Tongyi Qianwen lab — the Qwen family used across China and open-source globally.",
+  "longDescription": "Qwen is Alibaba's foundation-model line, spanning dense and MoE text models, VL, audio and coder variants. It is both a cloud product (Model Studio / Bailian) and one of the most downloaded open-weight families on Hugging Face. The lab sits inside Alibaba Cloud rather than as a standalone startup.",
+  "headquarters": "Hangzhou, China",
+  "city": "Hangzhou",
+  "countryId": "CN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 120.172,
+    "lat": 30.25
+  },
+  "founderIds": [
+    "jingren-zhou"
+  ],
+  "ceoId": "jingren-zhou",
+  "founded": "2023-04-01",
+  "employees": 1500,
+  "employeesAsOf": "2026-01 Alibaba Cloud AI estimate",
+  "totalFundingUsd": null,
+  "valuationUsd": null,
+  "revenueUsd": null,
+  "investors": [
+    "Alibaba Group"
+  ],
+  "website": "https://qwen.ai",
+  "blogUrl": "https://qwenlm.github.io",
+  "githubOrg": "QwenLM",
+  "huggingFaceOrg": "Qwen",
+  "consumerProducts": [
+    {
+      "id": "qwen-chat",
+      "name": "Qwen Chat",
+      "description": "Tongyi Qianwen consumer assistant.",
+      "url": "https://chat.qwen.ai",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "model-studio",
+      "name": "Alibaba Cloud Model Studio",
+      "description": "Qwen API, agents and industry apps.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "open-weights",
+    "multimodal",
+    "code",
+    "reasoning"
+  ],
+  "latestModelId": "qwen3",
+  "latestNewsId": "qwen-qwen3",
+  "tags": [
+    "frontier",
+    "open-weights",
+    "china",
+    "cloud"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#ff6a00",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "qwen-launch",
+      "date": "2023-04-07",
+      "title": "Tongyi Qianwen",
+      "description": "Alibaba entered the foundation-model market.",
+      "type": "model",
+      "companyId": "alibaba-qwen",
+      "modelId": "qwen-1"
+    },
+    {
+      "id": "qwen-2",
+      "date": "2024-06-06",
+      "title": "Qwen2",
+      "description": "Major open-weight upgrade.",
+      "type": "model",
+      "companyId": "alibaba-qwen",
+      "modelId": "qwen-2"
+    },
+    {
+      "id": "qwen-25",
+      "date": "2024-09-19",
+      "title": "Qwen2.5",
+      "description": "Broader size ladder and coder/VL variants.",
+      "type": "model",
+      "companyId": "alibaba-qwen",
+      "modelId": "qwen-2-5"
+    },
+    {
+      "id": "qwen-3",
+      "date": "2025-04-29",
+      "title": "Qwen3",
+      "description": "Hybrid thinking models and denser open lineup.",
+      "type": "model",
+      "companyId": "alibaba-qwen",
+      "modelId": "qwen3"
+    }
+  ]
+}

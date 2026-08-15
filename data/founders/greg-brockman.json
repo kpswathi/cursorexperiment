@@ -1,0 +1,33 @@
+{
+  "id": "greg-brockman",
+  "name": "Greg Brockman",
+  "slug": "greg-brockman",
+  "photo": "/avatars/greg-brockman.svg",
+  "title": "President & Co-founder, OpenAI",
+  "biography": "Former Stripe CTO and OpenAI co-founder. Known for building the engineering culture behind the API, ChatGPT and large-scale training infrastructure.",
+  "companyIds": [
+    "openai"
+  ],
+  "previousCompanies": [
+    {
+      "name": "Stripe",
+      "role": "CTO",
+      "years": "2010–2015"
+    }
+  ],
+  "researchContributions": [
+    "Large-scale training infrastructure",
+    "OpenAI API platform"
+  ],
+  "timeline": [
+    {
+      "id": "greg-brockman-openai",
+      "date": "2015-12-11",
+      "title": "Co-founded OpenAI",
+      "description": "Left Stripe to start a new AI research lab.",
+      "type": "founded",
+      "companyId": "openai"
+    }
+  ],
+  "countryId": "US"
+}

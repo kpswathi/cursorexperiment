@@ -1,0 +1,93 @@
+# Official public sources only. No paid APIs, no OpenAI/Gemini keys.
+# The frontend never calls these URLs; scripts/update.py writes JSON.
+
+rss:
+  - id: openai
+    companyId: openai
+    url: https://openai.com/news/rss.xml
+    source: OpenAI
+  - id: anthropic
+    companyId: anthropic
+    url: https://www.anthropic.com/news/rss.xml
+    source: Anthropic
+  - id: deepmind
+    companyId: google-deepmind
+    url: https://deepmind.google/blog/rss.xml
+    source: Google DeepMind
+  - id: meta-ai
+    companyId: meta
+    url: https://ai.meta.com/blog/rss/
+    source: Meta AI
+  - id: mistral
+    companyId: mistral
+    url: https://mistral.ai/news/rss.xml
+    source: Mistral AI
+  - id: cohere
+    companyId: cohere
+    url: https://cohere.com/blog/rss.xml
+    source: Cohere
+  - id: huggingface
+    companyId: null
+    url: https://huggingface.co/blog/feed.xml
+    source: Hugging Face
+
+blogs:
+  - id: qwen
+    companyId: alibaba-qwen
+    url: https://qwenlm.github.io
+    source: Qwen
+    link_contains: /blog/
+  - id: xai
+    companyId: xai
+    url: https://x.ai/news
+    source: xAI
+    link_contains: /news
+  - id: anthropic-blog
+    companyId: anthropic
+    url: https://www.anthropic.com/news
+    source: Anthropic
+    link_contains: /news/
+
+github:
+  - companyId: openai
+    repo: openai/whisper
+  - companyId: openai
+    repo: openai/openai-python
+  - companyId: mistral
+    repo: mistralai/mistral-src
+  - companyId: deepseek
+    repo: deepseek-ai/DeepSeek-V3
+  - companyId: deepseek
+    repo: deepseek-ai/DeepSeek-R1
+  - companyId: alibaba-qwen
+    repo: QwenLM/Qwen3
+  - companyId: meta
+    repo: meta-llama/llama-models
+  - companyId: zhipu
+    repo: THUDM/GLM-4
+  - companyId: 01ai
+    repo: 01-ai/Yi
+  - companyId: minimax
+    repo: MiniMax-AI/MiniMax-M1
+
+huggingface:
+  - companyId: alibaba-qwen
+    author: Qwen
+  - companyId: meta
+    author: meta-llama
+  - companyId: mistral
+    author: mistralai
+  - companyId: deepseek
+    author: deepseek-ai
+  - companyId: moonshot
+    author: moonshotai
+  - companyId: zhipu
+    author: THUDM
+  - companyId: 01ai
+    author: 01-ai
+  - companyId: minimax
+    author: MiniMaxAI
+  - companyId: cohere
+    author: CohereForAI
+  - companyId: ai21
+    author: ai21labs

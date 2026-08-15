@@ -1,0 +1,26 @@
+{
+  "id": "aya-23",
+  "name": "Aya 23",
+  "slug": "aya-23",
+  "companyId": "cohere",
+  "releaseDate": "2024-05-23",
+  "family": "Aya",
+  "previousModelId": null,
+  "description": "Multilingual open-weight family from Cohere For AI.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 2,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 3,
+    "agentSupport": 0
+  },
+  "contextWindow": 8192,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "23-language coverage far beyond typical English-centric open models.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://cohere.com/blog/aya23"
+}

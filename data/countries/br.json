@@ -1,0 +1,15 @@
+{
+  "id": "BR",
+  "name": "Brazil",
+  "iso3": "BRA",
+  "regionId": "latin-america",
+  "coordinates": {
+    "lng": -47.9,
+    "lat": -15.8
+  },
+  "description": "Reserved for future coverage.",
+  "enabled": false,
+  "activityScore": 0,
+  "companyCount": 0,
+  "modelCount": 0
+}

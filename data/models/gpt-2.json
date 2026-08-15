@@ -1,0 +1,26 @@
+{
+  "id": "gpt-2",
+  "name": "GPT-2",
+  "slug": "gpt-2",
+  "companyId": "openai",
+  "releaseDate": "2019-02-14",
+  "family": "GPT",
+  "previousModelId": "gpt",
+  "description": "1.5B-parameter model that triggered staged-release debate.",
+  "capabilities": {
+    "reasoning": 2,
+    "coding": 2,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 1,
+    "agentSupport": 0
+  },
+  "contextWindow": 1024,
+  "openClosed": "open-weights",
+  "apiAvailable": false,
+  "whatsNew": "Much stronger open-ended generation; staged release over misuse concerns.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://openai.com/index/better-language-models/"
+}

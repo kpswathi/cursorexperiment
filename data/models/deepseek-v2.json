@@ -1,0 +1,26 @@
+{
+  "id": "deepseek-v2",
+  "name": "DeepSeek-V2",
+  "slug": "deepseek-v2",
+  "companyId": "deepseek",
+  "releaseDate": "2024-05-06",
+  "family": "DeepSeek-V",
+  "previousModelId": null,
+  "description": "MLA architecture and aggressive API pricing.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 4,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 0
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Multi-head latent attention and cheap serving.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://github.com/deepseek-ai/DeepSeek-V2"
+}

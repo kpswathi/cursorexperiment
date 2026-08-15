@@ -1,0 +1,16 @@
+{
+  "id": "tml-seed",
+  "companyId": "thinking-machines",
+  "date": "2025-07-15",
+  "round": "Seed",
+  "amountUsd": 2000000000,
+  "valuationUsd": 10000000000,
+  "investors": [
+    "Andreessen Horowitz",
+    "Nvidia",
+    "Jane Street"
+  ],
+  "leadInvestors": [
+    "Andreessen Horowitz"
+  ]
+}

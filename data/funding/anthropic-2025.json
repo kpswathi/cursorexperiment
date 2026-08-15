@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-2025",
+  "companyId": "anthropic",
+  "date": "2025-03-03",
+  "round": "Series E",
+  "amountUsd": 3500000000,
+  "valuationUsd": 61500000000,
+  "investors": [
+    "Lightspeed",
+    "Salesforce",
+    "Cisco"
+  ],
+  "leadInvestors": [
+    "Lightspeed"
+  ]
+}

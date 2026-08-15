@@ -1,0 +1,26 @@
+{
+  "id": "llama-1",
+  "name": "LLaMA",
+  "slug": "llama-1",
+  "companyId": "meta",
+  "releaseDate": "2023-02-24",
+  "family": "Llama",
+  "previousModelId": null,
+  "description": "Research-only weights that seeded the open-source boom.",
+  "capabilities": {
+    "reasoning": 2,
+    "coding": 2,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 2,
+    "agentSupport": 0
+  },
+  "contextWindow": 2048,
+  "openClosed": "open-weights",
+  "apiAvailable": false,
+  "whatsNew": "Competitive 7B–65B dense models released to researchers.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://ai.meta.com/blog/large-language-model-llama-meta-ai/"
+}

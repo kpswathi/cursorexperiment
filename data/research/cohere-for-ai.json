@@ -1,0 +1,12 @@
+{
+  "id": "cohere-for-ai",
+  "name": "Cohere For AI",
+  "companyId": "cohere",
+  "countryId": "CA",
+  "city": "Toronto",
+  "description": "Non-profit research arm; Aya multilingual models.",
+  "focusAreaIds": [
+    "open-weights"
+  ],
+  "url": "https://cohere.com/research"
+}

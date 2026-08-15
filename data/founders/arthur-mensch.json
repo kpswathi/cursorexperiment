@@ -1,0 +1,32 @@
+{
+  "id": "arthur-mensch",
+  "name": "Arthur Mensch",
+  "slug": "arthur-mensch",
+  "photo": "/avatars/arthur-mensch.svg",
+  "title": "CEO, Mistral AI",
+  "biography": "Former DeepMind / Google Brain researcher who co-founded Mistral AI in Paris. Has positioned the company as Europe's leading frontier lab with a mix of open weights and commercial APIs.",
+  "companyIds": [
+    "mistral"
+  ],
+  "previousCompanies": [
+    {
+      "name": "DeepMind / Google Brain",
+      "role": "Research scientist"
+    }
+  ],
+  "researchContributions": [
+    "Large-scale training at Mistral",
+    "Open-weight European frontier models"
+  ],
+  "timeline": [
+    {
+      "id": "arthur-mistral",
+      "date": "2023-04-01",
+      "title": "Founded Mistral AI",
+      "description": "Launched the Paris lab with Lample and Lacroix.",
+      "type": "founded",
+      "companyId": "mistral"
+    }
+  ],
+  "countryId": "FR"
+}

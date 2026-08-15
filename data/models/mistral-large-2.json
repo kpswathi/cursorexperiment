@@ -1,0 +1,28 @@
+{
+  "id": "mistral-large-2",
+  "name": "Mistral Large 2",
+  "slug": "mistral-large-2",
+  "companyId": "mistral",
+  "releaseDate": "2024-07-24",
+  "family": "Mistral",
+  "previousModelId": "mistral-large",
+  "description": "Production Large-class model.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 2,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Better code, multilingual and 128K context versus Large.",
+  "benchmarkScoreIds": [
+    "mistral-large-2-mmlu"
+  ],
+  "announcementUrl": "https://mistral.ai/news/mistral-large-2407/"
+}

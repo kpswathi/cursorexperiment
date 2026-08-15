@@ -1,0 +1,29 @@
+{
+  "id": "deepseek-r1",
+  "name": "DeepSeek-R1",
+  "slug": "deepseek-r1",
+  "companyId": "deepseek",
+  "releaseDate": "2025-01-20",
+  "family": "DeepSeek-R",
+  "previousModelId": "deepseek-v3",
+  "description": "Open reasoning model that reset global cost expectations.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 5,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "RL-trained reasoning traces competitive with o1-class models.",
+  "benchmarkScoreIds": [
+    "deepseek-r1-aime",
+    "deepseek-r1-gpqa"
+  ],
+  "announcementUrl": "https://github.com/deepseek-ai/DeepSeek-R1"
+}

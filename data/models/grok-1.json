@@ -1,0 +1,26 @@
+{
+  "id": "grok-1",
+  "name": "Grok-1",
+  "slug": "grok-1",
+  "companyId": "xai",
+  "releaseDate": "2023-11-04",
+  "family": "Grok",
+  "previousModelId": null,
+  "description": "First Grok model, later open-weighted.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 2,
+    "agentSupport": 0
+  },
+  "contextWindow": 8192,
+  "openClosed": "open-weights",
+  "apiAvailable": false,
+  "whatsNew": "xAI's first public model, tuned for X and real-time knowledge.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://x.ai/news/grok"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zhipu-2023",
+  "companyId": "zhipu",
+  "date": "2023-10-01",
+  "round": "Series B",
+  "amountUsd": 400000000,
+  "valuationUsd": 1000000000,
+  "investors": [
+    "Prosperity7",
+    "Alibaba"
+  ],
+  "leadInvestors": [
+    "Prosperity7"
+  ]
+}

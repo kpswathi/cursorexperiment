@@ -1,0 +1,16 @@
+{
+  "id": "mistral-magistral",
+  "title": "Mistral introduces Magistral",
+  "date": "2025-06-10",
+  "summary": "Magistral is Mistral's reasoning-focused family alongside Large 2.",
+  "url": "https://mistral.ai/news/magistral/",
+  "source": "Mistral AI",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [
+    "magistral"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

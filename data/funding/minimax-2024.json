@@ -1,0 +1,15 @@
+{
+  "id": "minimax-2024",
+  "companyId": "minimax",
+  "date": "2024-03-01",
+  "round": "Series B",
+  "amountUsd": 600000000,
+  "valuationUsd": 2500000000,
+  "investors": [
+    "Alibaba",
+    "Tencent"
+  ],
+  "leadInvestors": [
+    "Alibaba"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "gpt-4o",
+  "name": "GPT-4o",
+  "slug": "gpt-4o",
+  "companyId": "openai",
+  "releaseDate": "2024-05-13",
+  "family": "GPT",
+  "previousModelId": "gpt-4",
+  "description": "Omni model with native audio, vision and low-latency voice.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 4,
+    "audio": 5,
+    "video": 3,
+    "imageGeneration": 3,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Single natively multimodal stack; realtime voice; cheaper/faster than GPT-4 Turbo.",
+  "benchmarkScoreIds": [
+    "gpt-4o-mmlu"
+  ],
+  "announcementUrl": "https://openai.com/index/hello-gpt-4o/"
+}

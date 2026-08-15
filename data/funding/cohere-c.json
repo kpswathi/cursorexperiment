@@ -1,0 +1,16 @@
+{
+  "id": "cohere-c",
+  "companyId": "cohere",
+  "date": "2023-06-08",
+  "round": "Series C",
+  "amountUsd": 270000000,
+  "valuationUsd": 2200000000,
+  "investors": [
+    "Inovia",
+    "Nvidia",
+    "Oracle"
+  ],
+  "leadInvestors": [
+    "Inovia"
+  ]
+}

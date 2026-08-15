@@ -1,0 +1,15 @@
+{
+  "id": "01ai-seed",
+  "companyId": "01ai",
+  "date": "2023-04-01",
+  "round": "Seed",
+  "amountUsd": 200000000,
+  "valuationUsd": null,
+  "investors": [
+    "Alibaba",
+    "Sinovation Ventures"
+  ],
+  "leadInvestors": [
+    "Alibaba"
+  ]
+}

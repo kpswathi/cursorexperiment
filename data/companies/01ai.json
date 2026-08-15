@@ -1,0 +1,98 @@
+{
+  "id": "01ai",
+  "name": "01.AI",
+  "slug": "01ai",
+  "logo": "/logos/01ai.svg",
+  "description": "Kai-Fu Lee's lab behind the Yi model family and the Wanzhi assistant.",
+  "longDescription": "01.AI launched in 2023 with a bilingual Yi series and a thesis that a well-run lab could catch the frontier quickly. The company straddles Beijing and Silicon Valley networks through Kai-Fu Lee and has released both open weights and commercial apps.",
+  "headquarters": "Beijing, China",
+  "city": "Beijing",
+  "countryId": "CN",
+  "regionId": "china",
+  "coordinates": {
+    "lng": 116.391,
+    "lat": 39.907
+  },
+  "founderIds": [
+    "kai-fu-lee"
+  ],
+  "ceoId": "kai-fu-lee",
+  "founded": "2023-03-01",
+  "employees": 300,
+  "employeesAsOf": "2025-10",
+  "totalFundingUsd": 300000000,
+  "valuationUsd": 1000000000,
+  "valuationAsOf": "2023-11",
+  "revenueUsd": null,
+  "investors": [
+    "Alibaba",
+    "Xiaomi",
+    "Sinovation Ventures"
+  ],
+  "website": "https://www.lingyiwanwu.com",
+  "blogUrl": "https://01.ai",
+  "githubOrg": "01-ai",
+  "huggingFaceOrg": "01-ai",
+  "consumerProducts": [
+    {
+      "id": "wanzhi",
+      "name": "Wanzhi / Yi",
+      "description": "Consumer assistant built on Yi models.",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "yi-api",
+      "name": "Yi API",
+      "description": "Commercial access to Yi models.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "open-weights",
+    "multimodal",
+    "efficiency"
+  ],
+  "latestModelId": "yi-lightning",
+  "latestNewsId": "01ai-yi-lightning",
+  "tags": [
+    "china",
+    "open-weights",
+    "consumer"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#111111",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "01ai-founded",
+      "date": "2023-03-01",
+      "title": "Founded",
+      "description": "Kai-Fu Lee launched 01.AI.",
+      "type": "founded",
+      "companyId": "01ai"
+    },
+    {
+      "id": "01ai-yi",
+      "date": "2023-11-02",
+      "title": "Yi-34B",
+      "description": "First widely used Yi open-weight model.",
+      "type": "model",
+      "companyId": "01ai",
+      "modelId": "yi-34b"
+    },
+    {
+      "id": "01ai-lightning",
+      "date": "2024-10-16",
+      "title": "Yi-Lightning",
+      "description": "High-efficiency commercial model.",
+      "type": "model",
+      "companyId": "01ai",
+      "modelId": "yi-lightning"
+    }
+  ]
+}

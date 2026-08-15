@@ -1,0 +1,32 @@
+{
+  "id": "liang-wenfeng",
+  "name": "Liang Wenfeng",
+  "slug": "liang-wenfeng",
+  "photo": "/avatars/liang-wenfeng.svg",
+  "title": "Founder, DeepSeek",
+  "biography": "Quantitative investor who built High-Flyer and then DeepSeek. Became globally visible after DeepSeek-V3 and R1 showed that a capital-efficient Hangzhou lab could reach frontier reasoning performance.",
+  "companyIds": [
+    "deepseek"
+  ],
+  "previousCompanies": [
+    {
+      "name": "High-Flyer",
+      "role": "Founder"
+    }
+  ],
+  "researchContributions": [
+    "DeepSeek-V3",
+    "DeepSeek-R1 reasoning models"
+  ],
+  "timeline": [
+    {
+      "id": "liang-deepseek",
+      "date": "2023-07-01",
+      "title": "Founded DeepSeek",
+      "description": "Spun a dedicated lab out of High-Flyer.",
+      "type": "founded",
+      "companyId": "deepseek"
+    }
+  ],
+  "countryId": "CN"
+}

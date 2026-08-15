@@ -1,0 +1,28 @@
+{
+  "id": "qwen-2-5",
+  "name": "Qwen2.5",
+  "slug": "qwen-2-5",
+  "companyId": "alibaba-qwen",
+  "releaseDate": "2024-09-19",
+  "family": "Qwen",
+  "previousModelId": "qwen-2",
+  "description": "Broad size ladder including coder and VL.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 5,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 131072,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Much stronger 72B dense and specialist SKUs.",
+  "benchmarkScoreIds": [
+    "qwen25-mmlu"
+  ],
+  "announcementUrl": "https://qwenlm.github.io/blog/qwen2.5/"
+}

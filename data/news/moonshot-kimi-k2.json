@@ -1,0 +1,16 @@
+{
+  "id": "moonshot-kimi-k2",
+  "title": "Moonshot open-weights Kimi K2",
+  "date": "2025-07-11",
+  "summary": "Kimi K2 targets agents and million-token context.",
+  "url": "https://www.moonshot.cn",
+  "source": "Moonshot AI",
+  "companyIds": [
+    "moonshot"
+  ],
+  "modelIds": [
+    "kimi-k2"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

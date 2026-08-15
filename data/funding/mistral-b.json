@@ -1,0 +1,15 @@
+{
+  "id": "mistral-b",
+  "companyId": "mistral",
+  "date": "2024-06-11",
+  "round": "Series B",
+  "amountUsd": 640000000,
+  "valuationUsd": 6000000000,
+  "investors": [
+    "General Catalyst",
+    "Andreessen Horowitz"
+  ],
+  "leadInvestors": [
+    "General Catalyst"
+  ]
+}

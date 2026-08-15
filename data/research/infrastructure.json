@@ -1,0 +1,5 @@
+{
+  "id": "infrastructure",
+  "name": "Infrastructure",
+  "description": "Clusters, compilers and serving stacks."
+}

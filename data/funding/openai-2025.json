@@ -1,0 +1,16 @@
+{
+  "id": "openai-2025",
+  "companyId": "openai",
+  "date": "2025-10-02",
+  "round": "Primary",
+  "amountUsd": 40000000000,
+  "valuationUsd": 300000000000,
+  "investors": [
+    "SoftBank",
+    "Microsoft",
+    "Thrive Capital"
+  ],
+  "leadInvestors": [
+    "SoftBank"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "command-r-plus",
+  "name": "Command R+",
+  "slug": "command-r-plus",
+  "companyId": "cohere",
+  "releaseDate": "2024-03-11",
+  "family": "Command",
+  "previousModelId": null,
+  "description": "Enterprise RAG-oriented Cohere flagship.",
+  "capabilities": {
+    "reasoning": 3,
+    "coding": 3,
+    "vision": 0,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 4,
+    "agentSupport": 3
+  },
+  "contextWindow": 128000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Tool use and RAG citations aimed at enterprise search.",
+  "benchmarkScoreIds": [],
+  "announcementUrl": "https://cohere.com/blog/command-r-plus-microsoft-azure"
+}

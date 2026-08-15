@@ -1,0 +1,15 @@
+{
+  "id": "moonshot-2024",
+  "companyId": "moonshot",
+  "date": "2024-02-19",
+  "round": "Series B",
+  "amountUsd": 1000000000,
+  "valuationUsd": 2500000000,
+  "investors": [
+    "Alibaba",
+    "HongShan"
+  ],
+  "leadInvestors": [
+    "Alibaba"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "anthropic",
+  "name": "Anthropic",
+  "slug": "anthropic",
+  "logo": "/logos/anthropic.svg",
+  "description": "San Francisco safety-first lab behind the Claude family, Claude Code and Constitutional AI.",
+  "longDescription": "Anthropic was founded by former OpenAI researchers with a charter centered on safety research, interpretability and a more cautious deployment curve. Claude became the default enterprise alternative to ChatGPT, later expanding into Claude Code and computer-use agents. Amazon and Google are the principal strategic investors.",
+  "headquarters": "San Francisco, California",
+  "city": "San Francisco",
+  "countryId": "US",
+  "regionId": "north-america",
+  "coordinates": {
+    "lng": -122.4068,
+    "lat": 37.789
+  },
+  "founderIds": [
+    "dario-amodei",
+    "daniela-amodei"
+  ],
+  "ceoId": "dario-amodei",
+  "founded": "2021-01-01",
+  "employees": 2000,
+  "employeesAsOf": "2026-05",
+  "totalFundingUsd": 22000000000,
+  "valuationUsd": 61500000000,
+  "valuationAsOf": "2025-03",
+  "revenueUsd": 4000000000,
+  "revenueAsOf": "2026 run-rate estimate",
+  "investors": [
+    "Amazon",
+    "Google",
+    "Spark Capital",
+    "Salesforce Ventures",
+    "Menlo Ventures"
+  ],
+  "website": "https://www.anthropic.com",
+  "blogUrl": "https://www.anthropic.com/news",
+  "rssUrl": "https://www.anthropic.com/news/rss.xml",
+  "githubOrg": "anthropics",
+  "huggingFaceOrg": "Anthropic",
+  "consumerProducts": [
+    {
+      "id": "claude-ai",
+      "name": "Claude",
+      "description": "Consumer and pro assistant at claude.ai.",
+      "url": "https://claude.ai",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "claude-api",
+      "name": "Claude API",
+      "description": "Messages API, batch, tool use and computer use.",
+      "url": "https://docs.anthropic.com",
+      "kind": "enterprise"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "description": "Terminal-native software engineering agent.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "alignment",
+    "safety",
+    "reasoning",
+    "agents",
+    "code"
+  ],
+  "latestModelId": "claude-opus-4-1",
+  "latestNewsId": "anthropic-opus-4-1",
+  "tags": [
+    "frontier",
+    "closed",
+    "enterprise",
+    "safety"
+  ],
+  "openSource": false,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#d97757",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "anthropic-founded",
+      "date": "2021-01-01",
+      "title": "Founded",
+      "description": "Safety-focused lab formed by former OpenAI researchers.",
+      "type": "founded",
+      "companyId": "anthropic"
+    },
+    {
+      "id": "anthropic-constitutional",
+      "date": "2022-12-15",
+      "title": "Constitutional AI",
+      "description": "Published the core alignment method behind Claude.",
+      "type": "research",
+      "companyId": "anthropic"
+    },
+    {
+      "id": "anthropic-claude-3",
+      "date": "2024-03-04",
+      "title": "Claude 3",
+      "description": "Haiku, Sonnet and Opus family that established Claude as a frontier peer.",
+      "type": "model",
+      "companyId": "anthropic",
+      "modelId": "claude-3-opus"
+    },
+    {
+      "id": "anthropic-amazon",
+      "date": "2023-09-25",
+      "title": "Amazon partnership",
+      "description": "Strategic investment and AWS training/distribution deal.",
+      "type": "funding",
+      "companyId": "anthropic",
+      "fundingId": "anthropic-amazon-1"
+    },
+    {
+      "id": "anthropic-claude-4",
+      "date": "2025-05-22",
+      "title": "Claude 4",
+      "description": "Next-generation Opus/Sonnet with stronger coding and computer use.",
+      "type": "model",
+      "companyId": "anthropic",
+      "modelId": "claude-opus-4"
+    },
+    {
+      "id": "anthropic-opus-4-1",
+      "date": "2025-08-05",
+      "title": "Claude Opus 4.1",
+      "description": "Latest public Opus-class model.",
+      "type": "model",
+      "companyId": "anthropic",
+      "modelId": "claude-opus-4-1"
+    }
+  ]
+}

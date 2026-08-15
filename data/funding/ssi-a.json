@@ -1,0 +1,16 @@
+{
+  "id": "ssi-a",
+  "companyId": "ssi",
+  "date": "2025-03-20",
+  "round": "Series A",
+  "amountUsd": 1000000000,
+  "valuationUsd": 32000000000,
+  "investors": [
+    "Andreessen Horowitz",
+    "Sequoia",
+    "DST Global"
+  ],
+  "leadInvestors": [
+    "Sequoia"
+  ]
+}

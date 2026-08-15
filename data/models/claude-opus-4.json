@@ -1,0 +1,28 @@
+{
+  "id": "claude-opus-4",
+  "name": "Claude Opus 4",
+  "slug": "claude-opus-4",
+  "companyId": "anthropic",
+  "releaseDate": "2025-05-22",
+  "family": "Claude",
+  "previousModelId": "claude-3-opus",
+  "description": "Claude 4 flagship with stronger coding and computer use.",
+  "capabilities": {
+    "reasoning": 5,
+    "coding": 5,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 5
+  },
+  "contextWindow": 200000,
+  "openClosed": "closed",
+  "apiAvailable": true,
+  "whatsNew": "Step-change in software engineering and computer-use agents versus Claude 3.7.",
+  "benchmarkScoreIds": [
+    "claude-opus-4-swe"
+  ],
+  "announcementUrl": "https://www.anthropic.com/news/claude-4"
+}

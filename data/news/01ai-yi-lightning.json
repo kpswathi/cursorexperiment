@@ -1,0 +1,16 @@
+{
+  "id": "01ai-yi-lightning",
+  "title": "01.AI launches Yi-Lightning",
+  "date": "2024-10-16",
+  "summary": "A latency-focused commercial Yi model for the Wanzhi stack.",
+  "url": "https://01.ai",
+  "source": "01.AI",
+  "companyIds": [
+    "01ai"
+  ],
+  "modelIds": [
+    "yi-lightning"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ai21",
+  "name": "AI21 Labs",
+  "slug": "ai21",
+  "logo": "/logos/ai21.svg",
+  "description": "Tel Aviv lab behind Jurassic, Jamba, Wordtune and Maestro.",
+  "longDescription": "AI21 Labs is one of the earliest independent foundation-model companies, founded in Tel Aviv in 2017. After Jurassic, the lab differentiated with Jamba — a hybrid SSM-transformer architecture — and enterprise products Wordtune and Maestro.",
+  "headquarters": "Tel Aviv, Israel",
+  "city": "Tel Aviv",
+  "countryId": "IL",
+  "regionId": "middle-east",
+  "coordinates": {
+    "lng": 34.7818,
+    "lat": 32.0853
+  },
+  "founderIds": [
+    "yoav-shoham",
+    "amnon-shashua"
+  ],
+  "ceoId": "yoav-shoham",
+  "founded": "2017-01-01",
+  "employees": 300,
+  "employeesAsOf": "2025-09",
+  "totalFundingUsd": 336000000,
+  "valuationUsd": 1400000000,
+  "valuationAsOf": "2023-08",
+  "revenueUsd": null,
+  "investors": [
+    "Pitango",
+    "Walden Catalyst",
+    "Google",
+    "NVIDIA",
+    "Intel Capital"
+  ],
+  "website": "https://www.ai21.com",
+  "blogUrl": "https://www.ai21.com/blog/",
+  "githubOrg": "AI21Labs",
+  "huggingFaceOrg": "ai21labs",
+  "consumerProducts": [
+    {
+      "id": "wordtune",
+      "name": "Wordtune",
+      "description": "Writing assistant.",
+      "kind": "consumer"
+    }
+  ],
+  "enterpriseProducts": [
+    {
+      "id": "jamba-api",
+      "name": "Jamba API",
+      "description": "Hybrid SSM-transformer models.",
+      "kind": "enterprise"
+    },
+    {
+      "id": "maestro",
+      "name": "Maestro",
+      "description": "Enterprise RAG and production platform.",
+      "kind": "enterprise"
+    }
+  ],
+  "researchAreaIds": [
+    "efficiency",
+    "code",
+    "open-weights"
+  ],
+  "latestModelId": "jamba-1-5",
+  "latestNewsId": "ai21-jamba-1-5",
+  "tags": [
+    "enterprise",
+    "middle-east",
+    "hybrid-architecture"
+  ],
+  "openSource": true,
+  "closedSource": true,
+  "consumer": true,
+  "enterprise": true,
+  "color": "#111827",
+  "status": "operating",
+  "timeline": [
+    {
+      "id": "ai21-founded",
+      "date": "2017-01-01",
+      "title": "Founded",
+      "description": "Tel Aviv lab launched by Shoham, Shashua and Goshen.",
+      "type": "founded",
+      "companyId": "ai21"
+    },
+    {
+      "id": "ai21-jurassic",
+      "date": "2021-08-11",
+      "title": "Jurassic-1",
+      "description": "Early independent large language model.",
+      "type": "model",
+      "companyId": "ai21",
+      "modelId": "jurassic-1"
+    },
+    {
+      "id": "ai21-jamba",
+      "date": "2024-03-28",
+      "title": "Jamba",
+      "description": "Hybrid SSM-transformer architecture.",
+      "type": "model",
+      "companyId": "ai21",
+      "modelId": "jamba"
+    },
+    {
+      "id": "ai21-jamba-15",
+      "date": "2024-08-22",
+      "title": "Jamba 1.5",
+      "description": "Production hybrid family.",
+      "type": "model",
+      "companyId": "ai21",
+      "modelId": "jamba-1-5"
+    }
+  ]
+}

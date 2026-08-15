@@ -1,0 +1,32 @@
+{
+  "id": "shane-legg",
+  "name": "Shane Legg",
+  "slug": "shane-legg",
+  "photo": "/avatars/shane-legg.svg",
+  "title": "Chief AGI Scientist, Google DeepMind",
+  "biography": "Co-founder of DeepMind and an early voice on AGI risk. Continues to lead AGI-oriented research strategy inside Google DeepMind.",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "previousCompanies": [
+    {
+      "name": "University College London",
+      "role": "Researcher"
+    }
+  ],
+  "researchContributions": [
+    "Universal intelligence measures",
+    "DeepMind research agenda"
+  ],
+  "timeline": [
+    {
+      "id": "shane-deepmind",
+      "date": "2010-09-01",
+      "title": "Co-founded DeepMind",
+      "description": "Formed the lab with Hassabis and Suleyman.",
+      "type": "founded",
+      "companyId": "google-deepmind"
+    }
+  ],
+  "countryId": "GB"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "meta-llama-4",
+  "title": "Meta releases Llama 4 Scout and Maverick",
+  "date": "2025-04-05",
+  "summary": "Llama 4 moves the open-weight line to native MoE and multimodality.",
+  "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+  "source": "Meta AI",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [
+    "llama-4-maverick"
+  ],
+  "sourceType": "manual",
+  "generated": false
+}

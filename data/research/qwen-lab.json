@@ -1,0 +1,14 @@
+{
+  "id": "qwen-lab",
+  "name": "Qwen Team",
+  "companyId": "alibaba-qwen",
+  "countryId": "CN",
+  "city": "Hangzhou",
+  "description": "Alibaba Cloud foundation-model org.",
+  "focusAreaIds": [
+    "open-weights",
+    "multimodal",
+    "code"
+  ],
+  "url": "https://qwen.ai"
+}

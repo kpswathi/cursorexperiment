@@ -1,0 +1,28 @@
+{
+  "id": "kimi-k2",
+  "name": "Kimi K2",
+  "slug": "kimi-k2",
+  "companyId": "moonshot",
+  "releaseDate": "2025-07-11",
+  "family": "Kimi",
+  "previousModelId": "kimi-k1-5",
+  "description": "Agent-native Kimi-class model.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 4,
+    "vision": 4,
+    "audio": 0,
+    "video": 0,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 5
+  },
+  "contextWindow": 1000000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Open-weight agent model with million-token context.",
+  "benchmarkScoreIds": [
+    "kimi-k2-swe"
+  ],
+  "announcementUrl": "https://www.moonshot.cn"
+}

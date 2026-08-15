@@ -1,0 +1,28 @@
+{
+  "id": "minimax-m1",
+  "name": "MiniMax-M1",
+  "slug": "minimax-m1",
+  "companyId": "minimax",
+  "releaseDate": "2025-06-17",
+  "family": "MiniMax",
+  "previousModelId": null,
+  "description": "Open-weight reasoning model with very long context.",
+  "capabilities": {
+    "reasoning": 4,
+    "coding": 3,
+    "vision": 3,
+    "audio": 4,
+    "video": 4,
+    "imageGeneration": 0,
+    "longContext": 5,
+    "agentSupport": 3
+  },
+  "contextWindow": 1000000,
+  "openClosed": "open-weights",
+  "apiAvailable": true,
+  "whatsNew": "Lightning attention + 1M context and first-class video/audio lineage.",
+  "benchmarkScoreIds": [
+    "minimax-m1-aime"
+  ],
+  "announcementUrl": "https://www.minimax.io"
+}
