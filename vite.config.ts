@@ -47,10 +47,21 @@ function serveDataDir(): Plugin {
 }
 
 export default defineConfig({
+  base: './',
   plugins: [react(), tailwindcss(), serveDataDir()],
   resolve: {
     alias: {
       '@': path.join(root, 'src'),
     },
+  },
+  server: {
+    host: true,
+    port: 5173,
+    strictPort: true,
+  },
+  preview: {
+    host: true,
+    port: 4173,
+    strictPort: true,
   },
 })
