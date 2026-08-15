@@ -4,7 +4,15 @@ Interactive intelligence map of frontier AI labs, models, founders, funding and 
 
 **You do not need npm, Node, or any installer.** The runnable product is a static website in `app/`.
 
-## Open the app
+## GitHub Pages
+
+After Pages is enabled (Settings → Pages → Source: **GitHub Actions**), the live site is:
+
+**https://kpswathi.github.io/cursorexperiment/**
+
+The workflow `.github/workflows/github-pages.yml` publishes the `app/` folder. No npm build.
+
+## Open the app locally
 
 From this folder, in a terminal:
 
