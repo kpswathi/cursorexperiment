@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - cursor/ai-compass-3787
+      - cursor/github-pages-3787
   workflow_dispatch:
 
 permissions:
