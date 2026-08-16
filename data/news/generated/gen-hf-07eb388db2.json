@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-07eb388db2",
+  "title": "Hugging Face model: deepseek-ai/dflash_qwen3_14b_block7",
+  "date": "2026-06-28",
+  "summary": "Public model card for deepseek-ai/dflash_qwen3_14b_block7 (model).",
+  "url": "https://huggingface.co/deepseek-ai/dflash_qwen3_14b_block7",
+  "source": "Hugging Face/deepseek-ai",
+  "companyIds": [
+    "deepseek"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

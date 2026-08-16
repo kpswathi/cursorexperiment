@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-6d2d05a329",
+  "title": "Hugging Face model: deepseek-ai/DeepSeek-V4-Pro-0813",
+  "date": "2026-08-13",
+  "summary": "Public model card for deepseek-ai/DeepSeek-V4-Pro-0813 (text-generation).",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+  "source": "Hugging Face/deepseek-ai",
+  "companyIds": [
+    "deepseek"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

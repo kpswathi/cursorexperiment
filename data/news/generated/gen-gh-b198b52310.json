@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-b198b52310",
+  "title": "mistralai/mistral-src v1.6.0: Mistrall goes Small 3.1 with vision",
+  "date": "2025-03-20",
+  "summary": "## What's Changed\r\n* Missing new line by @theophilegervet in https://github.com/mistralai/mistral-inference/pull/234\r\n* Add support to Mistral Small 3.1 by @juliendenize in https://github.com/mistralai/mistral-inference/pull/239\r\n* Remove file refs by @juliendenize in https://github.com/mistralai/mistral-inference/pull/240\r\n* Release 1.6.0 by @juliendenize in https://github.com/mistralai/mistral-i",
+  "url": "https://github.com/mistralai/mistral-inference/releases/tag/v1.6.0",
+  "source": "GitHub/mistralai/mistral-src",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

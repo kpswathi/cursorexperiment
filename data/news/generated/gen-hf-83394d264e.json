@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-83394d264e",
+  "title": "Hugging Face model: 01-ai/Yi-1.5-9B-32K",
+  "date": "2024-05-15",
+  "summary": "Public model card for 01-ai/Yi-1.5-9B-32K (text-generation).",
+  "url": "https://huggingface.co/01-ai/Yi-1.5-9B-32K",
+  "source": "Hugging Face/01-ai",
+  "companyIds": [
+    "01ai"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

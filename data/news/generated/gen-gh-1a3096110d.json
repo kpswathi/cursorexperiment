@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-1a3096110d",
+  "title": "openai/whisper v20231105",
+  "date": "2023-11-06",
+  "summary": "v20231105",
+  "url": "https://github.com/openai/whisper/releases/tag/v20231105",
+  "source": "GitHub/openai/whisper",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

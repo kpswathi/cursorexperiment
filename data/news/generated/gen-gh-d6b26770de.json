@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-d6b26770de",
+  "title": "meta-llama/llama-models v0.2.0",
+  "date": "2025-04-05",
+  "summary": "Llama 4 Support ( https://www.llama.com )",
+  "url": "https://github.com/meta-llama/llama-models/releases/tag/v0.2.0",
+  "source": "GitHub/meta-llama/llama-models",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

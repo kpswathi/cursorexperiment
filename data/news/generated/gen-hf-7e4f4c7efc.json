@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-7e4f4c7efc",
+  "title": "Hugging Face model: Qwen/Qwen3-ForcedAligner-0.6B-hf",
+  "date": "2026-06-26",
+  "summary": "Public model card for Qwen/Qwen3-ForcedAligner-0.6B-hf (token-classification).",
+  "url": "https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B-hf",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

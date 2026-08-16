@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-673e498b2e",
+  "title": "mistralai/mistral-src v1.4.0: Pixtral 👀",
+  "date": "2024-09-13",
+  "summary": "**Pixtral**\r\n\r\nMistral models can now 👀 !\r\n\r\n```sh\r\npip install --upgrade mistral_inference   # >= 1.4.0\r\n```\r\n\r\n**Download**:\r\n\r\n```py\r\nfrom huggingface_hub import snapshot_download\r\nfrom pathlib import Path\r\n\r\nmistral_models_path = Path.home().joinpath('mistral_models', 'Pixtral')\r\nmistral_models_path.mkdir(parents=True, exist_ok=True)\r\n\r\nsnapshot_download(repo_id=\"mistralai/Pixtral-12B-2409\", a",
+  "url": "https://github.com/mistralai/mistral-inference/releases/tag/v1.4.0",
+  "source": "GitHub/mistralai/mistral-src",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

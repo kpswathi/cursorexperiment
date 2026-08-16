@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-7372d8cb93",
+  "title": "Hugging Face model: moonshotai/Kimi-K3",
+  "date": "2026-06-13",
+  "summary": "Public model card for moonshotai/Kimi-K3 (image-text-to-text).",
+  "url": "https://huggingface.co/moonshotai/Kimi-K3",
+  "source": "Hugging Face/moonshotai",
+  "companyIds": [
+    "moonshot"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

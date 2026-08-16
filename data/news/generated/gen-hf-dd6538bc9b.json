@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-dd6538bc9b",
+  "title": "Hugging Face model: mistralai/Shieldstral-1.0-3B",
+  "date": "2026-07-16",
+  "summary": "Public model card for mistralai/Shieldstral-1.0-3B (model).",
+  "url": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

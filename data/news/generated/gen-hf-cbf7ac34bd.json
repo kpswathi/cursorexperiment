@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-cbf7ac34bd",
+  "title": "Hugging Face model: mistralai/Mistral-Small-4-119B-2603-NVFP4",
+  "date": "2026-03-03",
+  "summary": "Public model card for mistralai/Mistral-Small-4-119B-2603-NVFP4 (model).",
+  "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-NVFP4",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

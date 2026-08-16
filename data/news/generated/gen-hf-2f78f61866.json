@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-2f78f61866",
+  "title": "Hugging Face model: mistralai/Mistral-Medium-3.5-128B",
+  "date": "2026-03-31",
+  "summary": "Public model card for mistralai/Mistral-Medium-3.5-128B (model).",
+  "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

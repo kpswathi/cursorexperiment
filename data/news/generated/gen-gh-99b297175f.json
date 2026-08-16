@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-99b297175f",
+  "title": "meta-llama/llama-models v0.1.0",
+  "date": "2025-01-24",
+  "summary": "Following https://github.com/meta-llama/llama-stack/releases/tag/v0.1.0",
+  "url": "https://github.com/meta-llama/llama-models/releases/tag/v0.1.0",
+  "source": "GitHub/meta-llama/llama-models",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

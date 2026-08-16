@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-dcdc0d2576",
+  "title": "Hugging Face model: meta-llama/Llama-Guard-4-12B",
+  "date": "2025-04-23",
+  "summary": "Public model card for meta-llama/Llama-Guard-4-12B (image-text-to-text).",
+  "url": "https://huggingface.co/meta-llama/Llama-Guard-4-12B",
+  "source": "Hugging Face/meta-llama",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-09511af8f3",
+  "title": "Hugging Face model: MiniMaxAI/MiniMax-M3-MXFP8",
+  "date": "2026-06-02",
+  "summary": "Public model card for MiniMaxAI/MiniMax-M3-MXFP8 (image-text-to-text).",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3-MXFP8",
+  "source": "Hugging Face/MiniMaxAI",
+  "companyIds": [
+    "minimax"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

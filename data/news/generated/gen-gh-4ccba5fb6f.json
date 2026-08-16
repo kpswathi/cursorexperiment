@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-4ccba5fb6f",
+  "title": "openai/openai-python v2.51.0",
+  "date": "2026-07-30",
+  "summary": "## 2.51.0 (2026-07-30)\n\nFull Changelog: [v2.50.0...v2.51.0](https://github.com/openai/openai-python/compare/v2.50.0...v2.51.0)\n\n### Features\n\n* **api:** fast tier ([8808ed2](https://github.com/openai/openai-python/commit/8808ed27952dae13fb8761f045376af5b3e5bec2))\n\n\n### Bug Fixes\n\n* **api:** add fast tier to helper methods ([6064126](https://github.com/openai/openai-python/commit/60641266ff4b296044",
+  "url": "https://github.com/openai/openai-python/releases/tag/v2.51.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

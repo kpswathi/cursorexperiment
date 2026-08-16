@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-49d1280093",
+  "title": "openai/openai-python v2.50.0",
+  "date": "2026-07-28",
+  "summary": "## 2.50.0 (2026-07-28)\n\nFull Changelog: [v2.49.0...v2.50.0](https://github.com/openai/openai-python/compare/v2.49.0...v2.50.0)\n\n### Features\n\n* **api:** transcription model updates ([fd57393](https://github.com/openai/openai-python/commit/fd57393389eac75af08c2e887cb188590448be20))\n\n\n### Bug Fixes\n\n* **audio:** restore transcription keyword overload ([713a262](https://github.com/openai/openai-pytho",
+  "url": "https://github.com/openai/openai-python/releases/tag/v2.50.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

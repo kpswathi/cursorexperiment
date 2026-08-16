@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-4adebd75a0",
+  "title": "Hugging Face model: MiniMaxAI/MiniMax-M2.5",
+  "date": "2026-02-12",
+  "summary": "Public model card for MiniMaxAI/MiniMax-M2.5 (text-generation).",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+  "source": "Hugging Face/MiniMaxAI",
+  "companyIds": [
+    "minimax"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

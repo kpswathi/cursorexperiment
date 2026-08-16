@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-c328e68ccf",
+  "title": "meta-llama/llama-models v0.1.3",
+  "date": "2025-02-14",
+  "summary": "## What's Changed\r\n* Move all Llama Stack types to llama-stack by @ashwinb in https://github.com/meta-llama/llama-models/pull/279\r\n\r\n\r\n**Full Changelog**: https://github.com/meta-llama/llama-models/compare/v0.1.2...v0.1.3",
+  "url": "https://github.com/meta-llama/llama-models/releases/tag/v0.1.3",
+  "source": "GitHub/meta-llama/llama-models",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

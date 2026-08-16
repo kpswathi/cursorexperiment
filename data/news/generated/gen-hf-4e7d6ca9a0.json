@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-4e7d6ca9a0",
+  "title": "Hugging Face model: MiniMaxAI/MiniMax-Music3",
+  "date": "2026-08-07",
+  "summary": "Public model card for MiniMaxAI/MiniMax-Music3 (text-to-audio).",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+  "source": "Hugging Face/MiniMaxAI",
+  "companyIds": [
+    "minimax"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

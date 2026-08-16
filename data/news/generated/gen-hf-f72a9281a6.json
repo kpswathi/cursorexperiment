@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-f72a9281a6",
+  "title": "Hugging Face model: moonshotai/Kimi-Linear-48B-A3B-Instruct",
+  "date": "2025-10-30",
+  "summary": "Public model card for moonshotai/Kimi-Linear-48B-A3B-Instruct (text-generation).",
+  "url": "https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct",
+  "source": "Hugging Face/moonshotai",
+  "companyIds": [
+    "moonshot"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

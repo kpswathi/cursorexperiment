@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-09b3c7b756",
+  "title": "Hugging Face model: Qwen/Qwen-AgentWorld-35B-A3B",
+  "date": "2026-06-22",
+  "summary": "Public model card for Qwen/Qwen-AgentWorld-35B-A3B (text-generation).",
+  "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

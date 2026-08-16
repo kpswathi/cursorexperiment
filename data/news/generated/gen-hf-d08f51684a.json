@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-d08f51684a",
+  "title": "Hugging Face model: 01-ai/Yi-Coder-1.5B",
+  "date": "2024-08-15",
+  "summary": "Public model card for 01-ai/Yi-Coder-1.5B (model).",
+  "url": "https://huggingface.co/01-ai/Yi-Coder-1.5B",
+  "source": "Hugging Face/01-ai",
+  "companyIds": [
+    "01ai"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

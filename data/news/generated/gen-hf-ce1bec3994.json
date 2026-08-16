@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-ce1bec3994",
+  "title": "Hugging Face model: ai21labs/AI21-Jamba-Reasoning-3B-GGUF",
+  "date": "2025-10-05",
+  "summary": "Public model card for ai21labs/AI21-Jamba-Reasoning-3B-GGUF (text-generation).",
+  "url": "https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B-GGUF",
+  "source": "Hugging Face/ai21labs",
+  "companyIds": [
+    "ai21"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-84beade098",
+  "title": "Hugging Face model: deepseek-ai/eagle3_qwen3_14b_ttt7",
+  "date": "2026-06-28",
+  "summary": "Public model card for deepseek-ai/eagle3_qwen3_14b_ttt7 (model).",
+  "url": "https://huggingface.co/deepseek-ai/eagle3_qwen3_14b_ttt7",
+  "source": "Hugging Face/deepseek-ai",
+  "companyIds": [
+    "deepseek"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

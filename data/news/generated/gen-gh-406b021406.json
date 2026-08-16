@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-406b021406",
+  "title": "openai/openai-python v3.1.0",
+  "date": "2026-08-14",
+  "summary": "## [3.1.0](https://github.com/openai/openai-python/compare/v3.0.0...v3.1.0) (2026-08-14)\n\n\n### Features\n\n* **api:** add WebSocket stream IDs ([#3612](https://github.com/openai/openai-python/issues/3612)) ([d9029e3](https://github.com/openai/openai-python/commit/d9029e3ada3c008b4631d78a425743445730892a))\n* **api:** add workload identity access token issued event ([#3601](https://github.com/openai/o",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.1.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

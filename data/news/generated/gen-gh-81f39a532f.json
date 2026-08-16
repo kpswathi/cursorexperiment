@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-81f39a532f",
+  "title": "openai/openai-python v3.0.0",
+  "date": "2026-08-12",
+  "summary": "## [3.0.0](https://github.com/openai/openai-python/compare/v2.54.0...v3.0.0) (2026-08-12)\n\n\n### ⚠ BREAKING CHANGES\n\n* **api:** HTTPX2 is now the default HTTP client, and `httpx` is no longer installed automatically. Applications using custom HTTPX clients, transports, or configuration objects must migrate to their HTTPX2 equivalents or use the temporary, runtime-only legacy HTTPX escape hatch. See",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.0.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

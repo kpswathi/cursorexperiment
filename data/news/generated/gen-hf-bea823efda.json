@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-bea823efda",
+  "title": "Hugging Face model: mistralai/Leanstral-2603",
+  "date": "2026-03-11",
+  "summary": "Public model card for mistralai/Leanstral-2603 (model).",
+  "url": "https://huggingface.co/mistralai/Leanstral-2603",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

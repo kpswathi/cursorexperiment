@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-ab72f56d3d",
+  "title": "mistralai/mistral-src v1.0.4 - Mistral-inference",
+  "date": "2024-05-22",
+  "summary": "Mistral-inference is the official inference library for all Mistral models: 7B, 8x7B, 8x22B.\r\n\r\n\r\nInstall with:\r\n\r\n```py\r\npip install mistral-inference\r\n```\r\n\r\nRun with:\r\n\r\n```py\r\nfrom mistral_inference.model import Transformer\r\nfrom mistral_inference.generate import generate\r\n\r\nfrom mistral_common.tokens.tokenizers.mistral import MistralTokenizer\r\nfrom mistral_common.protocol.instruct.messages im",
+  "url": "https://github.com/mistralai/mistral-inference/releases/tag/v1.0.4",
+  "source": "GitHub/mistralai/mistral-src",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

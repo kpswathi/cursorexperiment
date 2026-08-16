@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-32467f4275",
+  "title": "Hugging Face model: meta-llama/Llama-4-Scout-17B-16E-Instruct-Original",
+  "date": "2025-04-03",
+  "summary": "Public model card for meta-llama/Llama-4-Scout-17B-16E-Instruct-Original (model).",
+  "url": "https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct-Original",
+  "source": "Hugging Face/meta-llama",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

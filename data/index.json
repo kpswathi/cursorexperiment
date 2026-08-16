@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T09:04:42Z",
+  "generatedAt": "2026-08-16T06:42:35Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,862 @@
   ],
   "news": [
     {
+      "id": "gen-blog-0f764e9bc7",
+      "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-3cd0cbb150",
+      "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-420ae9b5bc",
+      "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android. Jul 28, ",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-4de65930d5",
+      "title": "Introducing Grok Voice Think Fast 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-53b313cc8d",
+      "title": "Aug 7, 2026 Imagine Image 2.0",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-5e689a6493",
+      "title": "Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-6fd6d2da5a",
+      "title": "Grok 4.5 in GitHub Copilot Grok 4.5, our smartest coding model, is now available in GitHub Copilot. Jul 28, 2026",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-7fee6508a5",
+      "title": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-8a4a811ddf",
+      "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-abadfb45f9",
+      "title": "Grok 4.6 Aug 12, 2026 Introducing Grok 4.6 Aug 12, 2026 Introducing Grok 4.6 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interacti",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-b1770b5350",
+      "title": "Aug 11, 2026 Introducing Grok Bot",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-b298bf8705",
+      "title": "Aug 14, 2026 Grok 4.6 in GitHub Copilot",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-d382e1dba0",
+      "title": "Jul 30, 2026 Investigating three real-world incidents in our cybersecurity evaluations",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-dde532a86b",
+      "title": "Jul 31, 2026 Imagine Video 1.5 with References",
+      "date": "2026-08-16",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-e75df1016a",
+      "title": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and profes",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-ff1300aa6c",
+      "title": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon",
+      "date": "2026-08-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-406b021406",
+      "title": "openai/openai-python v3.1.0",
+      "date": "2026-08-14",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d556a48bac",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "date": "2026-08-14",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-6d2d05a329",
+      "title": "Hugging Face model: deepseek-ai/DeepSeek-V4-Pro-0813",
+      "date": "2026-08-13",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-afb6d0b825",
+      "title": "Hugging Face model: Qwen/Qwen3.8-27B-FP8",
+      "date": "2026-08-13",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-068e562e05",
+      "title": "Introducing Gemini 3.7 Flash",
+      "date": "2026-08-13",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5fa28c2560",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "date": "2026-08-13",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6357d7795d",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "date": "2026-08-13",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-855fa77e93",
+      "title": "The builder’s guide to GPT‑5.6",
+      "date": "2026-08-13",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9e022b7caa",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "date": "2026-08-13",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c1c9885561",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "date": "2026-08-13",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-81f39a532f",
+      "title": "openai/openai-python v3.0.0",
+      "date": "2026-08-12",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ab799e9da7",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "date": "2026-08-12",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cad35e6294",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "date": "2026-08-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e43158037a",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "date": "2026-08-12",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f5d9b5f669",
+      "title": "Putting sign language AI into users’ hands",
+      "date": "2026-08-12",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-fb21820d80",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "date": "2026-08-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-fe9d66c046",
+      "title": "openai/openai-python v2.54.0",
+      "date": "2026-08-11",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5eb3c49c62",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "date": "2026-08-11",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b274e00978",
+      "title": "Daybreak models are now available on AWS",
+      "date": "2026-08-11",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-de2ca3d757",
+      "title": "Testing ads in ChatGPT",
+      "date": "2026-08-11",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0da6fb777e",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "date": "2026-08-10",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3a8585570c",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "date": "2026-08-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-61282b7420",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "date": "2026-08-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7a678e9a26",
+      "title": "What building an AI-native finance function taught me",
+      "date": "2026-08-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7f776d7829",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "date": "2026-08-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-90d59cd2b4",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "date": "2026-08-10",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c7b962b1d9",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "date": "2026-08-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e5b664a37a",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "date": "2026-08-10",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-afca642b87",
+      "title": "Hugging Face model: Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "date": "2026-08-08",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-f9e1ef66ab",
+      "title": "Hugging Face model: Qwen/Qwen3.8-2.4T-A95B",
+      "date": "2026-08-08",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-4e7d6ca9a0",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-Music3",
+      "date": "2026-08-07",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-72ea094fa8",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "date": "2026-08-06",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7fa201e30c",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "date": "2026-08-06",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-6c64301c09",
+      "title": "Hugging Face model: Qwen/Qwen3.8-27B",
+      "date": "2026-08-05",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-d0fc58121a",
+      "title": "openai/openai-python v2.53.0",
+      "date": "2026-08-03",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-f1465405de",
+      "title": "openai/openai-python v2.52.1",
+      "date": "2026-08-03",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-daeadb8cca",
+      "title": "openai/openai-python v2.52.0",
+      "date": "2026-07-31",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-c89447e4cc",
+      "title": "Hugging Face model: deepseek-ai/DeepSeek-V4-Flash-0731",
+      "date": "2026-07-31",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-4ccba5fb6f",
+      "title": "openai/openai-python v2.51.0",
+      "date": "2026-07-30",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-06b8d0ad6f",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "date": "2026-07-30",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f684c3a66a",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "date": "2026-07-30",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-705bd6c095",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "date": "2026-07-29",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-49d1280093",
+      "title": "openai/openai-python v2.50.0",
+      "date": "2026-07-28",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-3c921ccafb",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-H3",
+      "date": "2026-07-28",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7909c61394",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "date": "2026-07-28",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9101339b1a",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "date": "2026-07-27",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-15eb5b1c41",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "date": "2026-07-22",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-edd884e3eb",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "date": "2026-07-21",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7898549b95",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "date": "2026-07-17",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-dd6538bc9b",
+      "title": "Hugging Face model: mistralai/Shieldstral-1.0-3B",
+      "date": "2026-07-16",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-287800377f",
+      "title": "Our approach to bioresilience",
+      "date": "2026-07-16",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6618858034",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "date": "2026-07-13",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e29a8bbb0a",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "date": "2026-07-03",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-5d6f6e1c7a",
+      "title": "Hugging Face model: mistralai/Leanstral-1.5-119B-A6B",
+      "date": "2026-07-01",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-07eb388db2",
+      "title": "Hugging Face model: deepseek-ai/dflash_qwen3_14b_block7",
+      "date": "2026-06-28",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-394e0ad0d8",
+      "title": "Hugging Face model: deepseek-ai/eagle3_qwen3_8b_ttt7",
+      "date": "2026-06-28",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-3a14307484",
+      "title": "Hugging Face model: deepseek-ai/dflash_gemma4_12b_block7",
+      "date": "2026-06-28",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-84beade098",
+      "title": "Hugging Face model: deepseek-ai/eagle3_qwen3_14b_ttt7",
+      "date": "2026-06-28",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-8f1810cffc",
+      "title": "Hugging Face model: deepseek-ai/eagle3_gemma4_12b_ttt7",
+      "date": "2026-06-28",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-96647499d5",
+      "title": "Hugging Face model: deepseek-ai/eagle3_qwen3_4b_ttt7",
+      "date": "2026-06-28",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-7e4f4c7efc",
+      "title": "Hugging Face model: Qwen/Qwen3-ForcedAligner-0.6B-hf",
+      "date": "2026-06-26",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-82bfcfc5b0",
+      "title": "Hugging Face model: Qwen/Qwen3-ASR-0.6B-hf",
+      "date": "2026-06-26",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-a0e0b379e7",
+      "title": "Hugging Face model: Qwen/Qwen3-ASR-1.7B-hf",
+      "date": "2026-06-26",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-09b3c7b756",
+      "title": "Hugging Face model: Qwen/Qwen-AgentWorld-35B-A3B",
+      "date": "2026-06-22",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-7372d8cb93",
+      "title": "Hugging Face model: moonshotai/Kimi-K3",
+      "date": "2026-06-13",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-3a82f66e12",
+      "title": "Hugging Face model: moonshotai/Kimi-K2.7-Code",
+      "date": "2026-06-11",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-09511af8f3",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-M3-MXFP8",
+      "date": "2026-06-02",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-8ba4f648b7",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-M3",
+      "date": "2026-06-02",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-b8589c5f7d",
+      "title": "Hugging Face model: mistralai/Mistral-Medium-3.5-128B-EAGLE",
+      "date": "2026-04-27",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-941a13de7d",
+      "title": "Hugging Face model: moonshotai/Kimi-K2.6",
+      "date": "2026-04-14",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-2aa8d36eb9",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-M2.7",
+      "date": "2026-04-09",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-2f78f61866",
+      "title": "Hugging Face model: mistralai/Mistral-Medium-3.5-128B",
+      "date": "2026-03-31",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
       "id": "openai-gpt-5-5",
       "title": "OpenAI introduces GPT-5.5",
       "date": "2026-03-12",
@@ -1963,6 +2819,176 @@
         "openai"
       ],
       "generated": false
+    },
+    {
+      "id": "gen-hf-bea823efda",
+      "title": "Hugging Face model: mistralai/Leanstral-2603",
+      "date": "2026-03-11",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-3762d308e9",
+      "title": "Hugging Face model: mistralai/Mistral-Small-4-119B-2603-eagle",
+      "date": "2026-03-04",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-cbf7ac34bd",
+      "title": "Hugging Face model: mistralai/Mistral-Small-4-119B-2603-NVFP4",
+      "date": "2026-03-03",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-4adebd75a0",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-M2.5",
+      "date": "2026-02-12",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-b76d67b4db",
+      "title": "Hugging Face model: mistralai/Mistral-Small-4-119B-2603",
+      "date": "2026-01-23",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-610a2f4898",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba2-3B",
+      "date": "2026-01-06",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-66ce33c87e",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba2-Mini-FP8",
+      "date": "2026-01-06",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-ef8f4d2a68",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba2-Mini",
+      "date": "2026-01-06",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-f6d65c51d0",
+      "title": "Hugging Face model: moonshotai/Kimi-K2.5",
+      "date": "2026-01-01",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-215a576a7c",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-M2.1",
+      "date": "2025-12-20",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-f3222a6815",
+      "title": "Hugging Face model: MiniMaxAI/VTP-Large-f16d64",
+      "date": "2025-12-16",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-e6c83dede5",
+      "title": "Hugging Face model: moonshotai/Kimi-K2-Thinking",
+      "date": "2025-11-04",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-7f3f18581d",
+      "title": "Hugging Face model: moonshotai/Kimi-Linear-48B-A3B-Base",
+      "date": "2025-10-30",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-f72a9281a6",
+      "title": "Hugging Face model: moonshotai/Kimi-Linear-48B-A3B-Instruct",
+      "date": "2025-10-30",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-452270fbe5",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba-Reasoning-3B",
+      "date": "2025-10-05",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-ce1bec3994",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba-Reasoning-3B-GGUF",
+      "date": "2025-10-05",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-e9ebf3642b",
+      "title": "Hugging Face model: moonshotai/Kimi-K2-Instruct-0905",
+      "date": "2025-09-03",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
+      "generated": true
     },
     {
       "id": "deepseek-v3-1",
@@ -2035,6 +3061,66 @@
       "generated": false
     },
     {
+      "id": "gen-hf-bf3e244760",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba-Large-1.7",
+      "date": "2025-07-02",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-f074bc2f76",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba-Large-1.7-FP8",
+      "date": "2025-07-02",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-0387e03e8d",
+      "title": "Hugging Face model: ai21labs/AI21-Jamba-Mini-1.7-FP8",
+      "date": "2025-07-01",
+      "source": "Hugging Face/ai21labs",
+      "companyIds": [
+        "ai21"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-138b9836da",
+      "title": "deepseek-ai/DeepSeek-V3 v1.0.0",
+      "date": "2025-06-27",
+      "source": "GitHub/deepseek-ai/DeepSeek-V3",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-826915af6c",
+      "title": "deepseek-ai/DeepSeek-R1 v1.0.0",
+      "date": "2025-06-27",
+      "source": "GitHub/deepseek-ai/DeepSeek-R1",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-686bc6591b",
+      "title": "openai/whisper v20250625",
+      "date": "2025-06-26",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "minimax-m1",
       "title": "MiniMax-M1 open-weight reasoning model",
       "date": "2025-06-17",
@@ -2065,6 +3151,46 @@
       "generated": false
     },
     {
+      "id": "gen-hf-a660f83a2d",
+      "title": "Hugging Face model: meta-llama/Llama-Prompt-Guard-2-22M",
+      "date": "2025-04-28",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-b998a69881",
+      "title": "Hugging Face model: meta-llama/Llama-Prompt-Guard-2-86M",
+      "date": "2025-04-28",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-dcdc0d2576",
+      "title": "Hugging Face model: meta-llama/Llama-Guard-4-12B",
+      "date": "2025-04-23",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-d6b26770de",
+      "title": "meta-llama/llama-models v0.2.0",
+      "date": "2025-04-05",
+      "source": "GitHub/meta-llama/llama-models",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
       "id": "meta-llama-4",
       "title": "Meta releases Llama 4 Scout and Maverick",
       "date": "2025-04-05",
@@ -2075,6 +3201,56 @@
       "generated": false
     },
     {
+      "id": "gen-hf-24f327e787",
+      "title": "Hugging Face model: meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original",
+      "date": "2025-04-04",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-b15fec093c",
+      "title": "Hugging Face model: meta-llama/Llama-4-Maverick-17B-128E-Instruct-Original",
+      "date": "2025-04-04",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-32467f4275",
+      "title": "Hugging Face model: meta-llama/Llama-4-Scout-17B-16E-Instruct-Original",
+      "date": "2025-04-03",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-3a2bef121d",
+      "title": "Hugging Face model: meta-llama/Llama-4-Scout-17B-16E-Original",
+      "date": "2025-04-03",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-6fdbb3e5d8",
+      "title": "Hugging Face model: meta-llama/Llama-4-Maverick-17B-128E-Original",
+      "date": "2025-04-03",
+      "source": "Hugging Face/meta-llama",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
       "id": "deepmind-gemini-2-5",
       "title": "Gemini 2.5 Pro arrives with Deep Think",
       "date": "2025-03-25",
@@ -2083,6 +3259,16 @@
         "google-deepmind"
       ],
       "generated": false
+    },
+    {
+      "id": "gen-gh-b198b52310",
+      "title": "mistralai/mistral-src v1.6.0: Mistrall goes Small 3.1 with vision",
+      "date": "2025-03-20",
+      "source": "GitHub/mistralai/mistral-src",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
     },
     {
       "id": "ssi-raise",
@@ -2105,6 +3291,36 @@
       "generated": false
     },
     {
+      "id": "gen-gh-1933781267",
+      "title": "meta-llama/llama-models v0.1.4",
+      "date": "2025-02-25",
+      "source": "GitHub/meta-llama/llama-models",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-c328e68ccf",
+      "title": "meta-llama/llama-models v0.1.3",
+      "date": "2025-02-14",
+      "source": "GitHub/meta-llama/llama-models",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-99b297175f",
+      "title": "meta-llama/llama-models v0.1.0",
+      "date": "2025-01-24",
+      "source": "GitHub/meta-llama/llama-models",
+      "companyIds": [
+        "meta"
+      ],
+      "generated": true
+    },
+    {
       "id": "deepseek-r1-news",
       "title": "DeepSeek-R1 shocks the cost curve",
       "date": "2025-01-20",
@@ -2125,6 +3341,36 @@
       "generated": false
     },
     {
+      "id": "gen-gh-554f52376f",
+      "title": "openai/whisper v20240930",
+      "date": "2024-09-30",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-1838d38154",
+      "title": "openai/whisper v20240927",
+      "date": "2024-09-27",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-673e498b2e",
+      "title": "mistralai/mistral-src v1.4.0: Pixtral 👀",
+      "date": "2024-09-13",
+      "source": "GitHub/mistralai/mistral-src",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
       "id": "ai21-jamba-1-5",
       "title": "AI21 ships Jamba 1.5",
       "date": "2024-08-22",
@@ -2133,6 +3379,176 @@
         "ai21"
       ],
       "generated": false
+    },
+    {
+      "id": "gen-hf-24df8b4629",
+      "title": "Hugging Face model: 01-ai/Yi-Coder-9B-Chat",
+      "date": "2024-08-21",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-a2bc687f98",
+      "title": "Hugging Face model: 01-ai/Yi-Coder-1.5B-Chat",
+      "date": "2024-08-21",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-6064ddc0e3",
+      "title": "Hugging Face model: 01-ai/Yi-Coder-9B",
+      "date": "2024-08-15",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-d08f51684a",
+      "title": "Hugging Face model: 01-ai/Yi-Coder-1.5B",
+      "date": "2024-08-15",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-b85489f7c4",
+      "title": "mistralai/mistral-src v1.3.0 Mistral-Nemo",
+      "date": "2024-07-18",
+      "source": "GitHub/mistralai/mistral-src",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-79f30eca08",
+      "title": "mistralai/mistral-src v1.2.0 Add Mamba",
+      "date": "2024-07-16",
+      "source": "GitHub/mistralai/mistral-src",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-e647aedbe4",
+      "title": "mistralai/mistral-src v1.1.0 Add LoRA",
+      "date": "2024-05-24",
+      "source": "GitHub/mistralai/mistral-src",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-ab72f56d3d",
+      "title": "mistralai/mistral-src v1.0.4 - Mistral-inference",
+      "date": "2024-05-22",
+      "source": "GitHub/mistralai/mistral-src",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-273a0978f2",
+      "title": "Hugging Face model: 01-ai/Yi-1.5-34B-Chat-16K",
+      "date": "2024-05-15",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-83394d264e",
+      "title": "Hugging Face model: 01-ai/Yi-1.5-9B-32K",
+      "date": "2024-05-15",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-a547e3075e",
+      "title": "Hugging Face model: 01-ai/Yi-1.5-34B-32K",
+      "date": "2024-05-15",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-cf02da20ee",
+      "title": "Hugging Face model: 01-ai/Yi-1.5-9B-Chat-16K",
+      "date": "2024-05-15",
+      "source": "Hugging Face/01-ai",
+      "companyIds": [
+        "01ai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-030bba8a43",
+      "title": "openai/whisper v20231117",
+      "date": "2023-11-17",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-164f7ee91d",
+      "title": "openai/whisper v20231106",
+      "date": "2023-11-06",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-1a3096110d",
+      "title": "openai/whisper v20231105",
+      "date": "2023-11-06",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-5d0f287eb7",
+      "title": "openai/whisper v20230918",
+      "date": "2023-09-19",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-b20551c504",
+      "title": "openai/whisper v20230314",
+      "date": "2023-03-15",
+      "source": "GitHub/openai/whisper",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
     }
   ],
   "funding": [

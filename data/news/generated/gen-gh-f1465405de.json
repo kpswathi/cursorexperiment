@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-f1465405de",
+  "title": "openai/openai-python v2.52.1",
+  "date": "2026-08-03",
+  "summary": "## 2.52.1 (2026-07-31)\n\nFull Changelog: [v2.52.0...v2.52.1](https://github.com/openai/openai-python/compare/v2.52.0...v2.52.1)\n\n### Chores\n\n* **ci:** pin setup-uv v5 to its underlying commit ([#3560](https://github.com/openai/openai-python/issues/3560)) ([cbdc98b](https://github.com/openai/openai-python/commit/cbdc98b6c1e21df7ee43d13b5de7243c6ed1ee7f))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v2.52.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

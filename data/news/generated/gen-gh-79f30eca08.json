@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-79f30eca08",
+  "title": "mistralai/mistral-src v1.2.0 Add Mamba",
+  "date": "2024-07-16",
+  "summary": "# Welcome 🐍 Codestral-Mamba and 🔢 Mathstral\r\n\r\n```\r\npip install mistral-inference>=1.2.0\r\n```\r\n\r\n**Codestral-Mamba**\r\n\r\n```\r\npip install packaging mamba-ssm causal-conv1d transformers\r\n```\r\n\r\n1. Download\r\n```\r\nexport MAMBA_CODE=$HOME/7B_MAMBA_CODE\r\nwget https://models.mistralcdn.com/codestral-mamba-7b-v0-1/codestral-mamba-7B-v0.1.tar\r\nmkdir -p $MAMBA_CODE\r\ntar -xf codestral-mamba-7B-v0.1.tar -C $M",
+  "url": "https://github.com/mistralai/mistral-inference/releases/tag/v1.2.0",
+  "source": "GitHub/mistralai/mistral-src",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

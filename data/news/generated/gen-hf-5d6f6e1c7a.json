@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-5d6f6e1c7a",
+  "title": "Hugging Face model: mistralai/Leanstral-1.5-119B-A6B",
+  "date": "2026-07-01",
+  "summary": "Public model card for mistralai/Leanstral-1.5-119B-A6B (model).",
+  "url": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

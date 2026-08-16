@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-24df8b4629",
+  "title": "Hugging Face model: 01-ai/Yi-Coder-9B-Chat",
+  "date": "2024-08-21",
+  "summary": "Public model card for 01-ai/Yi-Coder-9B-Chat (text-generation).",
+  "url": "https://huggingface.co/01-ai/Yi-Coder-9B-Chat",
+  "source": "Hugging Face/01-ai",
+  "companyIds": [
+    "01ai"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

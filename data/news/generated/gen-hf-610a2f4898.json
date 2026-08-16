@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-610a2f4898",
+  "title": "Hugging Face model: ai21labs/AI21-Jamba2-3B",
+  "date": "2026-01-06",
+  "summary": "Public model card for ai21labs/AI21-Jamba2-3B (text-generation).",
+  "url": "https://huggingface.co/ai21labs/AI21-Jamba2-3B",
+  "source": "Hugging Face/ai21labs",
+  "companyIds": [
+    "ai21"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

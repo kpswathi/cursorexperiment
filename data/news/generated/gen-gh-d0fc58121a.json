@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-d0fc58121a",
+  "title": "openai/openai-python v2.53.0",
+  "date": "2026-08-03",
+  "summary": "## [2.53.0](https://github.com/openai/openai-python/compare/v2.52.1...v2.53.0) (2026-08-03)\n\n\n### Features\n\n* **api:** Add gpt-5.5 and tool name/namespace to Responses types ([#3569](https://github.com/openai/openai-python/issues/3569)) ([dd1202d](https://github.com/openai/openai-python/commit/dd1202d5dacff985861289c1d9c46996ded2d2a5))\n\n\n### Bug Fixes\n\n* **ci:** avoid NumPy source builds and dupli",
+  "url": "https://github.com/openai/openai-python/releases/tag/v2.53.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

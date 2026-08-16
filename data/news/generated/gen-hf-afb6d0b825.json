@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-afb6d0b825",
+  "title": "Hugging Face model: Qwen/Qwen3.8-27B-FP8",
+  "date": "2026-08-13",
+  "summary": "Public model card for Qwen/Qwen3.8-27B-FP8 (image-text-to-text).",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

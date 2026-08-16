@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-b998a69881",
+  "title": "Hugging Face model: meta-llama/Llama-Prompt-Guard-2-86M",
+  "date": "2025-04-28",
+  "summary": "Public model card for meta-llama/Llama-Prompt-Guard-2-86M (text-classification).",
+  "url": "https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M",
+  "source": "Hugging Face/meta-llama",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

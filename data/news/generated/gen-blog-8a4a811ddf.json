@@ -1,0 +1,14 @@
+{
+  "id": "gen-blog-8a4a811ddf",
+  "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+  "date": "2026-08-16",
+  "summary": "Discovered on Anthropic (https://www.anthropic.com/news).",
+  "url": "https://www.anthropic.com/news/claude-text-watermark",
+  "source": "Anthropic",
+  "companyIds": [
+    "anthropic"
+  ],
+  "modelIds": [],
+  "sourceType": "blog",
+  "generated": true
+}

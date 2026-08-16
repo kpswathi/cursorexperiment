@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-e6c83dede5",
+  "title": "Hugging Face model: moonshotai/Kimi-K2-Thinking",
+  "date": "2025-11-04",
+  "summary": "Public model card for moonshotai/Kimi-K2-Thinking (text-generation).",
+  "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+  "source": "Hugging Face/moonshotai",
+  "companyIds": [
+    "moonshot"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

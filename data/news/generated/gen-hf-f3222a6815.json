@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-f3222a6815",
+  "title": "Hugging Face model: MiniMaxAI/VTP-Large-f16d64",
+  "date": "2025-12-16",
+  "summary": "Public model card for MiniMaxAI/VTP-Large-f16d64 (image-feature-extraction).",
+  "url": "https://huggingface.co/MiniMaxAI/VTP-Large-f16d64",
+  "source": "Hugging Face/MiniMaxAI",
+  "companyIds": [
+    "minimax"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

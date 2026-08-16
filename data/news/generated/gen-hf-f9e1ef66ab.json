@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-f9e1ef66ab",
+  "title": "Hugging Face model: Qwen/Qwen3.8-2.4T-A95B",
+  "date": "2026-08-08",
+  "summary": "Public model card for Qwen/Qwen3.8-2.4T-A95B (text-generation).",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

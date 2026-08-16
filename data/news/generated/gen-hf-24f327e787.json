@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-24f327e787",
+  "title": "Hugging Face model: meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original",
+  "date": "2025-04-04",
+  "summary": "Public model card for meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original (model).",
+  "url": "https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original",
+  "source": "Hugging Face/meta-llama",
+  "companyIds": [
+    "meta"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}
