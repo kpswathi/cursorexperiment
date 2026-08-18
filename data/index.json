@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:59:45Z",
+  "generatedAt": "2026-08-18T06:47:22Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,54 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-gh-c8c4e123a3",
+      "title": "openai/openai-python v3.2.0",
+      "date": "2026-08-17",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-96670aeff6",
+      "title": "New policy ideas for the Intelligence Age",
+      "date": "2026-08-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ad5623d5cc",
+      "title": "OpenAI joins PORTS-Pike project",
+      "date": "2026-08-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b597a3d03e",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "date": "2026-08-17",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f137d9ea2f",
+      "title": "The Defender’s Window",
+      "date": "2026-08-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-0f764e9bc7",
       "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",

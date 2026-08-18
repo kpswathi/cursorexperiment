@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-c8c4e123a3",
+  "title": "openai/openai-python v3.2.0",
+  "date": "2026-08-17",
+  "summary": "## [3.2.0](https://github.com/openai/openai-python/compare/v3.1.0...v3.2.0) (2026-08-17)\n\n\n### Features\n\n* add Bedrock Runtime endpoint support (SDK-290) ([#3623](https://github.com/openai/openai-python/issues/3623)) ([86267d2](https://github.com/openai/openai-python/commit/86267d2737e61e389e9260a18f99bcc1a634811b))\n* **api:** Add shell call streaming events and new service/image types ([#3635](ht",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.2.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
