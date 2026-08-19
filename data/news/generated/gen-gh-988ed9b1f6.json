@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-988ed9b1f6",
+  "title": "openai/openai-python v3.3.0",
+  "date": "2026-08-18",
+  "summary": "## [3.3.0](https://github.com/openai/openai-python/compare/v3.2.0...v3.3.0) (2026-08-18)\n\n\n### Features\n\n* support named data-residency endpoints ([#3646](https://github.com/openai/openai-python/issues/3646)) ([11ee914](https://github.com/openai/openai-python/commit/11ee91475694d9cd77813763707fbadf68806d4f))\n\n\n### Bug Fixes\n\n* require patched optional networking dependencies ([#3651](https://githu",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.3.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

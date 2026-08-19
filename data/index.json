@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:47:22Z",
+  "generatedAt": "2026-08-19T06:48:18Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,102 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-gh-988ed9b1f6",
+      "title": "openai/openai-python v3.3.0",
+      "date": "2026-08-18",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-01003c6680",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5ce8103476",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "date": "2026-08-18",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-67f37d861d",
+      "title": "Strengthening democratic oversight in national security",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-68c52c8131",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7d7eacff40",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9765648ad5",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-dfcf73efa3",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e456387186",
+      "title": "ChatGPT Ads expands across Europe",
+      "date": "2026-08-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e520424e43",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "date": "2026-08-18",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
     {
       "id": "gen-gh-c8c4e123a3",
       "title": "openai/openai-python v3.2.0",
