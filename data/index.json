@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:48:18Z",
+  "generatedAt": "2026-08-20T06:50:18Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,54 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-39aa86ee03",
+      "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
+      "date": "2026-08-20",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-24df6217dc",
+      "title": "openai/openai-python v3.3.1",
+      "date": "2026-08-19",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-22e214c525",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "date": "2026-08-19",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9ac0643f24",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "date": "2026-08-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ef913e9fda",
+      "title": "Offering Zero Data Retention for frontier models",
+      "date": "2026-08-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-gh-988ed9b1f6",
       "title": "openai/openai-python v3.3.0",

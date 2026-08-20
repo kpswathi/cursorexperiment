@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-24df6217dc",
+  "title": "openai/openai-python v3.3.1",
+  "date": "2026-08-19",
+  "summary": "## [3.3.1](https://github.com/openai/openai-python/compare/v3.3.0...v3.3.1) (2026-08-19)\n\n\n### Bug Fixes\n\n* **deps:** update dependencies with published security fixes ([#3680](https://github.com/openai/openai-python/issues/3680)) ([53aa4fc](https://github.com/openai/openai-python/commit/53aa4fc68b65f42456cafaaa5ff4b0d317184752))\n\n\n### Chores\n\n* **build:** migrate to uv ([#3653](https://github.com",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.3.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

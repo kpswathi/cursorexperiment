@@ -1,0 +1,14 @@
+{
+  "id": "gen-blog-39aa86ee03",
+  "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
+  "date": "2026-08-20",
+  "summary": "Discovered on xAI (https://x.ai/news).",
+  "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+  "source": "xAI",
+  "companyIds": [
+    "xai"
+  ],
+  "modelIds": [],
+  "sourceType": "blog",
+  "generated": true
+}
