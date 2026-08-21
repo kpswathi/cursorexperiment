@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:50:18Z",
+  "generatedAt": "2026-08-21T06:51:22Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,50 @@
   ],
   "news": [
     {
+      "id": "gen-blog-c91966f53c",
+      "title": "Aug 19, 2026 Grok Build on web and mobile Aug 19, 2026 Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Read More",
+      "date": "2026-08-21",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-39aa86ee03",
       "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
       "date": "2026-08-20",
       "source": "xAI",
       "companyIds": [
         "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-027379c084",
+      "title": "Introducing AI Futures",
+      "date": "2026-08-20",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c7cdb6722f",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "date": "2026-08-20",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cb030de2dd",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "date": "2026-08-20",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
