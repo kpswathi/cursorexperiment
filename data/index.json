@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:51:22Z",
+  "generatedAt": "2026-08-22T06:42:54Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,26 @@
   ],
   "news": [
     {
+      "id": "gen-blog-22038b06bf",
+      "title": "Aug 21, 2026 Grok Bot is now included with more plans Aug 21, 2026 Grok Bot is now included with more plans Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Curso",
+      "date": "2026-08-22",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-973625546c",
+      "title": "Aug 21, 2026 Grok 4.6 on Google Enterprise Agent Platform",
+      "date": "2026-08-22",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-c91966f53c",
       "title": "Aug 19, 2026 Grok Build on web and mobile Aug 19, 2026 Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Read More",
       "date": "2026-08-21",
@@ -1962,6 +1982,24 @@
       "companyIds": [
         "xai"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-06daba08af",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "date": "2026-08-21",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-68e9fb1705",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "date": "2026-08-21",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
