@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:02:49Z",
+  "generatedAt": "2026-08-25T06:52:21Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,44 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-80d8760fd0",
+      "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+      "date": "2026-08-25",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-be0b73b30b",
+      "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "date": "2026-08-25",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2983dbf798",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "date": "2026-08-25",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-df01500376",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "date": "2026-08-24",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-22038b06bf",
       "title": "Aug 21, 2026 Grok Bot is now included with more plans Aug 21, 2026 Grok Bot is now included with more plans Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Curso",
