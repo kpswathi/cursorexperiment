@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:52:21Z",
+  "generatedAt": "2026-08-26T06:53:31Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,16 @@
   ],
   "news": [
     {
+      "id": "gen-blog-0c54f13503",
+      "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+      "date": "2026-08-26",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-80d8760fd0",
       "title": "Jul 27, 2026 Announcements Our position on open-weights models",
       "date": "2026-08-25",
@@ -1977,6 +1987,62 @@
     {
       "id": "gen-rss-2983dbf798",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "date": "2026-08-25",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-74043a2c13",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "date": "2026-08-25",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-829e237a88",
+      "title": "The full stack behind abundant intelligence",
+      "date": "2026-08-25",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9ad99bb5f4",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "date": "2026-08-25",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cfc376addf",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "date": "2026-08-25",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-da55f7d7bd",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "date": "2026-08-25",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f6b26e55a4",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "date": "2026-08-25",
       "source": "Hugging Face",
       "companyIds": [],
@@ -2035,6 +2101,14 @@
     {
       "id": "gen-rss-68e9fb1705",
       "title": "Measuring benchmark optimization in speech recognition",
+      "date": "2026-08-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-bcd3314d2b",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
       "date": "2026-08-21",
       "source": "Hugging Face",
       "companyIds": [],
