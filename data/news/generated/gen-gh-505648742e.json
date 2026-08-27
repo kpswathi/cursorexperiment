@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-505648742e",
+  "title": "openai/openai-python v3.5.0",
+  "date": "2026-08-27",
+  "summary": "## [3.5.0](https://github.com/openai/openai-python/compare/v3.4.0...v3.5.0) (2026-08-27)\n\n\n### Features\n\n* **api:** make function call output call IDs optional ([#3738](https://github.com/openai/openai-python/issues/3738)) ([c74501d](https://github.com/openai/openai-python/commit/c74501d7dc6946633fead7883ad02d8a188cf605))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.5.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

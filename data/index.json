@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:53:31Z",
+  "generatedAt": "2026-08-27T17:26:42Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,140 @@
   ],
   "news": [
     {
+      "id": "gen-blog-1d9c018342",
+      "title": "Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
+      "date": "2026-08-27",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-505648742e",
+      "title": "openai/openai-python v3.5.0",
+      "date": "2026-08-27",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3062d8cdad",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "date": "2026-08-27",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-57e276283c",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "date": "2026-08-27",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a13e39d4fa",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "date": "2026-08-27",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d9b2bc36ff",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "date": "2026-08-27",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-0c54f13503",
       "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
       "date": "2026-08-26",
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-d181458214",
+      "title": "openai/openai-python v3.4.0",
+      "date": "2026-08-26",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-504dd1ec95",
+      "title": "The Hugging Face incident and the road ahead",
+      "date": "2026-08-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5309d96554",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "date": "2026-08-26",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-83abfc0828",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "date": "2026-08-26",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cdfc10030b",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "date": "2026-08-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d34e82eae2",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "date": "2026-08-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d6bb1031e6",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "date": "2026-08-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
@@ -2046,6 +2174,26 @@
       "date": "2026-08-25",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-5bbf41891b",
+      "title": "Hugging Face model: Qwen/Qwen3.8-Flash-Next",
+      "date": "2026-08-24",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-d40f262a3d",
+      "title": "Hugging Face model: Qwen/Qwen3.8-Flash-Next-FP8",
+      "date": "2026-08-24",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
       "generated": true
     },
     {

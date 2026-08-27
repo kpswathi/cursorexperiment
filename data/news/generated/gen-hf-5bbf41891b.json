@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-5bbf41891b",
+  "title": "Hugging Face model: Qwen/Qwen3.8-Flash-Next",
+  "date": "2026-08-24",
+  "summary": "Public model card for Qwen/Qwen3.8-Flash-Next (image-text-to-text).",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

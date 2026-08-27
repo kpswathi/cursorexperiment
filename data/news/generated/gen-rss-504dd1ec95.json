@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-504dd1ec95",
+  "title": "The Hugging Face incident and the road ahead",
+  "date": "2026-08-26",
+  "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+  "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

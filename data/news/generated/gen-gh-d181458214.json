@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-d181458214",
+  "title": "openai/openai-python v3.4.0",
+  "date": "2026-08-26",
+  "summary": "## [3.4.0](https://github.com/openai/openai-python/compare/v3.3.1...v3.4.0) (2026-08-25)\n\n\n### Features\n\n* **api:** Add obfuscation field to ChatCompletionChunk ([#3690](https://github.com/openai/openai-python/issues/3690)) ([c7d8e1d](https://github.com/openai/openai-python/commit/c7d8e1d26be1f958e55c80f26b648f768afabdf2))\n* **api:** add project residency configuration and cost quantity units ([#3",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.4.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

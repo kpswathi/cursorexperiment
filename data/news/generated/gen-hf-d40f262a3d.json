@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-d40f262a3d",
+  "title": "Hugging Face model: Qwen/Qwen3.8-Flash-Next-FP8",
+  "date": "2026-08-24",
+  "summary": "Public model card for Qwen/Qwen3.8-Flash-Next-FP8 (image-text-to-text).",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}
