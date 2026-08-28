@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:26:42Z",
+  "generatedAt": "2026-08-28T18:20:04Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,36 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-d575f18cfc",
+      "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
+      "date": "2026-08-28",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-e8e7441ac3",
+      "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to saf",
+      "date": "2026-08-28",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0b00c80d50",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "date": "2026-08-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-1d9c018342",
       "title": "Aug 26, 2026 Grok 4.6 on Microsoft Foundry",
