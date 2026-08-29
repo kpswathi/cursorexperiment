@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-b642b3741b",
+  "title": "openai/openai-python v3.6.0",
+  "date": "2026-08-28",
+  "summary": "## [3.6.0](https://github.com/openai/openai-python/compare/v3.5.0...v3.6.0) (2026-08-27)\n\n\n### Features\n\n* **api:** add compute_units to Responses and Chat Completions usage ([#3749](https://github.com/openai/openai-python/issues/3749)) ([52421d1](https://github.com/openai/openai-python/commit/52421d197e96b4480fcc16e78345578996452c79))\n\n\n### Bug Fixes\n\n* **auth:** harden X.509 workload identity in",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.6.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

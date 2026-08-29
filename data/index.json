@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T18:20:04Z",
+  "generatedAt": "2026-08-29T12:28:53Z",
   "companies": [
     {
       "id": "01ai",
@@ -1975,6 +1975,26 @@
       "generated": true
     },
     {
+      "id": "gen-gh-b642b3741b",
+      "title": "openai/openai-python v3.6.0",
+      "date": "2026-08-28",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-092c8de02e",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "date": "2026-08-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-0b00c80d50",
       "title": "Supporting Thailand’s next generation of AI startups",
       "date": "2026-08-28",
@@ -1982,6 +2002,14 @@
       "companyIds": [
         "openai"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b0b2c2da12",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "date": "2026-08-28",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
