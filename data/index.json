@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T12:28:53Z",
+  "generatedAt": "2026-08-30T11:30:15Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,16 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-ea6418c0c8",
+      "title": "Aug 29, 2026 Grok Bot now works with X Aug 29, 2026 Grok Bot now works with X Grok Bot now has a tighter integration with X. Read More",
+      "date": "2026-08-30",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-d575f18cfc",
       "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
