@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:30:15Z",
+  "generatedAt": "2026-08-31T13:02:39Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,16 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-hf-9f32692ecb",
+      "title": "Hugging Face model: deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "date": "2026-08-31",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-ea6418c0c8",
       "title": "Aug 29, 2026 Grok Bot now works with X Aug 29, 2026 Grok Bot now works with X Grok Bot now has a tighter integration with X. Read More",
