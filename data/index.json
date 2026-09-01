@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:02:39Z",
+  "generatedAt": "2026-09-01T11:18:44Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,52 @@
   ],
   "news": [
     {
+      "id": "gen-blog-e83ff5faec",
+      "title": "Aug 31, 2026 Improving our alignment and security efforts",
+      "date": "2026-09-01",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-hf-9f32692ecb",
       "title": "Hugging Face model: deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
       "date": "2026-08-31",
       "source": "Hugging Face/deepseek-ai",
       "companyIds": [
         "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0703988e3a",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "date": "2026-08-31",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-44f6116377",
+      "title": "A milestone in expanding access to AI",
+      "date": "2026-08-31",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7bc3415714",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "date": "2026-08-31",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
