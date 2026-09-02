@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:18:44Z",
+  "generatedAt": "2026-09-02T10:52:57Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,108 @@
   ],
   "news": [
     {
+      "id": "gen-blog-07a03b3c01",
+      "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+      "date": "2026-09-02",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-7b7f1282e8",
+      "title": "Sep 1, 2026 Biosecurity at the frontier",
+      "date": "2026-09-02",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-ae43fd96ad",
+      "title": "openai/openai-python v3.7.0",
+      "date": "2026-09-02",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-e83ff5faec",
       "title": "Aug 31, 2026 Improving our alignment and security efforts",
       "date": "2026-09-01",
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-23bdbfdbd0",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "date": "2026-09-01",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-309be27bdc",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "date": "2026-09-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3b5f2688fe",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "date": "2026-09-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-50e05f9b47",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "date": "2026-09-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-631a857c7a",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "date": "2026-09-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-85562dc163",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "date": "2026-09-01",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-dfd1ea2e55",
+      "title": "Introducing agentic video understanding with Gemini",
+      "date": "2026-09-01",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },

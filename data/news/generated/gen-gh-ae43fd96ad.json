@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-ae43fd96ad",
+  "title": "openai/openai-python v3.7.0",
+  "date": "2026-09-02",
+  "summary": "## [3.7.0](https://github.com/openai/openai-python/compare/v3.6.0...v3.7.0) (2026-09-02)\n\n\n### Features\n\n* **api:** update usage APIs and documentation ([#3779](https://github.com/openai/openai-python/issues/3779)) ([6f0da16](https://github.com/openai/openai-python/commit/6f0da16573086401a7b171f4bd14a78f22c9d0e9))\n\n\n### Bug Fixes\n\n* avoid repeated numpy checks for embeddings ([#3757](https://githu",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.7.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
