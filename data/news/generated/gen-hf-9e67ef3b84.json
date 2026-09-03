@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-9e67ef3b84",
+  "title": "Hugging Face model: Qwen/Qwen-Drive-1.0-4B",
+  "date": "2026-08-27",
+  "summary": "Public model card for Qwen/Qwen-Drive-1.0-4B (image-text-to-text).",
+  "url": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:52:57Z",
+  "generatedAt": "2026-09-03T10:52:37Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,14 @@
   ],
   "news": [
     {
+      "id": "gen-rss-b844bdeeb8",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-07a03b3c01",
       "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
       "date": "2026-09-02",
@@ -1979,6 +1987,44 @@
       "title": "openai/openai-python v3.7.0",
       "date": "2026-09-02",
       "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-18ef68f776",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "date": "2026-09-02",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-22915ca8a2",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "date": "2026-09-02",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-383dbcd782",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "date": "2026-09-02",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b07b0b2b4d",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "date": "2026-09-02",
+      "source": "OpenAI",
       "companyIds": [
         "openai"
       ],
@@ -2185,6 +2231,16 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-9e67ef3b84",
+      "title": "Hugging Face model: Qwen/Qwen-Drive-1.0-4B",
+      "date": "2026-08-27",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
       ],
       "generated": true
     },
