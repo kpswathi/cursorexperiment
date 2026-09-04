@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-2ec47adb56",
+  "title": "openai/openai-python v3.8.0",
+  "date": "2026-09-03",
+  "summary": "## [3.8.0](https://github.com/openai/openai-python/compare/v3.7.0...v3.8.0) (2026-09-03)\n\n\n### Features\n\n* **api:** add gpt-6-astra and related features ([#3791](https://github.com/openai/openai-python/issues/3791)) ([09f446f](https://github.com/openai/openai-python/commit/09f446f5f8623d79464568dc91b9dc258e74bcae))\n\n\n### Documentation\n\n* add canonical SDK security model ([#3778](https://github.com",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.8.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

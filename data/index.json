@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:52:37Z",
+  "generatedAt": "2026-09-04T10:52:00Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,11 +1955,115 @@
   ],
   "news": [
     {
+      "id": "gen-blog-2b3ec0461f",
+      "title": "Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
+      "date": "2026-09-04",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-f7e420ab15",
+      "title": "Sep 3, 2026 Grok Bot for Enterprise Sep 3, 2026 Grok Bot for Enterprise Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next",
+      "date": "2026-09-04",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-2ec47adb56",
+      "title": "openai/openai-python v3.8.0",
+      "date": "2026-09-03",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2e155b11d8",
+      "title": "Safety overview: GPT-6 Astra",
+      "date": "2026-09-03",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-45020768fa",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5190d2a1dc",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "date": "2026-09-03",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-56da2c8ef8",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "date": "2026-09-03",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7a45b185cf",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "date": "2026-09-03",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-86b47b47cb",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-96a3500c5a",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "date": "2026-09-03",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-rss-b844bdeeb8",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "date": "2026-09-03",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-be4a3c5426",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "date": "2026-09-03",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {

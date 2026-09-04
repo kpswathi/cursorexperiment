@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-2e155b11d8",
+  "title": "Safety overview: GPT-6 Astra",
+  "date": "2026-09-03",
+  "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+  "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
