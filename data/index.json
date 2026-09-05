@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:52:00Z",
+  "generatedAt": "2026-09-05T10:10:44Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,16 @@
   ],
   "news": [
     {
+      "id": "gen-blog-7b08ecf432",
+      "title": "Sep 4, 2026 Setting Grok Bot loose on procurement",
+      "date": "2026-09-05",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-2b3ec0461f",
       "title": "Sep 3, 2026 Designing Grok Bot for a world of persistent agents",
       "date": "2026-09-04",
@@ -1979,6 +1989,16 @@
       "title": "openai/openai-python v3.8.0",
       "date": "2026-09-03",
       "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0f3b76bc48",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "date": "2026-09-03",
+      "source": "OpenAI",
       "companyIds": [
         "openai"
       ],
