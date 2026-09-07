@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:31:24Z",
+  "generatedAt": "2026-09-07T11:54:39Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,36 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-rss-e02ae19def",
+      "title": "Supporting independent journalism in Ukraine",
+      "date": "2026-09-07",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-19672c4832",
+      "title": "Research acceleration: The view inside OpenAI",
+      "date": "2026-09-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a8e8f9dc89",
+      "title": "An Alien Mind",
+      "date": "2026-09-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-7b08ecf432",
       "title": "Sep 4, 2026 Setting Grok Bot loose on procurement",
