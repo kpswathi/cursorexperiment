@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:50:48Z",
+  "generatedAt": "2026-09-09T10:57:21Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,114 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-gh-910b967ebf",
+      "title": "openai/openai-python v3.10.0",
+      "date": "2026-09-09",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-9f284a10fe",
+      "title": "openai/openai-python v3.9.0",
+      "date": "2026-09-08",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-167bce5d47",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-305f03a4aa",
+      "title": "Introducing ChatGPT Images 2.5",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4f420d1c5c",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "date": "2026-09-08",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-671a9fed35",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-80d284f588",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "date": "2026-09-08",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9816f5beea",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-99c22bc85d",
+      "title": "Funding grants for new research into AI and teen development",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-aaada63e99",
+      "title": "The Work Now Within Reach",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-fbb79928f7",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "date": "2026-09-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-rss-e02ae19def",
       "title": "Supporting independent journalism in Ukraine",

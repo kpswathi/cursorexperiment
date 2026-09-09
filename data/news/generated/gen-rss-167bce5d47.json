@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-167bce5d47",
+  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "date": "2026-09-08",
+  "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+  "url": "https://openai.com/index/codex-quantum-computing-experiments",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

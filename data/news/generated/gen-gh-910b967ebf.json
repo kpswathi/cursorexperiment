@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-910b967ebf",
+  "title": "openai/openai-python v3.10.0",
+  "date": "2026-09-09",
+  "summary": "## [3.10.0](https://github.com/openai/openai-python/compare/v3.9.0...v3.10.0) (2026-09-08)\n\n\n### Features\n\n* **api:** add GPT Image 2.5 models and image options ([#3824](https://github.com/openai/openai-python/issues/3824)) ([5b39c45](https://github.com/openai/openai-python/commit/5b39c453ee5ee8f46fba0bd9cb4ae47fa5ee6d51))\n* **api:** add service-account API key expiration fields ([#3802](https://g",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.10.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

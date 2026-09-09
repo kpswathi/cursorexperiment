@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-9f284a10fe",
+  "title": "openai/openai-python v3.9.0",
+  "date": "2026-09-08",
+  "summary": "## [3.9.0](https://github.com/openai/openai-python/compare/v3.8.0...v3.9.0) (2026-09-05)\n\n\n### Features\n\n* **api:** Add prompt cache diagnostics ([#3800](https://github.com/openai/openai-python/issues/3800)) ([8326784](https://github.com/openai/openai-python/commit/83267847a0219ea8b584c9d60f92c7a4dffd392a))\n* **api:** correct function argument completion event fields (openapi-545) ([#3801](https:/",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.9.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

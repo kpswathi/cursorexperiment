@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-80d284f588",
+  "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "date": "2026-09-08",
+  "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+  "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+  "source": "Google DeepMind",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

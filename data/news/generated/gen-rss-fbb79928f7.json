@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-fbb79928f7",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "date": "2026-09-08",
+  "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+  "url": "https://openai.com/index/navier-stokes-solution",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
