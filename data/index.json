@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:57:21Z",
+  "generatedAt": "2026-09-10T10:53:11Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,26 @@
   ],
   "news": [
     {
+      "id": "gen-hf-19819179eb",
+      "title": "Hugging Face model: deepseek-ai/DeepSeek-V4.1-Flash",
+      "date": "2026-09-10",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-508b6cb4e2",
+      "title": "openai/openai-python v3.11.0",
+      "date": "2026-09-09",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-gh-910b967ebf",
       "title": "openai/openai-python v3.10.0",
       "date": "2026-09-09",
@@ -1962,6 +1982,44 @@
       "companyIds": [
         "openai"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-534907e0d3",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "date": "2026-09-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-587a70348a",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "date": "2026-09-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9786c92a28",
+      "title": "The AI policy window is open. We need to act.",
+      "date": "2026-09-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e8608e40b7",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "date": "2026-09-09",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {

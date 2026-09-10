@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-508b6cb4e2",
+  "title": "openai/openai-python v3.11.0",
+  "date": "2026-09-09",
+  "summary": "## [3.11.0](https://github.com/openai/openai-python/compare/v3.10.0...v3.11.0) (2026-09-09)\n\n\n### Features\n\n* **api:** Add expiration controls for service account keys ([#3825](https://github.com/openai/openai-python/issues/3825)) ([f348ec8](https://github.com/openai/openai-python/commit/f348ec87b934c98889102668913e0a3ae7fc303d))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.11.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
