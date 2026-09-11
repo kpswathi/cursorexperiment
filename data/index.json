@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:53:11Z",
+  "generatedAt": "2026-09-11T10:50:16Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,26 @@
   ],
   "news": [
     {
+      "id": "gen-gh-23ebb336cc",
+      "title": "openai/openai-python v3.13.0",
+      "date": "2026-09-10",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-71a4e191de",
+      "title": "openai/openai-python v3.12.0",
+      "date": "2026-09-10",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-hf-19819179eb",
       "title": "Hugging Face model: deepseek-ai/DeepSeek-V4.1-Flash",
       "date": "2026-09-10",
@@ -1962,6 +1982,74 @@
       "companyIds": [
         "deepseek"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-014159943e",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "date": "2026-09-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-016c3ec9b7",
+      "title": "Introducing ChatGPT for Financial Services",
+      "date": "2026-09-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1ef5285e67",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "date": "2026-09-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2b26a80665",
+      "title": "Introducing the Agents API",
+      "date": "2026-09-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4d4e7920d8",
+      "title": "Now everyone can put data to work",
+      "date": "2026-09-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4e410dad70",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "date": "2026-09-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cb50b0c3c8",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "date": "2026-09-10",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {

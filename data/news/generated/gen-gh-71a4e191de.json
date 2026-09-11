@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-71a4e191de",
+  "title": "openai/openai-python v3.12.0",
+  "date": "2026-09-10",
+  "summary": "## [3.12.0](https://github.com/openai/openai-python/compare/v3.11.0...v3.12.0) (2026-09-10)\n\n\n### Features\n\n* **api:** Add Live API ([0e4bfef](https://github.com/openai/openai-python/commit/0e4bfef9c79251fcf4926fd732129627bde050f1))\n\n\n### Bug Fixes\n\n* add aclose() to AsyncStream for standard async cleanup ([#2854](https://github.com/openai/openai-python/issues/2854)) ([802b334](https://github.com/",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.12.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

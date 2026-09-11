@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-2b26a80665",
+  "title": "Introducing the Agents API",
+  "date": "2026-09-10",
+  "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+  "url": "https://openai.com/index/introducing-the-agents-api",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
