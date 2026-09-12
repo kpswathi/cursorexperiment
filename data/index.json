@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:50:16Z",
+  "generatedAt": "2026-09-12T10:18:32Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,36 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-rss-12e9dd6851",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "date": "2026-09-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c3aa338264",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "date": "2026-09-11",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c7d3c8aeae",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "date": "2026-09-11",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-gh-23ebb336cc",
       "title": "openai/openai-python v3.13.0",
