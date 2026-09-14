@@ -1,0 +1,12 @@
+{
+  "id": "gen-rss-d4e55a9164",
+  "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "date": "2026-09-10",
+  "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "source": "Hugging Face",
+  "companyIds": [],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

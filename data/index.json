@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:19:10Z",
+  "generatedAt": "2026-09-14T12:09:45Z",
   "companies": [
     {
       "id": "01ai",
@@ -2077,6 +2077,14 @@
     {
       "id": "gen-rss-cb50b0c3c8",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "date": "2026-09-10",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d4e55a9164",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "date": "2026-09-10",
       "source": "Hugging Face",
       "companyIds": [],
