@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:09:45Z",
+  "generatedAt": "2026-09-15T11:20:36Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,8 +1955,28 @@
   ],
   "news": [
     {
+      "id": "gen-gh-7cbee006c5",
+      "title": "openai/openai-python v3.14.0",
+      "date": "2026-09-14",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-12e9dd6851",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "date": "2026-09-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-296d33defd",
+      "title": "How Fyxer built an AI executive assistant people trust",
       "date": "2026-09-14",
       "source": "OpenAI",
       "companyIds": [

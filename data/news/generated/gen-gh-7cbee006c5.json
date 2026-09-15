@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-7cbee006c5",
+  "title": "openai/openai-python v3.14.0",
+  "date": "2026-09-14",
+  "summary": "## [3.14.0](https://github.com/openai/openai-python/compare/v3.13.0...v3.14.0) (2026-09-14)\n\n\n### Features\n\n* **streaming:** normalize errors raised while reading streams ([#3827](https://github.com/openai/openai-python/issues/3827)) ([d7c41ef](https://github.com/openai/openai-python/commit/d7c41efee1b0802b79f3f88a678ef2052b06e9ce))\n\n\n### Bug Fixes\n\n* bound vector store file polling ([#3401](https",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.14.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
