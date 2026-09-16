@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-d3abb4e3c9",
+  "title": "openai/openai-python v3.14.1",
+  "date": "2026-09-15",
+  "summary": "## [3.14.1](https://github.com/openai/openai-python/compare/v3.14.0...v3.14.1) (2026-09-15)\n\n\n### Bug Fixes\n\n* **client:** validate retry limits and preserve application errors ([#3867](https://github.com/openai/openai-python/issues/3867)) ([f86c721](https://github.com/openai/openai-python/commit/f86c7214093038faa512bd4883558b093bdb8c9a))\n* correct typo \"th\" to \"the\" in StreamAlreadyConsumed error",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.14.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

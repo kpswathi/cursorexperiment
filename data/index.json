@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:20:36Z",
+  "generatedAt": "2026-09-16T11:03:54Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,34 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-gh-d3abb4e3c9",
+      "title": "openai/openai-python v3.14.1",
+      "date": "2026-09-15",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-16a7b27ed0",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "date": "2026-09-15",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f4c3141ce9",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "date": "2026-09-15",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-gh-7cbee006c5",
       "title": "openai/openai-python v3.14.0",
