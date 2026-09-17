@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-bbe6c30a33",
+  "title": "Our framework for reporting model misalignment",
+  "date": "2026-09-16",
+  "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+  "url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

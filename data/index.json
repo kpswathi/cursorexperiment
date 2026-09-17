@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:03:54Z",
+  "generatedAt": "2026-09-17T11:14:03Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,66 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-e506197bdd",
+      "title": "Product · Sep 16, 2026 Memory in Grok Build",
+      "date": "2026-09-17",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-027811ca16",
+      "title": "Helping older adults use AI in everyday life",
+      "date": "2026-09-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-52752974ef",
+      "title": "Reimagining advertising with AI",
+      "date": "2026-09-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5f7e182a53",
+      "title": "How to connect AI usage to business value",
+      "date": "2026-09-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-71646fffd9",
+      "title": "How workers are unlocking new ways of working",
+      "date": "2026-09-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-bbe6c30a33",
+      "title": "Our framework for reporting model misalignment",
+      "date": "2026-09-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-gh-d3abb4e3c9",
       "title": "openai/openai-python v3.14.1",
