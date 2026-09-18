@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:14:03Z",
+  "generatedAt": "2026-09-18T10:46:54Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,52 @@
   ],
   "news": [
     {
+      "id": "gen-blog-a29db01086",
+      "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
+      "date": "2026-09-18",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-281db59c81",
+      "title": "openai/openai-python v3.15.0",
+      "date": "2026-09-18",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-e506197bdd",
       "title": "Product · Sep 16, 2026 Memory in Grok Build",
       "date": "2026-09-17",
       "source": "xAI",
       "companyIds": [
         "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-363bbead77",
+      "title": "Introducing Astra for Law",
+      "date": "2026-09-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-964ae1dd0f",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "date": "2026-09-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },

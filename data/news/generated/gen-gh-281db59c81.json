@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-281db59c81",
+  "title": "openai/openai-python v3.15.0",
+  "date": "2026-09-18",
+  "summary": "## [3.15.0](https://github.com/openai/openai-python/compare/v3.14.1...v3.15.0) (2026-09-18)\n\n\n### Features\n\n* **api:** add agent session model settings ([#3882](https://github.com/openai/openai-python/issues/3882)) ([4b15817](https://github.com/openai/openai-python/commit/4b1581771ea97c870187f6ddfc3dbc87ff4fa443))\n* **api:** add audio-mini model choices ([#3886](https://github.com/openai/openai-py",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.15.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
