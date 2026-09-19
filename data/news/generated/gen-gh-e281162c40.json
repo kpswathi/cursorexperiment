@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-e281162c40",
+  "title": "openai/openai-python v3.16.0",
+  "date": "2026-09-18",
+  "summary": "## [3.16.0](https://github.com/openai/openai-python/compare/v3.15.0...v3.16.0) (2026-09-18)\n\n\n### Features\n\n* **api:** add webhook endpoint management ([#3892](https://github.com/openai/openai-python/issues/3892)) ([9a11f6e](https://github.com/openai/openai-python/commit/9a11f6e874292230633073fb64ea6202ad22a1df))\n\n\n### Chores\n\n* **api:** deprecate MCP connector_id ([#3894](https://github.com/opena",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.16.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
