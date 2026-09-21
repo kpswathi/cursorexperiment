@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-1e91a14383",
+  "title": "Hugging Face model: Qwen/Qwen-Image-2.1-PE-I2I",
+  "date": "2026-09-20",
+  "summary": "Public model card for Qwen/Qwen-Image-2.1-PE-I2I (model).",
+  "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

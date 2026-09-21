@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-0d35f176f6",
+  "title": "Hugging Face model: Qwen/Qwen-Image-2.1",
+  "date": "2026-09-14",
+  "summary": "Public model card for Qwen/Qwen-Image-2.1 (text-to-image).",
+  "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

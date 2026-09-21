@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:53:21Z",
+  "generatedAt": "2026-09-21T12:18:28Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,26 @@
   ],
   "news": [
     {
+      "id": "gen-hf-1e91a14383",
+      "title": "Hugging Face model: Qwen/Qwen-Image-2.1-PE-I2I",
+      "date": "2026-09-20",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-c2fddc3352",
+      "title": "Hugging Face model: Qwen/Qwen-Image-2.1-PE-T2I",
+      "date": "2026-09-20",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-47b87cc27b",
       "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
       "date": "2026-09-19",
@@ -2159,6 +2179,16 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-0d35f176f6",
+      "title": "Hugging Face model: Qwen/Qwen-Image-2.1",
+      "date": "2026-09-14",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
       ],
       "generated": true
     },
