@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-fe9e075c38",
+  "title": "openai/openai-python v3.17.0",
+  "date": "2026-09-22",
+  "summary": "## [3.17.0](https://github.com/openai/openai-python/compare/v3.16.2...v3.17.0) (2026-09-22)\n\n\n### Features\n\n* **api:** add external storage configuration management ([#3909](https://github.com/openai/openai-python/issues/3909)) ([6332577](https://github.com/openai/openai-python/commit/6332577d3fb5f83f7f381a431460262f7192402d))\n* **api:** add safety case retrieval ([#3911](https://github.com/openai",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.17.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

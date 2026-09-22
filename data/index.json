@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:18:28Z",
+  "generatedAt": "2026-09-22T11:10:38Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,108 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-81104d8861",
+      "title": "Grok 4.7 Sep 21, 2026 Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models. Read More",
+      "date": "2026-09-22",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-fe9e075c38",
+      "title": "openai/openai-python v3.17.0",
+      "date": "2026-09-22",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-98acfe91fd",
+      "title": "Transformers now runs llama.cpp quants",
+      "date": "2026-09-22",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-fb8ad85c45",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "date": "2026-09-22",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2c9792fbb1",
+      "title": "Building standards for the next phase of AI",
+      "date": "2026-09-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-530db518a7",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "date": "2026-09-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a7ca59844a",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "date": "2026-09-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c701b57089",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "date": "2026-09-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d1749ba76a",
+      "title": "How V7 gives AI agents institutional memory",
+      "date": "2026-09-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d37f5b2c59",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "date": "2026-09-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-eb792e0fc3",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "date": "2026-09-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
     {
       "id": "gen-hf-1e91a14383",
       "title": "Hugging Face model: Qwen/Qwen-Image-2.1-PE-I2I",
