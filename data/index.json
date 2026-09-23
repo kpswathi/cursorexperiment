@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:10:38Z",
+  "generatedAt": "2026-09-23T11:01:30Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,42 @@
   ],
   "news": [
     {
+      "id": "gen-blog-c485f3f61a",
+      "title": "Product · Sep 22, 2026 How SpaceXAI is using Grok Bot to scale customer support",
+      "date": "2026-09-23",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-44b1f67302",
+      "title": "openai/openai-python v3.19.0",
+      "date": "2026-09-23",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-81104d8861",
       "title": "Grok 4.7 Sep 21, 2026 Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models. Read More",
       "date": "2026-09-22",
       "source": "xAI",
       "companyIds": [
         "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-4e30e6a3d7",
+      "title": "openai/openai-python v3.18.0",
+      "date": "2026-09-22",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
@@ -1975,11 +2005,59 @@
       "generated": true
     },
     {
+      "id": "gen-rss-2960c64a01",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "date": "2026-09-22",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3d48e529ad",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "date": "2026-09-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-98acfe91fd",
       "title": "Transformers now runs llama.cpp quants",
       "date": "2026-09-22",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b4fb82cc13",
+      "title": "Priorities and principles for effective third party assessments",
+      "date": "2026-09-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b6b1e4118c",
+      "title": "Better prompt caching for GPT-6",
+      "date": "2026-09-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ce45d8dc0f",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "date": "2026-09-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {

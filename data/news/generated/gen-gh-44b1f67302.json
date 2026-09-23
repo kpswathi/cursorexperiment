@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-44b1f67302",
+  "title": "openai/openai-python v3.19.0",
+  "date": "2026-09-23",
+  "summary": "## [3.19.0](https://github.com/openai/openai-python/compare/v3.18.0...v3.19.0) (2026-09-22)\n\n\n### Features\n\n* **api:** add GCP external storage support ([#3943](https://github.com/openai/openai-python/issues/3943)) ([d12d60f](https://github.com/openai/openai-python/commit/d12d60fff9f5624f2dc50ade3d832028f4fecaa7))\n* **api:** add GPT-Rosalind research model ([#3940](https://github.com/openai/openai",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.19.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
