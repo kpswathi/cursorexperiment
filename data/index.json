@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:01:30Z",
+  "generatedAt": "2026-09-24T11:19:54Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,26 @@
   ],
   "news": [
     {
+      "id": "gen-blog-f82afb6487",
+      "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "date": "2026-09-24",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-5097ce59a1",
+      "title": "openai/openai-python v3.19.2",
+      "date": "2026-09-24",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-c485f3f61a",
       "title": "Product · Sep 22, 2026 How SpaceXAI is using Grok Bot to scale customer support",
       "date": "2026-09-23",
@@ -1969,6 +1989,144 @@
       "title": "openai/openai-python v3.19.0",
       "date": "2026-09-23",
       "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-63f69cb0ce",
+      "title": "openai/openai-python v3.19.1",
+      "date": "2026-09-23",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-01d4e543c9",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-09a0c6dbf1",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1d5a9cc2d9",
+      "title": "Introducing MentalHealthBench",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1d77064cbe",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1dd9ce125c",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4c4abcff4a",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "date": "2026-09-23",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7357353a1f",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-73fafdf6f4",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7cff1964bf",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9d02eeb8ce",
+      "title": "Two years of OpenAI Academy",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a70f8ac64e",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "date": "2026-09-23",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-be2314c629",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "date": "2026-09-23",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f7558dc5c9",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "date": "2026-09-23",
+      "source": "OpenAI",
       "companyIds": [
         "openai"
       ],

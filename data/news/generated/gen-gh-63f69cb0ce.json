@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-63f69cb0ce",
+  "title": "openai/openai-python v3.19.1",
+  "date": "2026-09-23",
+  "summary": "## [3.19.1](https://github.com/openai/openai-python/compare/v3.19.0...v3.19.1) (2026-09-23)\n\n\n### Bug Fixes\n\n* **chat:** preserve single-pass tool iterables ([#3770](https://github.com/openai/openai-python/issues/3770)) ([33ffa1f](https://github.com/openai/openai-python/commit/33ffa1f9fa4f49553ab0287b9359283be818fe40))\n* **client:** merge HTTP headers case-insensitively ([#3486](https://github.com",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.19.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
