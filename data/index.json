@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:19:54Z",
+  "generatedAt": "2026-09-25T11:25:17Z",
   "companies": [
     {
       "id": "01ai",
@@ -1971,6 +1971,24 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c2a53f2332",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "date": "2026-09-24",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e7107d9a76",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "date": "2026-09-24",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },
