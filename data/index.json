@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:25:17Z",
+  "generatedAt": "2026-09-26T11:00:37Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,16 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-rss-d2d497e5ee",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "date": "2026-09-25",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-f82afb6487",
       "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
