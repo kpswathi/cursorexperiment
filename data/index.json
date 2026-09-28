@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:39:37Z",
+  "generatedAt": "2026-09-28T13:15:01Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,14 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-rss-9552195c96",
+      "title": "Holo4: powering generalist computer-use agents",
+      "date": "2026-09-28",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
     {
       "id": "gen-rss-d2d497e5ee",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
