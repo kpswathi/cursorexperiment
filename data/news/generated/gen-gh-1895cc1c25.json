@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-1895cc1c25",
+  "title": "openai/openai-python v3.20.0",
+  "date": "2026-09-28",
+  "summary": "## [3.20.0](https://github.com/openai/openai-python/compare/v3.19.2...v3.20.0) (2026-09-28)\n\n\n### Features\n\n* **api:** add Agents credential and session options ([#3967](https://github.com/openai/openai-python/issues/3967)) ([bb68198](https://github.com/openai/openai-python/commit/bb68198a4bb4a161cbb32a28c3888a51540eaf0f))\n* **api:** add Cyber access programs to Responses ([#3956](https://github.c",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.20.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

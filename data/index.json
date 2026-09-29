@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:15:01Z",
+  "generatedAt": "2026-09-29T12:22:52Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,11 +1955,81 @@
   ],
   "news": [
     {
+      "id": "gen-blog-e09691c053",
+      "title": "Product · Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
+      "date": "2026-09-29",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-1895cc1c25",
+      "title": "openai/openai-python v3.20.0",
+      "date": "2026-09-28",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-216d56bba2",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "date": "2026-09-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-914f147106",
+      "title": "Are you a Codex Original?",
+      "date": "2026-09-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-9552195c96",
       "title": "Holo4: powering generalist computer-use agents",
       "date": "2026-09-28",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-bf0fe8cc38",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "date": "2026-09-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cf468ec39d",
+      "title": "Towards safety cases for frontier AI training",
+      "date": "2026-09-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cfe8e90040",
+      "title": "How we will do better for Australia",
+      "date": "2026-09-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {
