@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-d992aa63b0",
+  "title": "openai/openai-python v3.22.1",
+  "date": "2026-09-30",
+  "summary": "## [3.22.1](https://github.com/openai/openai-python/compare/v3.22.0...v3.22.1) (2026-09-30)\n\n\n### Bug Fixes\n\n* **api:** correct the missing authentication error message ([#3993](https://github.com/openai/openai-python/issues/3993)) ([51692ed](https://github.com/openai/openai-python/commit/51692ed3f9d2b87084801295f824c2202dac3785)), closes [#3962](https://github.com/openai/openai-python/issues/3962",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.22.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:22:52Z",
+  "generatedAt": "2026-09-30T12:07:53Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,88 @@
   ],
   "news": [
     {
+      "id": "gen-gh-d992aa63b0",
+      "title": "openai/openai-python v3.22.1",
+      "date": "2026-09-30",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-e09691c053",
       "title": "Product · Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
       "date": "2026-09-29",
       "source": "xAI",
       "companyIds": [
         "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-56be3608f1",
+      "title": "openai/openai-python v3.22.0",
+      "date": "2026-09-29",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-9dd9d1d154",
+      "title": "openai/openai-python v3.21.0",
+      "date": "2026-09-29",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-19db7cc5ca",
+      "title": "DevDay 2026 Recap",
+      "date": "2026-09-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-493cf3fce1",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "date": "2026-09-29",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-884977ecb8",
+      "title": "Introducing dots",
+      "date": "2026-09-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-984223f109",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "date": "2026-09-29",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-dd66acaed2",
+      "title": "Introducing GPT-6.1 Sol",
+      "date": "2026-09-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },

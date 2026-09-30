@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-56be3608f1",
+  "title": "openai/openai-python v3.22.0",
+  "date": "2026-09-29",
+  "summary": "## [3.22.0](https://github.com/openai/openai-python/compare/v3.21.0...v3.22.0) (2026-09-29)\n\n\n### Features\n\n* **api:** add computer use to beta agents ([#3989](https://github.com/openai/openai-python/issues/3989)) ([f5dddb5](https://github.com/openai/openai-python/commit/f5dddb5a199f899d9439ac3187c9c0f2d3e4082e))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.22.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
