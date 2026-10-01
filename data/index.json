@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:07:53Z",
+  "generatedAt": "2026-10-01T12:41:20Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,10 +1955,60 @@
   ],
   "news": [
     {
+      "id": "gen-blog-91b1f786ee",
+      "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+      "date": "2026-10-01",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-gh-d992aa63b0",
       "title": "openai/openai-python v3.22.1",
       "date": "2026-09-30",
       "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0a622a33b8",
+      "title": "Introducing SynthID Bio",
+      "date": "2026-09-30",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-15e70ee5e4",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "date": "2026-09-30",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6a91381a42",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "date": "2026-09-30",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b5e5e43443",
+      "title": "Helping small businesses put AI to work",
+      "date": "2026-09-30",
+      "source": "OpenAI",
       "companyIds": [
         "openai"
       ],

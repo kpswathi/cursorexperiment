@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-0a622a33b8",
+  "title": "Introducing SynthID Bio",
+  "date": "2026-09-30",
+  "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+  "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "source": "Google DeepMind",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
