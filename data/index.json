@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:41:20Z",
+  "generatedAt": "2026-10-02T12:05:53Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,68 @@
   ],
   "news": [
     {
+      "id": "gen-rss-a885ed61f5",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "date": "2026-10-02",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-91b1f786ee",
       "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
       "date": "2026-10-01",
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-fb67609506",
+      "title": "openai/openai-python v3.23.0",
+      "date": "2026-10-01",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0bf00b70db",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "date": "2026-10-01",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3bba527585",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "date": "2026-10-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7e67b43cf9",
+      "title": "The eternal complement",
+      "date": "2026-10-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a80484c2d5",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "date": "2026-10-01",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
@@ -1992,6 +2048,14 @@
       "companyIds": [
         "google-deepmind"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-581ab3112c",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "date": "2026-09-30",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {

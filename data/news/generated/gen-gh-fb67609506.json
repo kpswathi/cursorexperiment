@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-fb67609506",
+  "title": "openai/openai-python v3.23.0",
+  "date": "2026-10-01",
+  "summary": "## [3.23.0](https://github.com/openai/openai-python/compare/v3.22.1...v3.23.0) (2026-10-01)\n\n\n### Features\n\n* **agents:** [1/n] return typed answers from session streams ([#4007](https://github.com/openai/openai-python/issues/4007)) ([10f8816](https://github.com/openai/openai-python/commit/10f88169b0f3929b4e2528aad7a825df31163156))\n* **agents:** stage files and download turn artifacts ([#4009](htt",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.23.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
