@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:05:53Z",
+  "generatedAt": "2026-10-03T11:17:19Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,8 +1955,56 @@
   ],
   "news": [
     {
+      "id": "gen-blog-9f2dde650f",
+      "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "date": "2026-10-03",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-be71a01fe7",
+      "title": "openai/openai-python v3.24.0",
+      "date": "2026-10-02",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-8e206c4d9e",
+      "title": "A model guide for the GPT-6 family",
+      "date": "2026-10-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-a885ed61f5",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "date": "2026-10-02",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a97398f76e",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "date": "2026-10-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d599f0a282",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "date": "2026-10-02",
       "source": "Hugging Face",
       "companyIds": [],

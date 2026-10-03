@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-be71a01fe7",
+  "title": "openai/openai-python v3.24.0",
+  "date": "2026-10-02",
+  "summary": "## [3.24.0](https://github.com/openai/openai-python/compare/v3.23.0...v3.24.0) (2026-10-02)\n\n\n### Features\n\n* **api:** add custom voice creation and agent session events ([#4013](https://github.com/openai/openai-python/issues/4013)) ([e5de2e5](https://github.com/openai/openai-python/commit/e5de2e5656fb3d4fa70f050195382e6a4d59f806))\n\n\n### Bug Fixes\n\n* **api:** prioritize Python request routing fiel",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.24.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-8e206c4d9e",
+  "title": "A model guide for the GPT-6 family",
+  "date": "2026-10-02",
+  "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+  "url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
