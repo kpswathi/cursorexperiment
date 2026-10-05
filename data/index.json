@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:57:02Z",
+  "generatedAt": "2026-10-05T13:57:37Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,16 @@
   ],
   "news": [
     {
+      "id": "gen-rss-3cbec84de8",
+      "title": "Building advertising for the way people use AI",
+      "date": "2026-10-05",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-9f2dde650f",
       "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "date": "2026-10-03",
@@ -1962,6 +1972,14 @@
       "companyIds": [
         "anthropic"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-89764eae00",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "date": "2026-10-03",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
