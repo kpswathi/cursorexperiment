@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-78ad538158",
+  "title": "Our approach to EU text provenance rules",
+  "date": "2026-10-05",
+  "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+  "url": "https://openai.com/index/eu-text-provenance",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
