@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:58:53Z",
+  "generatedAt": "2026-10-07T12:53:10Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,11 +1955,99 @@
   ],
   "news": [
     {
+      "id": "gen-blog-a22a6ca92e",
+      "title": "Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilitie",
+      "date": "2026-10-07",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5bdd694c62",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "date": "2026-10-07",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-12810acdc6",
+      "title": "openai/openai-python v3.25.0",
+      "date": "2026-10-06",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-b0d2a60df1",
+      "title": "openai/openai-python v3.26.0",
+      "date": "2026-10-06",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-085f7195b6",
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "date": "2026-10-06",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-342677ae7e",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "date": "2026-10-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-47b9255d8f",
+      "title": "Sharing AI progress in mathematics",
+      "date": "2026-10-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4dd2900708",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "date": "2026-10-06",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-60ef2af305",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "date": "2026-10-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9964af802e",
+      "title": "Advancing computer use with Ironclad",
+      "date": "2026-10-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {

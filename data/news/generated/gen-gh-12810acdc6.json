@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-12810acdc6",
+  "title": "openai/openai-python v3.25.0",
+  "date": "2026-10-06",
+  "summary": "## [3.25.0](https://github.com/openai/openai-python/compare/v3.24.0...v3.25.0) (2026-10-06)\n\n\n### Features\n\n* **agents:** observe local tool failures ([#4028](https://github.com/openai/openai-python/issues/4028)) ([95d9645](https://github.com/openai/openai-python/commit/95d9645128cb370b9b04413492b864179602c008))\n* **agents:** run local tools during streamed session creation ([#4027](https://github",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.25.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

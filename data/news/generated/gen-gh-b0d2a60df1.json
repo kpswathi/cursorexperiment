@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-b0d2a60df1",
+  "title": "openai/openai-python v3.26.0",
+  "date": "2026-10-06",
+  "summary": "## [3.26.0](https://github.com/openai/openai-python/compare/v3.25.0...v3.26.0) (2026-10-06)\n\n\n### Features\n\n* **api:** add standalone Decisions support ([#4033](https://github.com/openai/openai-python/issues/4033)) ([b99e3e4](https://github.com/openai/openai-python/commit/b99e3e4eee03e99eebc2c762eee9d73fdd4b0eff))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.26.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
