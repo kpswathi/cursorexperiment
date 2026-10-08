@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-61732feb79",
+  "title": "openai/openai-python v3.26.1",
+  "date": "2026-10-08",
+  "summary": "## [3.26.1](https://github.com/openai/openai-python/compare/v3.26.0...v3.26.1) (2026-10-08)\n\n\n### Bug Fixes\n\n* **api:** correct custom voice creation parameters ([#4038](https://github.com/openai/openai-python/issues/4038)) ([b9bc5c1](https://github.com/openai/openai-python/commit/b9bc5c141d395165939eccfcfe42d1ed8219ec6a))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.26.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
