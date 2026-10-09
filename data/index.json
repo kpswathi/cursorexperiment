@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:01:33Z",
+  "generatedAt": "2026-10-09T12:48:10Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,10 +1955,98 @@
   ],
   "news": [
     {
+      "id": "gen-blog-26f5049650",
+      "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
+      "date": "2026-10-09",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-7a238471d7",
+      "title": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+      "date": "2026-10-09",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-db9c355075",
+      "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+      "date": "2026-10-09",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-edd58468d5",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "date": "2026-10-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-gh-61732feb79",
       "title": "openai/openai-python v3.26.1",
       "date": "2026-10-08",
       "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-077dea1e8a",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "date": "2026-10-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0f05fd4155",
+      "title": "The model that didn't exist, so you made it yourself",
+      "date": "2026-10-08",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-112b5f0087",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "date": "2026-10-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ca1ec6c6a1",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "date": "2026-10-08",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f6d3626eb7",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "date": "2026-10-08",
+      "source": "OpenAI",
       "companyIds": [
         "openai"
       ],
@@ -2005,6 +2093,14 @@
     {
       "id": "gen-rss-5bdd694c62",
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "date": "2026-10-07",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-91ed3eb235",
+      "title": "Introducing Falcon ASR",
       "date": "2026-10-07",
       "source": "Hugging Face",
       "companyIds": [],
