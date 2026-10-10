@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-e7f9dadf18",
+  "title": "Hugging Face model: mistralai/LIDstral-Arabic",
+  "date": "2026-10-08",
+  "summary": "Public model card for mistralai/LIDstral-Arabic (text-classification).",
+  "url": "https://huggingface.co/mistralai/LIDstral-Arabic",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

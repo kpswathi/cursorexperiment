@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:48:10Z",
+  "generatedAt": "2026-10-10T12:06:15Z",
   "companies": [
     {
       "id": "01ai",
@@ -1985,6 +1985,54 @@
       "generated": true
     },
     {
+      "id": "gen-gh-1bee7727fb",
+      "title": "openai/openai-python v3.27.0",
+      "date": "2026-10-09",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-781f58c65a",
+      "title": "openai/openai-python v3.28.0",
+      "date": "2026-10-09",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-7941af6584",
+      "title": "Hugging Face model: Qwen/Qwen-Image-2.1-Turbo",
+      "date": "2026-10-09",
+      "source": "Hugging Face/Qwen",
+      "companyIds": [
+        "alibaba-qwen"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-43ef54e74d",
+      "title": "Impactful scheduling for GPU clusters",
+      "date": "2026-10-09",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-90995f7dbc",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "date": "2026-10-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-edd58468d5",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "date": "2026-10-09",
@@ -2001,6 +2049,26 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-1602188c68",
+      "title": "Hugging Face model: mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+      "date": "2026-10-08",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-e7f9dadf18",
+      "title": "Hugging Face model: mistralai/LIDstral-Arabic",
+      "date": "2026-10-08",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
       ],
       "generated": true
     },

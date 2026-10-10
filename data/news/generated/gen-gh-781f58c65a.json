@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-781f58c65a",
+  "title": "openai/openai-python v3.28.0",
+  "date": "2026-10-09",
+  "summary": "## [3.28.0](https://github.com/openai/openai-python/compare/v3.27.0...v3.28.0) (2026-10-09)\n\n\n### Features\n\n* **api:** add agent environment suspension and expiration ([#4046](https://github.com/openai/openai-python/issues/4046)) ([6aa25a9](https://github.com/openai/openai-python/commit/6aa25a9959f451ef67de948b792779e3d130a9c2))\n\n\n### Chores\n\n* **deps:** bump astral-sh/setup-uv from 10.1.0 to 10.2",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.28.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

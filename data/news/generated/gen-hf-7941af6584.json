@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-7941af6584",
+  "title": "Hugging Face model: Qwen/Qwen-Image-2.1-Turbo",
+  "date": "2026-10-09",
+  "summary": "Public model card for Qwen/Qwen-Image-2.1-Turbo (text-to-image).",
+  "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+  "source": "Hugging Face/Qwen",
+  "companyIds": [
+    "alibaba-qwen"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

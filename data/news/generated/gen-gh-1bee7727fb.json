@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-1bee7727fb",
+  "title": "openai/openai-python v3.27.0",
+  "date": "2026-10-09",
+  "summary": "## [3.27.0](https://github.com/openai/openai-python/compare/v3.26.1...v3.27.0) (2026-10-09)\n\n\n### Features\n\n* **api:** add prewarmed hosted environments ([#4043](https://github.com/openai/openai-python/issues/4043)) ([c511a77](https://github.com/openai/openai-python/commit/c511a77159bc870f31c34388311b7cc62ef15f08))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.27.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

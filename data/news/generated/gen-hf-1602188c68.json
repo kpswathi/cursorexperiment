@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-1602188c68",
+  "title": "Hugging Face model: mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+  "date": "2026-10-08",
+  "summary": "Public model card for mistralai/Voxtral-Mini-4B-Realtime-Arabic (automatic-speech-recognition).",
+  "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}
