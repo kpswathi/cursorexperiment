@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:19:56Z",
+  "generatedAt": "2026-10-12T14:46:21Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,16 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-gh-8ace020676",
+      "title": "openai/openai-python v3.29.0",
+      "date": "2026-10-11",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-26f5049650",
       "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",

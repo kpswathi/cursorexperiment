@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-8ace020676",
+  "title": "openai/openai-python v3.29.0",
+  "date": "2026-10-11",
+  "summary": "## [3.29.0](https://github.com/openai/openai-python/compare/v3.28.0...v3.29.0) (2026-10-11)\n\n\n### Features\n\n* **api:** add billing_not_active session error code ([#4052](https://github.com/openai/openai-python/issues/4052)) ([c88b320](https://github.com/openai/openai-python/commit/c88b32012ef0c3ebac39c79512994985a553a24c))\n* **api:** add shida to named Live voices ([#4053](https://github.com/opena",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.29.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
