@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-3512a5ebf1",
+  "title": "openai/openai-python v3.30.0",
+  "date": "2026-10-14",
+  "summary": "## [3.30.0](https://github.com/openai/openai-python/compare/v3.29.0...v3.30.0) (2026-10-14)\n\n\n### Features\n\n* **api:** add beta session spending limits ([#4058](https://github.com/openai/openai-python/issues/4058)) ([b570279](https://github.com/openai/openai-python/commit/b5702792a0adb1e86a8b51709e935c1e0acde727))\n* **api:** add OCI external-storage provider support ([#4060](https://github.com/ope",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.30.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

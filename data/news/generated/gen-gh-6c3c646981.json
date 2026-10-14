@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-6c3c646981",
+  "title": "openai/openai-python v3.31.0",
+  "date": "2026-10-14",
+  "summary": "## [3.31.0](https://github.com/openai/openai-python/compare/v3.30.0...v3.31.0) (2026-10-14)\n\n\n### Features\n\n* add browser and computer toolsets (1/4) ([#4073](https://github.com/openai/openai-python/issues/4073)) ([47b9e4e](https://github.com/openai/openai-python/commit/47b9e4e95e44b1e825dc4e0753967c65d0733445))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.31.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

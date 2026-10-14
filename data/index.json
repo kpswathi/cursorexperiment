@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:47:57Z",
+  "generatedAt": "2026-10-14T11:25:34Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,110 @@
   ],
   "news": [
     {
+      "id": "gen-blog-87253efeda",
+      "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "date": "2026-10-14",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-3512a5ebf1",
+      "title": "openai/openai-python v3.30.0",
+      "date": "2026-10-14",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-6c3c646981",
+      "title": "openai/openai-python v3.31.0",
+      "date": "2026-10-14",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2f3282e483",
+      "title": "The EU’s next chapter in AI is agentic",
+      "date": "2026-10-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-58e4191fcf",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "date": "2026-10-14",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-6d96079a65",
       "title": "Product · Oct 12, 2026 Introducing The X Subscription",
       "date": "2026-10-13",
       "source": "xAI",
       "companyIds": [
         "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-471508c04c",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "date": "2026-10-13",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-550c4c02e9",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "date": "2026-10-13",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-884ebf3c39",
+      "title": "Gemini 4 Argon for Robotics",
+      "date": "2026-10-13",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f174716114",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "date": "2026-10-13",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ffc748cb8d",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "date": "2026-10-13",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
