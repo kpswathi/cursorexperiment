@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:25:34Z",
+  "generatedAt": "2026-10-15T11:02:16Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,26 @@
   ],
   "news": [
     {
+      "id": "gen-blog-793cd0506a",
+      "title": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
+      "date": "2026-10-15",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-c9ddbc2bb8",
+      "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+      "date": "2026-10-15",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-87253efeda",
       "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
       "date": "2026-10-14",
@@ -1985,6 +2005,16 @@
       "generated": true
     },
     {
+      "id": "gen-rss-24cc989c02",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "date": "2026-10-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-2f3282e483",
       "title": "The EU’s next chapter in AI is agentic",
       "date": "2026-10-14",
@@ -2001,6 +2031,44 @@
       "source": "Google DeepMind",
       "companyIds": [
         "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-672ebf75c4",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "date": "2026-10-14",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7d10f0ddfe",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "date": "2026-10-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a0e0fec2c2",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "date": "2026-10-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e181547094",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "date": "2026-10-14",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
