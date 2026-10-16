@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:02:16Z",
+  "generatedAt": "2026-10-16T10:58:05Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,24 @@
   ],
   "news": [
     {
+      "id": "gen-blog-dc9ed14da7",
+      "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+      "date": "2026-10-16",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ba4e7337ab",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "date": "2026-10-16",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-793cd0506a",
       "title": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
       "date": "2026-10-15",
@@ -1971,6 +1989,70 @@
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3733c75a28",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-996b33c09a",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "date": "2026-10-15",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9d251ac683",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a01e02239d",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a72d1e4da6",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "date": "2026-10-15",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-dd00c04c9b",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "date": "2026-10-15",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-fa14b8f7db",
+      "title": "Teaching students to think and learn through questions",
+      "date": "2026-10-15",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
@@ -2001,6 +2083,46 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-5f8c840a2b",
+      "title": "Hugging Face model: mistralai/Timestral-123M",
+      "date": "2026-10-14",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-68b038d314",
+      "title": "Hugging Face model: mistralai/Timestral-209M",
+      "date": "2026-10-14",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-de4d2b2e3f",
+      "title": "Hugging Face model: mistralai/Timestral-5M",
+      "date": "2026-10-14",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-dfee48ccf5",
+      "title": "Hugging Face model: mistralai/Timestral-28M",
+      "date": "2026-10-14",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
       ],
       "generated": true
     },

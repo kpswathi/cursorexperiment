@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-5f8c840a2b",
+  "title": "Hugging Face model: mistralai/Timestral-123M",
+  "date": "2026-10-14",
+  "summary": "Public model card for mistralai/Timestral-123M (time-series-forecasting).",
+  "url": "https://huggingface.co/mistralai/Timestral-123M",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

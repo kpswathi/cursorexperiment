@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-dfee48ccf5",
+  "title": "Hugging Face model: mistralai/Timestral-28M",
+  "date": "2026-10-14",
+  "summary": "Public model card for mistralai/Timestral-28M (time-series-forecasting).",
+  "url": "https://huggingface.co/mistralai/Timestral-28M",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}
