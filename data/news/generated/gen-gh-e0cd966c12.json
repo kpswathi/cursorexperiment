@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-e0cd966c12",
+  "title": "openai/openai-python v3.33.0",
+  "date": "2026-10-17",
+  "summary": "## [3.33.0](https://github.com/openai/openai-python/compare/v3.32.0...v3.33.0) (2026-10-16)\n\n\n### Features\n\n* **api:** add safety identifiers to image requests and responses ([#4093](https://github.com/openai/openai-python/issues/4093)) ([c969e32](https://github.com/openai/openai-python/commit/c969e32ebb325b5910aff4543187fedc5527e172))\n* **api:** share Decisions cache breakpoint parameter type ([#",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

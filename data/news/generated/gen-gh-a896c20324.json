@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-a896c20324",
+  "title": "openai/openai-python v3.32.0",
+  "date": "2026-10-16",
+  "summary": "## [3.32.0](https://github.com/openai/openai-python/compare/v3.31.0...v3.32.0) (2026-10-16)\n\n\n### Features\n\n* **api:** add cache settings and key options [2/2] ([#4087](https://github.com/openai/openai-python/issues/4087)) ([325da45](https://github.com/openai/openai-python/commit/325da45934ddb1c1b6a0bed1681a8cf46c9a8712))\n* **api:** add prompt-based voice creation ([#4091](https://github.com/opena",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.32.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

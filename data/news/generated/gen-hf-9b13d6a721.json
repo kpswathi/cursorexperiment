@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-9b13d6a721",
+  "title": "Hugging Face model: deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "date": "2026-10-17",
+  "summary": "Public model card for deepseek-ai/DeepSeek-V4.1-Flash-1017 (image-text-to-text).",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "source": "Hugging Face/deepseek-ai",
+  "companyIds": [
+    "deepseek"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

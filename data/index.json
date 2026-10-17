@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:58:05Z",
+  "generatedAt": "2026-10-17T10:19:43Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,80 @@
   ],
   "news": [
     {
+      "id": "gen-gh-e0cd966c12",
+      "title": "openai/openai-python v3.33.0",
+      "date": "2026-10-17",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-9b13d6a721",
+      "title": "Hugging Face model: deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "date": "2026-10-17",
+      "source": "Hugging Face/deepseek-ai",
+      "companyIds": [
+        "deepseek"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-dc9ed14da7",
       "title": "Oct 15, 2026 Announcements An update on independent evaluators",
       "date": "2026-10-16",
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-a896c20324",
+      "title": "openai/openai-python v3.32.0",
+      "date": "2026-10-16",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4a2f3ca18e",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "date": "2026-10-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-65442e7082",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "date": "2026-10-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-849b423196",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "date": "2026-10-16",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9db4940a53",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "date": "2026-10-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
