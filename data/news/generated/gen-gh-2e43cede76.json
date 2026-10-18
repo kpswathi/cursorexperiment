@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-2e43cede76",
+  "title": "openai/openai-python v3.35.0",
+  "date": "2026-10-17",
+  "summary": "## [3.35.0](https://github.com/openai/openai-python/compare/v3.34.0...v3.35.0) (2026-10-17)\n\n\n### Features\n\n* **api:** add typed Live sideband events ([#4099](https://github.com/openai/openai-python/issues/4099)) ([8d5cbf0](https://github.com/openai/openai-python/commit/8d5cbf07916b8f2409d940156135ce3c11ac1552))\n* **api:** add ultrafast service tier for Agents ([#4101](https://github.com/openai/op",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.35.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

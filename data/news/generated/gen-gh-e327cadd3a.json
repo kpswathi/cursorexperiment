@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-e327cadd3a",
+  "title": "openai/openai-python v3.34.0",
+  "date": "2026-10-17",
+  "summary": "## [3.34.0](https://github.com/openai/openai-python/compare/v3.33.0...v3.34.0) (2026-10-17)\n\n\n### Features\n\n* **api:** add degraded external storage status ([#4097](https://github.com/openai/openai-python/issues/4097)) ([b216cb2](https://github.com/openai/openai-python/commit/b216cb2fbdefebba6f3997a180510f9e2b6b41af))\n* **api:** add Realtime Translation WebSocket sessions ([#4095](https://github.c",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.34.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
