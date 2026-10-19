@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:35:12Z",
+  "generatedAt": "2026-10-19T12:31:11Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,16 @@
   ],
   "news": [
     {
+      "id": "gen-blog-4c6c987b65",
+      "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+      "date": "2026-10-19",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-gh-d2e2ee0270",
       "title": "openai/openai-python v3.35.1",
       "date": "2026-10-18",
@@ -2142,6 +2152,14 @@
       "companyIds": [
         "openai"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e3c36d4422",
+      "title": "Apertus 1.5 Release Notes",
+      "date": "2026-10-15",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
