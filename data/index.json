@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:31:11Z",
+  "generatedAt": "2026-10-20T11:06:48Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,14 @@
   ],
   "news": [
     {
+      "id": "gen-rss-3eb18e5ff7",
+      "title": "MPS in PyTorch 2.15",
+      "date": "2026-10-20",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-4c6c987b65",
       "title": "Oct 18, 2026 Announcements Investing in the public benefit",
       "date": "2026-10-19",
@@ -1962,6 +1970,24 @@
       "companyIds": [
         "anthropic"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7a364f356a",
+      "title": "Advancing coding in low‑resource programming languages",
+      "date": "2026-10-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9dbc0d55ff",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "date": "2026-10-19",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
