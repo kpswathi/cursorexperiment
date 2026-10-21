@@ -1,0 +1,14 @@
+{
+  "id": "gen-blog-7f42709de2",
+  "title": "Strengthening our defenses against distillation attacks",
+  "date": "2026-10-21",
+  "summary": "Discovered on Anthropic (https://www.anthropic.com/news).",
+  "url": "https://www.anthropic.com/news/distillation-defenses",
+  "source": "Anthropic",
+  "companyIds": [
+    "anthropic"
+  ],
+  "modelIds": [],
+  "sourceType": "blog",
+  "generated": true
+}

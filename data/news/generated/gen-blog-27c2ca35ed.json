@@ -1,0 +1,14 @@
+{
+  "id": "gen-blog-27c2ca35ed",
+  "title": "Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
+  "date": "2026-10-21",
+  "summary": "Discovered on xAI (https://x.ai/news).",
+  "url": "https://x.ai/news/incident-sweep",
+  "source": "xAI",
+  "companyIds": [
+    "xai"
+  ],
+  "modelIds": [],
+  "sourceType": "blog",
+  "generated": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gen-blog-10310c2093",
+  "title": "Announcements",
+  "date": "2026-10-21",
+  "summary": "Discovered on Anthropic (https://www.anthropic.com/news).",
+  "url": "https://www.anthropic.com/news/announcements",
+  "source": "Anthropic",
+  "companyIds": [
+    "anthropic"
+  ],
+  "modelIds": [],
+  "sourceType": "blog",
+  "generated": true
+}
