@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-9201054eeb",
+  "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "date": "2026-10-21",
+  "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+  "url": "https://openai.com/index/cloudflare-cyber",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

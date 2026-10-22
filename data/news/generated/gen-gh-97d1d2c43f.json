@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-97d1d2c43f",
+  "title": "openai/openai-python v3.36.0",
+  "date": "2026-10-21",
+  "summary": "## [3.36.0](https://github.com/openai/openai-python/compare/v3.35.1...v3.36.0) (2026-10-21)\n\n\n### Features\n\n* add Vertex AI support for the Responses API ([#4139](https://github.com/openai/openai-python/issues/4139)) ([3e63d33](https://github.com/openai/openai-python/commit/3e63d33f6258f47285007aaee30df251d5127820))\n* **api:** add 30-minute cache-write usage counts ([#4111](https://github.com/open",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.36.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

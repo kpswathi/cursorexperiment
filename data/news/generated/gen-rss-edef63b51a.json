@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-edef63b51a",
+  "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+  "date": "2026-10-21",
+  "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+  "url": "https://openai.com/index/building-chatgpt-ad-stack",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

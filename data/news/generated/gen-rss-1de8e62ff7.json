@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-1de8e62ff7",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "date": "2026-10-21",
+  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

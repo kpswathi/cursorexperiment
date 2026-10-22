@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:23:03Z",
+  "generatedAt": "2026-10-22T11:22:41Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,34 @@
   ],
   "news": [
     {
+      "id": "gen-blog-b12d9d8f20",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "date": "2026-10-22",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-a4ee712b36",
+      "title": "openai/openai-python v3.36.1",
+      "date": "2026-10-22",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5d118fadbe",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "date": "2026-10-22",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-10310c2093",
       "title": "Announcements",
       "date": "2026-10-21",
@@ -1985,8 +2013,140 @@
       "generated": true
     },
     {
+      "id": "gen-gh-97d1d2c43f",
+      "title": "openai/openai-python v3.36.0",
+      "date": "2026-10-21",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1de8e62ff7",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2ed22a61b2",
+      "title": "Broad access through consistent standards",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-354f89a6c7",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4ab93569e2",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-61f4d0141f",
+      "title": "OpenAI models are coming to Google Cloud",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7104bc51c2",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-74fcf21eca",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9201054eeb",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-99ae24e773",
       "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9b35c0bfb2",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "date": "2026-10-21",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b2deaf97c9",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d3f519557f",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-edef63b51a",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "date": "2026-10-21",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f9b499debd",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "date": "2026-10-21",
       "source": "Hugging Face",
       "companyIds": [],
