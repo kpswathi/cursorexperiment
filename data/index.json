@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:22:41Z",
+  "generatedAt": "2026-10-23T11:13:00Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,62 @@
   ],
   "news": [
     {
+      "id": "gen-blog-2a74798a26",
+      "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+      "date": "2026-10-23",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-86405d6d1e",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "date": "2026-10-23",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-98d45c75b1",
+      "title": "Open call for guest investigators in the life sciences",
+      "date": "2026-10-23",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-15c1f8ef7a",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "date": "2026-10-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-b12d9d8f20",
       "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
       "date": "2026-10-22",
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-16908a10cf",
+      "title": "openai/openai-python v3.37.0",
+      "date": "2026-10-22",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
@@ -1975,8 +2025,64 @@
       "generated": true
     },
     {
+      "id": "gen-rss-27825e3003",
+      "title": "Build more responsive apps with the Decisions API",
+      "date": "2026-10-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-5d118fadbe",
       "title": "Ensemble forecasting with IBM Granite time-series models",
+      "date": "2026-10-22",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-63c31ca523",
+      "title": "What FDE means at OpenAI",
+      "date": "2026-10-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-95eb6975ad",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "date": "2026-10-22",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ba6fa07d67",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "date": "2026-10-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e66e9796ba",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "date": "2026-10-22",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-eaa0ebff7d",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
       "date": "2026-10-22",
       "source": "Hugging Face",
       "companyIds": [],
@@ -2297,6 +2403,16 @@
       "source": "Hugging Face/deepseek-ai",
       "companyIds": [
         "deepseek"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-bf04d12d42",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-M3.1-Flash",
+      "date": "2026-10-17",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
       ],
       "generated": true
     },

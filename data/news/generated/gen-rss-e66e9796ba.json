@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-e66e9796ba",
+  "title": "Beyond tree cover: mapping the world’s forest types",
+  "date": "2026-10-22",
+  "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+  "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+  "source": "Google DeepMind",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

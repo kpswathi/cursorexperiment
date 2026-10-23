@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-bf04d12d42",
+  "title": "Hugging Face model: MiniMaxAI/MiniMax-M3.1-Flash",
+  "date": "2026-10-17",
+  "summary": "Public model card for MiniMaxAI/MiniMax-M3.1-Flash (image-text-to-text).",
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+  "source": "Hugging Face/MiniMaxAI",
+  "companyIds": [
+    "minimax"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}
