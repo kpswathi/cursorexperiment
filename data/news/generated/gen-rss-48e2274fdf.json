@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-48e2274fdf",
+  "title": "Securing our frontier model training environment",
+  "date": "2026-10-23",
+  "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

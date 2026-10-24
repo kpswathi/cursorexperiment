@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:13:00Z",
+  "generatedAt": "2026-10-24T10:31:28Z",
   "companies": [
     {
       "id": "01ai",
@@ -1992,6 +1992,42 @@
       "companyIds": [
         "openai"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-298c8de07d",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "date": "2026-10-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-48e2274fdf",
+      "title": "Securing our frontier model training environment",
+      "date": "2026-10-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6430909168",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "date": "2026-10-23",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d5dfb55b01",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "date": "2026-10-23",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
