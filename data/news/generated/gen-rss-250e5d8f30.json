@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-250e5d8f30",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "date": "2026-10-26",
+  "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+  "url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

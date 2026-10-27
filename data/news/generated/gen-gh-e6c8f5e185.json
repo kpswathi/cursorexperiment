@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-e6c8f5e185",
+  "title": "openai/openai-python v3.39.0",
+  "date": "2026-10-26",
+  "summary": "## [3.39.0](https://github.com/openai/openai-python/compare/v3.38.0...v3.39.0) (2026-10-26)\n\n\n### Features\n\n* **api:** add gpt-6.1-terra model identifier ([#4180](https://github.com/openai/openai-python/issues/4180)) ([e8beb1a](https://github.com/openai/openai-python/commit/e8beb1abdf6de71ea10195c942f6566ca2696c28))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.39.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

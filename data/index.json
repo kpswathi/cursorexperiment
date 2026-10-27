@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:28:48Z",
+  "generatedAt": "2026-10-27T11:47:12Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,106 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-edf59637f5",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "date": "2026-10-27",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-93828099da",
+      "title": "openai/openai-python v3.38.0",
+      "date": "2026-10-26",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-e6c8f5e185",
+      "title": "openai/openai-python v3.39.0",
+      "date": "2026-10-26",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1758535ac6",
+      "title": "Introducing GPT-6.1 Terra",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1a1d4bf2fc",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-250e5d8f30",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-64d59b55a8",
+      "title": "ChatGPT’s expanding world of work",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-8f2f08b6e1",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-eb7708c5f5",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f16aefe89a",
+      "title": "Working with academic communities to build scientific understanding",
+      "date": "2026-10-26",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-2a74798a26",
       "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",

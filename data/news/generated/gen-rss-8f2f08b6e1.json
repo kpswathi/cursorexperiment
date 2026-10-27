@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-8f2f08b6e1",
+  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "date": "2026-10-26",
+  "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+  "url": "https://openai.com/index/openai-cut-incident-investigation",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

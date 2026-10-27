@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-93828099da",
+  "title": "openai/openai-python v3.38.0",
+  "date": "2026-10-26",
+  "summary": "## [3.38.0](https://github.com/openai/openai-python/compare/v3.37.0...v3.38.0) (2026-10-25)\n\n\n### Features\n\n* **api:** add delegation controls and prompt cache lifetimes ([#4169](https://github.com/openai/openai-python/issues/4169)) ([43045fc](https://github.com/openai/openai-python/commit/43045fcaf91aec08571e54c57706597cefd32d45))\n* **api:** expand Live Decision item and question types ([#4175](h",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.38.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
