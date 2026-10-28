@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-10516ce458",
+  "title": "openai/openai-python v3.40.0",
+  "date": "2026-10-27",
+  "summary": "## [3.40.0](https://github.com/openai/openai-python/compare/v3.39.0...v3.40.0) (2026-10-27)\n\n\n### Features\n\n* **api:** add prompt cache breakpoint TTL options ([#4188](https://github.com/openai/openai-python/issues/4188)) ([3596d18](https://github.com/openai/openai-python/commit/3596d18f05b63081fd64c6da82b515293afb98c6))\n\n\n### Bug Fixes\n\n* **ci:** use an explicit browser demo dependency ([#4185](h",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.40.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:47:12Z",
+  "generatedAt": "2026-10-28T12:21:16Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,46 @@
   ],
   "news": [
     {
+      "id": "gen-blog-063c371f62",
+      "title": "Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
+      "date": "2026-10-28",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-16faca12f9",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "date": "2026-10-28",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-blog-31508cd64d",
+      "title": "Partnerships",
+      "date": "2026-10-28",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2fc8e689e4",
+      "title": "Legora is building the agentic operating system for legal work",
+      "date": "2026-10-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-edf59637f5",
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
       "date": "2026-10-27",
@@ -1962,6 +2002,72 @@
       "companyIds": [
         "anthropic"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-10516ce458",
+      "title": "openai/openai-python v3.40.0",
+      "date": "2026-10-27",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-34370e88c8",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "date": "2026-10-27",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-8cb333260a",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "date": "2026-10-27",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a3a879144b",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "date": "2026-10-27",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d17d13a000",
+      "title": "Genie 4: A new generation of world simulation",
+      "date": "2026-10-27",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d42fb1eb33",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "date": "2026-10-27",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-db98bf59a6",
+      "title": "Build specialized multimodal models with LFM3",
+      "date": "2026-10-27",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
