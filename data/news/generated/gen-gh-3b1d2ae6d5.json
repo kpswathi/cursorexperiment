@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-3b1d2ae6d5",
+  "title": "openai/openai-python v3.41.0",
+  "date": "2026-10-28",
+  "summary": "## [3.41.0](https://github.com/openai/openai-python/compare/v3.40.0...v3.41.0) (2026-10-28)\n\n\n### Features\n\n* **api:** accept typed references in Realtime response inputs ([#4189](https://github.com/openai/openai-python/issues/4189)) ([8ecb487](https://github.com/openai/openai-python/commit/8ecb487ceb746f3af492c2d94083eb4e5d82a14f))\n* **api:** add response tool usage models ([#4201](https://github",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

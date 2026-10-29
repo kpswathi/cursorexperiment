@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:21:16Z",
+  "generatedAt": "2026-10-29T12:30:19Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,24 @@
   ],
   "news": [
     {
+      "id": "gen-blog-ad10900db6",
+      "title": "AI for Science expands to foundations and research institutions",
+      "date": "2026-10-29",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-85d975255b",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-063c371f62",
       "title": "Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
       "date": "2026-10-28",
@@ -1985,12 +2003,70 @@
       "generated": true
     },
     {
+      "id": "gen-gh-3b1d2ae6d5",
+      "title": "openai/openai-python v3.41.0",
+      "date": "2026-10-28",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0dc3cf0b7c",
+      "title": "The future of the firm",
+      "date": "2026-10-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-2fc8e689e4",
       "title": "Legora is building the agentic operating system for legal work",
       "date": "2026-10-28",
       "source": "OpenAI",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-41c97fe8dc",
+      "title": "Legora is building the agentic operating system for legal work",
+      "date": "2026-10-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-75e2017ed4",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "date": "2026-10-28",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7ae8eb2055",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "date": "2026-10-28",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b0da25ea6c",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "date": "2026-10-28",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },
