@@ -1,0 +1,14 @@
+{
+  "id": "gen-hf-014576526a",
+  "title": "Hugging Face model: mistralai/Mistral-Large-4-1T-A52B",
+  "date": "2026-09-30",
+  "summary": "Public model card for mistralai/Mistral-Large-4-1T-A52B (image-text-to-text).",
+  "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+  "source": "Hugging Face/mistralai",
+  "companyIds": [
+    "mistral"
+  ],
+  "modelIds": [],
+  "sourceType": "huggingface",
+  "generated": true
+}

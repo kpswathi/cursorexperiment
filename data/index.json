@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:30:19Z",
+  "generatedAt": "2026-10-30T12:21:54Z",
   "companies": [
     {
       "id": "01ai",
@@ -1965,8 +1965,62 @@
       "generated": true
     },
     {
+      "id": "gen-rss-2d99282896",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "date": "2026-10-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7bf0065ceb",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "date": "2026-10-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-85d975255b",
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a1765f446c",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d28967fce9",
+      "title": "How we detect frontier model misalignment",
+      "date": "2026-10-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e1c742c1d9",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "date": "2026-10-29",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f3538b6fb3",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
       "date": "2026-10-29",
       "source": "Hugging Face",
       "companyIds": [],
@@ -2821,6 +2875,16 @@
       "generated": true
     },
     {
+      "id": "gen-hf-0a07229af4",
+      "title": "Hugging Face model: mistralai/Mistral-Large-4-1T-A52B-NVFP4",
+      "date": "2026-10-15",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-3733c75a28",
       "title": "Welcome FLUX.3 Image Klein in Diffusers",
       "date": "2026-10-15",
@@ -3555,6 +3619,16 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-014576526a",
+      "title": "Hugging Face model: mistralai/Mistral-Large-4-1T-A52B",
+      "date": "2026-09-30",
+      "source": "Hugging Face/mistralai",
+      "companyIds": [
+        "mistral"
       ],
       "generated": true
     },

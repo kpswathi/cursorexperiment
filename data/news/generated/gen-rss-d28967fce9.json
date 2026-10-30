@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-d28967fce9",
+  "title": "How we detect frontier model misalignment",
+  "date": "2026-10-29",
+  "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
