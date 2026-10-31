@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-612d3f9752",
+  "title": "openai/openai-python v3.42.0",
+  "date": "2026-10-31",
+  "summary": "## [3.42.0](https://github.com/openai/openai-python/compare/v3.41.0...v3.42.0) (2026-10-31)\n\n\n### Features\n\n* **api:** add agent context compaction settings ([#4209](https://github.com/openai/openai-python/issues/4209)) ([f552fcf](https://github.com/openai/openai-python/commit/f552fcffcf774520e946121704b5fbbf7ba986e8))\n* **api:** add agent session review and tool settings ([#4217](https://github.c",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

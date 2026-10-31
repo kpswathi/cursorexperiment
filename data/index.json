@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:21:54Z",
+  "generatedAt": "2026-10-31T11:52:33Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,54 @@
   ],
   "news": [
     {
+      "id": "gen-gh-612d3f9752",
+      "title": "openai/openai-python v3.42.0",
+      "date": "2026-10-31",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-25cc4c9bb2",
+      "title": "Making it easier for websites to express AI training preferences",
+      "date": "2026-10-30",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b2263e9f84",
+      "title": "nemotron-halloween",
+      "date": "2026-10-30",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c7606af40d",
+      "title": "Community safety report and new protections for teens",
+      "date": "2026-10-30",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d2282bcce1",
+      "title": "Fair use benefits everyone",
+      "date": "2026-10-30",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-blog-ad10900db6",
       "title": "AI for Science expands to foundations and research institutions",
       "date": "2026-10-29",
@@ -1967,6 +2015,16 @@
     {
       "id": "gen-rss-2d99282896",
       "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "date": "2026-10-29",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6750c24614",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
       "date": "2026-10-29",
       "source": "OpenAI",
       "companyIds": [
