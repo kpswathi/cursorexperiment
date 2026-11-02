@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:51:58Z",
+  "generatedAt": "2026-11-02T15:03:20Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,32 @@
   ],
   "news": [
     {
+      "id": "gen-gh-8123445296",
+      "title": "openai/openai-python v3.42.1",
+      "date": "2026-11-01",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-gh-612d3f9752",
       "title": "openai/openai-python v3.42.0",
       "date": "2026-10-31",
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-094c331a98",
+      "title": "Speeding up planning decisions with AI",
+      "date": "2026-10-30",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },

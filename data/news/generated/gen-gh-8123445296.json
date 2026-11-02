@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-8123445296",
+  "title": "openai/openai-python v3.42.1",
+  "date": "2026-11-01",
+  "summary": "## [3.42.1](https://github.com/openai/openai-python/compare/v3.42.0...v3.42.1) (2026-11-01)\n\n\n### Bug Fixes\n\n* **api:** preserve Responses WebSocket connection behavior ([#4221](https://github.com/openai/openai-python/issues/4221)) ([38075d8](https://github.com/openai/openai-python/commit/38075d8c6d90ba03557e991eb75991e65cfee88b))\n* **realtime:** validate beta WebSocket authentication profiles ([#",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
