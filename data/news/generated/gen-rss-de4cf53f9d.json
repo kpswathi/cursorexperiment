@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-de4cf53f9d",
+  "title": "Scaling Git at OpenAI",
+  "date": "2026-11-02",
+  "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-598c6194c0",
+  "title": "Qodo builds context into AI code review with Codex",
+  "date": "2026-11-02",
+  "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+  "url": "https://openai.com/index/qodo-codex-plugin",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

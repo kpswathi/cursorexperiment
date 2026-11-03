@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-ed4b582536",
+  "title": "LifeVal",
+  "date": "2026-11-02",
+  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+  "url": "https://openai.com/index/lifeval",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

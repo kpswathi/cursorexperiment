@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:03:20Z",
+  "generatedAt": "2026-11-03T13:49:50Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,104 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-blog-95e7a57b90",
+      "title": "Product · Nov 2, 2026 Giving every team a data scientist with Grok Bot",
+      "date": "2026-11-03",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-08b710f1e7",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "date": "2026-11-03",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-fec0e46ceb",
+      "title": "Transformers Model Integration Contracts",
+      "date": "2026-11-03",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-19244c7aa2",
+      "title": "Introducing the Grid Protectors Program",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-262cfa35f4",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-598c6194c0",
+      "title": "Qodo builds context into AI code review with Codex",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6fd6ad7938",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-de4cf53f9d",
+      "title": "Scaling Git at OpenAI",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ed4b582536",
+      "title": "LifeVal",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ff138f709a",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "date": "2026-11-02",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-gh-8123445296",
       "title": "openai/openai-python v3.42.1",
