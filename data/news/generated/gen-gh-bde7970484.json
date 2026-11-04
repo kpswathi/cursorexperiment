@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-bde7970484",
+  "title": "openai/openai-python v3.44.0",
+  "date": "2026-11-03",
+  "summary": "## [3.44.0](https://github.com/openai/openai-python/compare/v3.43.0...v3.44.0) (2026-11-03)\n\n\n### Features\n\n* **api:** add workload identity providers and federation rules ([#4237](https://github.com/openai/openai-python/issues/4237)) ([12709d7](https://github.com/openai/openai-python/commit/12709d708ad03291d8a81371a55a4dadfbcce31d))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.44.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

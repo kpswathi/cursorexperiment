@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-3bb0fcf4cb",
+  "title": "openai/openai-python v3.45.0",
+  "date": "2026-11-04",
+  "summary": "## [3.45.0](https://github.com/openai/openai-python/compare/v3.44.0...v3.45.0) (2026-11-03)\n\n\n### Features\n\n* **api:** add 12-hour Responses caching and cache-write usage ([#4240](https://github.com/openai/openai-python/issues/4240)) ([5f717b5](https://github.com/openai/openai-python/commit/5f717b537b7c230e2a38d0cebb0d5ccc8f97d00b))\n* **api:** add project service tier settings ([#4239](https://git",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
