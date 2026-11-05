@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-43e1365d98",
+  "title": "openai/openai-python v3.46.0",
+  "date": "2026-11-05",
+  "summary": "## [3.46.0](https://github.com/openai/openai-python/compare/v3.45.0...v3.46.0) (2026-11-05)\n\n\n### Features\n\n* **api:** add Australia, India, and Japan residency options ([#4246](https://github.com/openai/openai-python/issues/4246)) ([2634b87](https://github.com/openai/openai-python/commit/2634b87c2f3d31960936cb0653e662356cd138a2))\n* **api:** add GPT-6 Rosalind to the model catalog ([#4243](https:/",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

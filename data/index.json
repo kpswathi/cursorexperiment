@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:57:08Z",
+  "generatedAt": "2026-11-05T14:15:05Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,10 +1955,96 @@
   ],
   "news": [
     {
+      "id": "gen-gh-43e1365d98",
+      "title": "openai/openai-python v3.46.0",
+      "date": "2026-11-05",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-89209ab642",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "date": "2026-11-05",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f935675761",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "date": "2026-11-05",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-gh-3bb0fcf4cb",
       "title": "openai/openai-python v3.45.0",
       "date": "2026-11-04",
       "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0a437d67f2",
+      "title": "Introducing Images 2.6",
+      "date": "2026-11-04",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3a06f84c0f",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "date": "2026-11-04",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5afc49da7b",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "date": "2026-11-04",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-75679f5aa6",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "date": "2026-11-04",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a4f4c423c5",
+      "title": "A thousand fewer paths to root",
+      "date": "2026-11-04",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-bf25be8f87",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "date": "2026-11-04",
+      "source": "OpenAI",
       "companyIds": [
         "openai"
       ],
@@ -2074,6 +2160,16 @@
       "date": "2026-11-03",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-7838c87736",
+      "title": "Hugging Face model: moonshotai/Kimi-K3.1-Pro",
+      "date": "2026-11-02",
+      "source": "Hugging Face/moonshotai",
+      "companyIds": [
+        "moonshot"
+      ],
       "generated": true
     },
     {
