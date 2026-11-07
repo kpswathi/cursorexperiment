@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:55:03Z",
+  "generatedAt": "2026-11-07T12:39:23Z",
   "companies": [
     {
       "id": "01ai",
@@ -1960,6 +1960,34 @@
       "date": "2026-11-06",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-bc8f9eac19",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "date": "2026-11-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-be1ba71e55",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "date": "2026-11-06",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cfd4354afa",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "date": "2026-11-06",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {
