@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:56:27Z",
+  "generatedAt": "2026-11-09T15:33:48Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,22 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-rss-057e22ab69",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "date": "2026-11-09",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7b1451fc78",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "date": "2026-11-09",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
     {
       "id": "gen-rss-82196d4ece",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
