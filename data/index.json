@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:33:48Z",
+  "generatedAt": "2026-11-10T14:31:20Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,66 @@
   ],
   "news": [
     {
+      "id": "gen-blog-85a32fe124",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "date": "2026-11-10",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-9329c9bd21",
+      "title": "openai/openai-python v3.49.0",
+      "date": "2026-11-10",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-01a8528fa1",
+      "title": "Closing the AI guidance gap in education",
+      "date": "2026-11-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-428ac4b42c",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "date": "2026-11-10",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-46ecb159c1",
+      "title": "Helping caregivers use AI in everyday life",
+      "date": "2026-11-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-e089b56dda",
+      "title": "openai/openai-python v3.48.0",
+      "date": "2026-11-09",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-057e22ab69",
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "date": "2026-11-09",
@@ -1963,11 +2023,51 @@
       "generated": true
     },
     {
+      "id": "gen-rss-23b94c6976",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "date": "2026-11-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-7b1451fc78",
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "date": "2026-11-09",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-932fe34bad",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "date": "2026-11-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9c331579e2",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "date": "2026-11-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f37b680abc",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "date": "2026-11-09",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {

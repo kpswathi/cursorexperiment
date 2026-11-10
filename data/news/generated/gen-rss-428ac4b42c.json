@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-428ac4b42c",
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "date": "2026-11-10",
+  "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+  "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "source": "Google DeepMind",
+  "companyIds": [
+    "google-deepmind"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

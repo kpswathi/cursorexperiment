@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-e089b56dda",
+  "title": "openai/openai-python v3.48.0",
+  "date": "2026-11-09",
+  "summary": "## [3.48.0](https://github.com/openai/openai-python/compare/v3.47.0...v3.48.0) (2026-11-09)\n\n\n### Features\n\n* **api:** add stream options for agent sessions ([#4251](https://github.com/openai/openai-python/issues/4251)) ([c6fc264](https://github.com/openai/openai-python/commit/c6fc264689d384d5caec150fafa1a9567c4a3f56))\n* **api:** recognize gpt-6-rosalind in beta Responses ([#4257](https://github.c",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.48.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
