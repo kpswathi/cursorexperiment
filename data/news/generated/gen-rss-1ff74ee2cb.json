@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-1ff74ee2cb",
+  "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "date": "2026-11-10",
+  "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+  "url": "https://openai.com/index/cogent-security",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

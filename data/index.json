@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:31:20Z",
+  "generatedAt": "2026-11-11T13:46:05Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,34 @@
   ],
   "news": [
     {
+      "id": "gen-rss-f28f90d289",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "date": "2026-11-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-80b38ea7da",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "date": "2026-11-11",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b22522d14a",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "date": "2026-11-11",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-85a32fe124",
       "title": "Anthropic launches roadshow for proposed initial public offering",
       "date": "2026-11-10",
@@ -1985,6 +2013,44 @@
       "generated": true
     },
     {
+      "id": "gen-rss-0b2e1c02de",
+      "title": "Gemini 4 Carbon is now available",
+      "date": "2026-11-10",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1ff74ee2cb",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "date": "2026-11-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3229de0d91",
+      "title": "Decision Models in Hugging Face",
+      "date": "2026-11-10",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3588ceed41",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "date": "2026-11-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-428ac4b42c",
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "date": "2026-11-10",
@@ -2002,6 +2068,34 @@
       "companyIds": [
         "openai"
       ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4e3e5904c8",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "date": "2026-11-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5ca4dc7b6d",
+      "title": "Introducing Businesses in ChatGPT",
+      "date": "2026-11-10",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-724fae9251",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "date": "2026-11-10",
+      "source": "Hugging Face",
+      "companyIds": [],
       "generated": true
     },
     {
@@ -2061,12 +2155,32 @@
       "generated": true
     },
     {
+      "id": "gen-rss-a98763b80c",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "date": "2026-11-09",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-f37b680abc",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "date": "2026-11-09",
       "source": "OpenAI",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-f96c882dac",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-H3-Image-PE",
+      "date": "2026-11-08",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
       ],
       "generated": true
     },
@@ -2317,6 +2431,16 @@
       "source": "GitHub/openai/openai-python",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-hf-1f1dbabb56",
+      "title": "Hugging Face model: MiniMaxAI/MiniMax-H3-Image",
+      "date": "2026-11-03",
+      "source": "Hugging Face/MiniMaxAI",
+      "companyIds": [
+        "minimax"
       ],
       "generated": true
     },
