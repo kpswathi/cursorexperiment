@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:46:05Z",
+  "generatedAt": "2026-11-12T14:49:26Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,60 @@
   ],
   "news": [
     {
+      "id": "gen-blog-9c7c8759ef",
+      "title": "Nov 2, 2026 Introducing Grok Bot 1.0 Bots now work with your whole team, take on work without being asked, and get more done, faster. Read More",
+      "date": "2026-11-12",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0990939c7d",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "date": "2026-11-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-56dac742ff",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "date": "2026-11-12",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-b06379671e",
+      "title": "Supporting research on AI and children’s safety",
+      "date": "2026-11-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-f28f90d289",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "date": "2026-11-12",
       "source": "OpenAI",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5b916f1bea",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "date": "2026-11-11",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },
@@ -1975,8 +2023,26 @@
       "generated": true
     },
     {
+      "id": "gen-rss-8c999d6885",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "date": "2026-11-11",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-b22522d14a",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "date": "2026-11-11",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d2296a64c0",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "date": "2026-11-11",
       "source": "Hugging Face",
       "companyIds": [],
