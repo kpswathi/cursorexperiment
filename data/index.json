@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:49:26Z",
+  "generatedAt": "2026-11-13T14:09:45Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,30 @@
   ],
   "news": [
     {
+      "id": "gen-rss-40e78db660",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "date": "2026-11-13",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-9c7c8759ef",
       "title": "Nov 2, 2026 Introducing Grok Bot 1.0 Bots now work with your whole team, take on work without being asked, and get more done, faster. Read More",
       "date": "2026-11-12",
       "source": "xAI",
       "companyIds": [
         "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-c251454bcd",
+      "title": "openai/openai-python v3.50.0",
+      "date": "2026-11-12",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },
@@ -1975,8 +1993,46 @@
       "generated": true
     },
     {
+      "id": "gen-rss-4bad5afe01",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "date": "2026-11-12",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-56dac742ff",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "date": "2026-11-12",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5b0f73df89",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "date": "2026-11-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-90d7922370",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "date": "2026-11-12",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a88bddb172",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "date": "2026-11-12",
       "source": "Hugging Face",
       "companyIds": [],
@@ -2143,6 +2199,16 @@
       "source": "OpenAI",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-51d2fad240",
+      "title": "Opening the datasets behind our AI weather models",
+      "date": "2026-11-10",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },

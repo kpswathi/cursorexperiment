@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-c251454bcd",
+  "title": "openai/openai-python v3.50.0",
+  "date": "2026-11-12",
+  "summary": "## [3.50.0](https://github.com/openai/openai-python/compare/v3.49.0...v3.50.0) (2026-11-12)\n\n\n### Features\n\n* **api:** expose reasoning input transformations on responses ([#4268](https://github.com/openai/openai-python/issues/4268)) ([734f75b](https://github.com/openai/openai-python/commit/734f75b5219da0fd74b24afefae81c71af81fcf6))\n\n\n### Chores\n\n* **deps:** bump astral-sh/setup-uv from 10.3.0 to ",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
