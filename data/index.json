@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T14:09:45Z",
+  "generatedAt": "2026-11-14T13:09:55Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,11 +1955,57 @@
   ],
   "news": [
     {
+      "id": "gen-gh-67f7225a3c",
+      "title": "openai/openai-python v3.51.0",
+      "date": "2026-11-13",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-2427bacb74",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "date": "2026-11-13",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-rss-40e78db660",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "date": "2026-11-13",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-5bf4951adb",
+      "title": "Introducing ChatGPT Wallet",
+      "date": "2026-11-13",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-8400bdfe1e",
+      "title": "XYBench: Helping with the problem behind the question",
+      "date": "2026-11-13",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d1318183fe",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "date": "2026-11-13",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {
