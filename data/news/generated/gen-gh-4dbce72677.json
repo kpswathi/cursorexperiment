@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-4dbce72677",
+  "title": "openai/openai-python v3.52.0",
+  "date": "2026-11-16",
+  "summary": "## [3.52.0](https://github.com/openai/openai-python/compare/v3.51.0...v3.52.0) (2026-11-16)\n\n\n### Features\n\n* **api:** add schedule pause reasons ([#4278](https://github.com/openai/openai-python/issues/4278)) ([a996ce2](https://github.com/openai/openai-python/commit/a996ce2df402c241d042f6d0164361536a99e31a))\n* **api:** deliver beta Agents session errors as stream events ([#4281](https://github.com",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.52.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

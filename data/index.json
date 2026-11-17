@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:10:16Z",
+  "generatedAt": "2026-11-17T15:40:04Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,54 @@
   ],
   "news": [
     {
+      "id": "gen-rss-58da9c66b1",
+      "title": "Introducing OpenAI for Chile",
+      "date": "2026-11-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-590cb0b9c5",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "date": "2026-11-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-4dbce72677",
+      "title": "openai/openai-python v3.52.0",
+      "date": "2026-11-16",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3899b6e8ee",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-853b24ff0d",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "date": "2026-11-16",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-rss-91e58e2ea9",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "date": "2026-11-16",
@@ -1975,6 +2023,16 @@
       "generated": true
     },
     {
+      "id": "gen-rss-b1c71d0787",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-cfcc7acb02",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "date": "2026-11-16",
@@ -1987,6 +2045,46 @@
     {
       "id": "gen-rss-e3915f7e4c",
       "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ebd9eb9496",
+      "title": "Our first phase of embedded assessments",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f054a54f82",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f26f2a4dfd",
+      "title": "Broadening access to AI for scientists",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f891bd93f3",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
       "date": "2026-11-16",
       "source": "OpenAI",
       "companyIds": [
