@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-8c3fdeb4f8",
+  "title": "openai/openai-python v3.53.0",
+  "date": "2026-11-17",
+  "summary": "## [3.53.0](https://github.com/openai/openai-python/compare/v3.52.0...v3.53.0) (2026-11-17)\n\n\n### Features\n\n* **api:** add 2-hour and 8-hour Responses background windows ([720bcb5](https://github.com/openai/openai-python/commit/720bcb501dff693e1a57af7ffddd1820e6f2075c))\n* **api:** add the GPT-6.2 Astra Law Responses model identifier ([720bcb5](https://github.com/openai/openai-python/commit/720bcb5",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.53.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

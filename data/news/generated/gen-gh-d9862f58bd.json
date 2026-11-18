@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-d9862f58bd",
+  "title": "openai/openai-python v3.55.0",
+  "date": "2026-11-18",
+  "summary": "## [3.55.0](https://github.com/openai/openai-python/compare/v3.54.0...v3.55.0) (2026-11-18)\n\n\n### Features\n\n* **api:** add Live MCP server configuration ([#4280](https://github.com/openai/openai-python/issues/4280)) ([f56a67f](https://github.com/openai/openai-python/commit/f56a67f1f0c844135261ece304a90d2ec2571d4b))\n* **api:** hide Managed Agents session budget controls and events ([#4289](https://",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.55.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

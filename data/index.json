@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:40:04Z",
+  "generatedAt": "2026-11-18T15:18:41Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,92 @@
   ],
   "news": [
     {
+      "id": "gen-blog-836276d41b",
+      "title": "Product · Nov 16, 2026 Building an accounting team with Grok Bot",
+      "date": "2026-11-18",
+      "source": "xAI",
+      "companyIds": [
+        "xai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-d9862f58bd",
+      "title": "openai/openai-python v3.55.0",
+      "date": "2026-11-18",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-679cee5ea1",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "date": "2026-11-18",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6cab9c8cd3",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "date": "2026-11-18",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-bf1424b145",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "date": "2026-11-18",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-8c3fdeb4f8",
+      "title": "openai/openai-python v3.53.0",
+      "date": "2026-11-17",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-baf4c9369d",
+      "title": "openai/openai-python v3.54.0",
+      "date": "2026-11-17",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-0604bc2b50",
+      "title": "Astra for Law leads in legal intelligence",
+      "date": "2026-11-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-549a77347d",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "date": "2026-11-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-58da9c66b1",
       "title": "Introducing OpenAI for Chile",
       "date": "2026-11-17",
@@ -1967,6 +2053,16 @@
     {
       "id": "gen-rss-590cb0b9c5",
       "title": "Strengthening NATO and allied cyber defenses with AI",
+      "date": "2026-11-17",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c6c361c53b",
+      "title": "Introducing ChatGPT for Sales",
       "date": "2026-11-17",
       "source": "OpenAI",
       "companyIds": [

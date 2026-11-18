@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-baf4c9369d",
+  "title": "openai/openai-python v3.54.0",
+  "date": "2026-11-17",
+  "summary": "## [3.54.0](https://github.com/openai/openai-python/compare/v3.53.0...v3.54.0) (2026-11-17)\n\n\n### Features\n\n* **api:** type Managed Agents budget events ([#4284](https://github.com/openai/openai-python/issues/4284)) ([c5da68a](https://github.com/openai/openai-python/commit/c5da68ac74ad2a4bf89c1248f6403b3123e568db))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.54.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
