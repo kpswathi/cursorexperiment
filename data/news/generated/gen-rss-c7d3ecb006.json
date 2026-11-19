@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-c7d3ecb006",
+  "title": "Advancing chip design with OpenAI models",
+  "date": "2026-11-18",
+  "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+  "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

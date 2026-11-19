@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-86a0e68cf0",
+  "title": "openai/openai-python v3.55.1",
+  "date": "2026-11-18",
+  "summary": "## [3.55.1](https://github.com/openai/openai-python/compare/v3.55.0...v3.55.1) (2026-11-18)\n\n\n### Chores\n\n* **api:** document CSAM moderation response fields ([#4290](https://github.com/openai/openai-python/issues/4290)) ([d6b93f3](https://github.com/openai/openai-python/commit/d6b93f36b6ad5a71ef81ebbe08cab72c3d12d7a8))\n* **deps-dev:** bump pytest-asyncio from 1.4.1 to 1.4.1.post1 ([#4274](https:/",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.55.1",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

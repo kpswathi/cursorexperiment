@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-53f2a14376",
+  "title": "Inside the Codex sandbox",
+  "date": "2026-11-18",
+  "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+  "url": "https://openai.com/index/inside-the-codex-sandbox",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
