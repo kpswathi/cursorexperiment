@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-a5f859415f",
+  "title": "openai/openai-python v3.56.0",
+  "date": "2026-11-19",
+  "summary": "## [3.56.0](https://github.com/openai/openai-python/compare/v3.55.1...v3.56.0) (2026-11-19)\n\n\n### Features\n\n* **api:** add gpt-live-1.1 to Live model choices ([#4294](https://github.com/openai/openai-python/issues/4294)) ([a51f139](https://github.com/openai/openai-python/commit/a51f13999c3546b1dd9a29d57ddde7f95ae389d6))",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.56.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

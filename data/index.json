@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:25:41Z",
+  "generatedAt": "2026-11-20T15:01:50Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,12 +1955,100 @@
   ],
   "news": [
     {
+      "id": "gen-blog-9afed0143c",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "date": "2026-11-20",
+      "source": "Anthropic",
+      "companyIds": [
+        "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-8cce77f8ab",
+      "title": "openai/openai-python v3.57.0",
+      "date": "2026-11-20",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-211fbe8009",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "date": "2026-11-20",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-blog-909b75797c",
       "title": "Anthropic prices initial public offering",
       "date": "2026-11-19",
       "source": "Anthropic",
       "companyIds": [
         "anthropic"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-a5f859415f",
+      "title": "openai/openai-python v3.56.0",
+      "date": "2026-11-19",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-4b08ec5026",
+      "title": "Deploying Daybreak Red",
+      "date": "2026-11-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-6687f7be62",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "date": "2026-11-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-a2fb003440",
+      "title": "Get started with Daybreak Blue",
+      "date": "2026-11-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-cb99e2baa6",
+      "title": "See PR scans in action",
+      "date": "2026-11-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-e29ac258c0",
+      "title": "Explore the Codex Security Plugin",
+      "date": "2026-11-19",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
       ],
       "generated": true
     },

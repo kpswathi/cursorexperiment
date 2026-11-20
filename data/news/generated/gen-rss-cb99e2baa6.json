@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-cb99e2baa6",
+  "title": "See PR scans in action",
+  "date": "2026-11-19",
+  "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}

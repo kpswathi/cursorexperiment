@@ -1,0 +1,14 @@
+{
+  "id": "gen-rss-4b08ec5026",
+  "title": "Deploying Daybreak Red",
+  "date": "2026-11-19",
+  "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "source": "OpenAI",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "rss",
+  "generated": true
+}
