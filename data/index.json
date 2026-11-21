@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:01:50Z",
+  "generatedAt": "2026-11-21T14:23:44Z",
   "companies": [
     {
       "id": "01ai",
@@ -1980,6 +1980,44 @@
       "date": "2026-11-20",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3ea993db7e",
+      "title": "Combatting adversarial distillation",
+      "date": "2026-11-20",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-80d31a6dee",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "date": "2026-11-20",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d15c456432",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "date": "2026-11-20",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f4784c3040",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "date": "2026-11-20",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {
