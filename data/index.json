@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:16:22Z",
+  "generatedAt": "2026-11-23T17:38:58Z",
   "companies": [
     {
       "id": "01ai",
@@ -1954,6 +1954,42 @@
     }
   ],
   "news": [
+    {
+      "id": "gen-rss-6fd4c32fe3",
+      "title": "How to build and maintain an agentic evaluation",
+      "date": "2026-11-23",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-9dddeb89e4",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "date": "2026-11-23",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ca38829e73",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "date": "2026-11-23",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-de5cd1a6d5",
+      "title": "Perplexity and Intelligence",
+      "date": "2026-11-22",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
     {
       "id": "gen-blog-9afed0143c",
       "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
