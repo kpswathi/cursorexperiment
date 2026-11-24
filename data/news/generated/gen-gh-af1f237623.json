@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-af1f237623",
+  "title": "openai/openai-python v3.58.0",
+  "date": "2026-11-23",
+  "summary": "## [3.58.0](https://github.com/openai/openai-python/compare/v3.57.0...v3.58.0) (2026-11-23)\n\n\n### Features\n\n* **api:** set and read agent session spending limits ([#4315](https://github.com/openai/openai-python/issues/4315)) ([fc36aef](https://github.com/openai/openai-python/commit/fc36aefb8f7809d0b91c65a9c3e424a6e7b8bc77))\n\n\n### Bug Fixes\n\n* **api:** clarify when to omit completion choice count (",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

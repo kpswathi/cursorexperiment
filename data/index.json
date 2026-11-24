@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:38:58Z",
+  "generatedAt": "2026-11-24T17:09:56Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,6 +1955,44 @@
   ],
   "news": [
     {
+      "id": "gen-rss-16565a3f5d",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "date": "2026-11-24",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-af1f237623",
+      "title": "openai/openai-python v3.58.0",
+      "date": "2026-11-23",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-1d0c151fef",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "date": "2026-11-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-680b35173b",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "date": "2026-11-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-6fd4c32fe3",
       "title": "How to build and maintain an agentic evaluation",
       "date": "2026-11-23",
@@ -1978,6 +2016,16 @@
       "date": "2026-11-23",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f8a4e02f42",
+      "title": "Connected intelligence for in-house legal",
+      "date": "2026-11-23",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {
