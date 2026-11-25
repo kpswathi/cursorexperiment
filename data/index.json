@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:09:56Z",
+  "generatedAt": "2026-11-25T16:56:11Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,11 +1955,79 @@
   ],
   "news": [
     {
+      "id": "gen-rss-d0a3a7f662",
+      "title": "An Indic Voice Agent with CUGA",
+      "date": "2026-11-25",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-gh-7152c56285",
+      "title": "openai/openai-python v3.59.0",
+      "date": "2026-11-24",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
       "id": "gen-rss-16565a3f5d",
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "date": "2026-11-24",
       "source": "Hugging Face",
       "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-3c6728c1bf",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "date": "2026-11-24",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-7a6462e387",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "date": "2026-11-24",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-99b93f3e10",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "date": "2026-11-24",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-ec442b764e",
+      "title": "How Intentful uses dots to make more time for growth",
+      "date": "2026-11-24",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-f3aa9260f1",
+      "title": "Searching for distant planets with Astra",
+      "date": "2026-11-24",
+      "source": "OpenAI",
+      "companyIds": [
+        "openai"
+      ],
       "generated": true
     },
     {

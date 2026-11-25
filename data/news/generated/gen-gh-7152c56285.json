@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-7152c56285",
+  "title": "openai/openai-python v3.59.0",
+  "date": "2026-11-24",
+  "summary": "## [3.59.0](https://github.com/openai/openai-python/compare/v3.58.0...v3.59.0) (2026-11-24)\n\n\n### Features\n\n* **api:** add healthcare model IDs for Responses ([#4327](https://github.com/openai/openai-python/issues/4327)) ([804a9af](https://github.com/openai/openai-python/commit/804a9af5a5199f36d28dfdf84c7981f0253a3a3f))\n\n\n### Bug Fixes\n\n* check the agent upload directory after path resolution ([#4",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.59.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}
