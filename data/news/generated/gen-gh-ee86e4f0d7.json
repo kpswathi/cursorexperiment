@@ -1,0 +1,14 @@
+{
+  "id": "gen-gh-ee86e4f0d7",
+  "title": "openai/openai-python v3.60.0",
+  "date": "2026-11-26",
+  "summary": "## [3.60.0](https://github.com/openai/openai-python/compare/v3.59.0...v3.60.0) (2026-11-26)\n\n\n### Features\n\n* **api:** add spend alerts and response compaction fields ([#4335](https://github.com/openai/openai-python/issues/4335)) ([4713afd](https://github.com/openai/openai-python/commit/4713afd081c42aa5f335d488393c6b404564d383))\n* **api:** support updating session vaults ([#4334](https://github.co",
+  "url": "https://github.com/openai/openai-python/releases/tag/v3.60.0",
+  "source": "GitHub/openai/openai-python",
+  "companyIds": [
+    "openai"
+  ],
+  "modelIds": [],
+  "sourceType": "github",
+  "generated": true
+}

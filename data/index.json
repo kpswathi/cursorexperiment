@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:56:11Z",
+  "generatedAt": "2026-11-26T16:34:37Z",
   "companies": [
     {
       "id": "01ai",
@@ -1955,8 +1955,58 @@
   ],
   "news": [
     {
+      "id": "gen-gh-ee86e4f0d7",
+      "title": "openai/openai-python v3.60.0",
+      "date": "2026-11-26",
+      "source": "GitHub/openai/openai-python",
+      "companyIds": [
+        "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-02a0884347",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "date": "2026-11-26",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-c01600d416",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "date": "2026-11-26",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d3aa48daa6",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "date": "2026-11-26",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-37b5c9ba93",
+      "title": "Where scientists draw the line on AI agents",
+      "date": "2026-11-25",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
       "id": "gen-rss-d0a3a7f662",
       "title": "An Indic Voice Agent with CUGA",
+      "date": "2026-11-25",
+      "source": "Hugging Face",
+      "companyIds": [],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-d8d6777ecf",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
       "date": "2026-11-25",
       "source": "Hugging Face",
       "companyIds": [],
@@ -2007,6 +2057,16 @@
       "source": "OpenAI",
       "companyIds": [
         "openai"
+      ],
+      "generated": true
+    },
+    {
+      "id": "gen-rss-dd94f7af62",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "date": "2026-11-24",
+      "source": "Google DeepMind",
+      "companyIds": [
+        "google-deepmind"
       ],
       "generated": true
     },
